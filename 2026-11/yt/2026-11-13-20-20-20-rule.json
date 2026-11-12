@@ -1,0 +1,11 @@
+{
+  "voice": "hf_alpha",
+  "speed": 1.0,
+  "scenes": [
+    {"big": "20-20-20", "en": "Eyes tired after your phone?", "ta": "மொபைல் பார்த்து கண் சோர்வா?", "say": "Eyes tired after using your phone all day? Try the twenty, twenty, twenty rule."},
+    {"big": "20 min", "en": "Every 20 minutes of screen time", "ta": "ஒவ்வொரு 20 நிமிடத்திற்கும்", "say": "Every twenty minutes of screen time,"},
+    {"big": "20 feet", "en": "Look at something 20 feet away", "ta": "20 அடி தூரத்தில் உள்ள பொருளைப் பாருங்கள்", "say": "look at something twenty feet away,"},
+    {"big": "20 sec", "en": "For 20 seconds. Blink often.", "ta": "20 வினாடிகள் பாருங்கள், அடிக்கடி கண் சிமிட்டுங்கள்", "say": "for twenty seconds, and blink often. This relaxes your eye's focusing muscles."},
+    {"en": "Still headaches or blurry vision? Get an eye test.", "ta": "தலைவலி தொடர்ந்தால் கண் பரிசோதனை அவசியம்", "say": "If you still get headaches or blurred vision, it's time for an eye test.", "image": "tools/assets/pro-3.jpg"}
+  ]
+}
