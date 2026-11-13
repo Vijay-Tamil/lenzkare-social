@@ -1,0 +1,11 @@
+{
+  "voice": "hm_omega",
+  "speed": 1.0,
+  "scenes": [
+    {"big": "14 NOV", "en": "Diabetes? Your eyes need a check", "ta": "சர்க்கரை நோய் இருக்கா? கண்ணையும் செக் பண்ணுங்க!", "say": "Have diabetes? Today is World Diabetes Day, and your eyes need a check too."},
+    {"en": "High sugar can damage tiny blood vessels in the retina", "ta": "அதிக சர்க்கரை விழித்திரையின் சிறு ரத்தநாளங்களை பாதிக்கலாம்", "say": "Over the years, high blood sugar can damage the tiny blood vessels in the retina, at the back of your eye."},
+    {"big": "No pain", "en": "Early changes often have no symptoms", "ta": "ஆரம்பத்தில் அறிகுறிகள் தெரியாமல் இருக்கலாம்", "say": "Early changes often cause no pain and no blur, so you may not notice them."},
+    {"big": "Every year", "en": "Get a retina check once a year", "ta": "வருடம் ஒருமுறை விழித்திரை பரிசோதனை செய்யுங்கள்", "say": "So get your retina checked by an eye specialist at least once a year, even if your vision feels fine."},
+    {"en": "Blurry vision or dark spots? See an eye specialist soon.", "ta": "பார்வை மங்கலாக இருக்கா? உடனே கண் மருத்துவரை பாருங்கள்", "say": "Blurry vision, floaters or dark spots? See an eye specialist soon. Keeping sugar and BP in control helps protect your eyes.", "image": "tools/assets/pro-2.jpg"}
+  ]
+}
