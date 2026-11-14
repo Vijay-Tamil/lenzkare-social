@@ -1,0 +1,12 @@
+{
+  "voice": "hf_beta",
+  "speed": 1.0,
+  "scenes": [
+    {"big": "3 signs", "en": "Is your child squinting at the TV?", "ta": "குழந்தை டிவி பார்க்கும்போது கண்ணை சுருக்குதா?", "say": "Is your child squinting at the TV? Watch for these three signs."},
+    {"big": "1", "en": "Sits very close to the TV or holds the phone near the face", "ta": "டிவி அருகில் உட்கார்ந்து பார்க்கிறார்களா?", "say": "One. Sitting very close to the TV, or holding the phone very near the face."},
+    {"big": "2", "en": "Squints or rubs the eyes often", "ta": "அடிக்கடி கண்ணை சுருக்குவது அல்லது தேய்ப்பது", "say": "Two. Squinting, or rubbing the eyes often."},
+    {"big": "3", "en": "Says the school board looks blurry", "ta": "பள்ளியில் போர்டு தெளிவாக தெரியவில்லையா?", "say": "Three. Saying the school board looks blurry, or getting headaches after study."},
+    {"big": "Play outside", "en": "Daily outdoor play and screen breaks help", "ta": "தினமும் வெளியில் விளையாட விடுங்கள்", "say": "Daily outdoor play and regular screen breaks are good habits for growing eyes."},
+    {"en": "Noticed a sign? Get your child's eyes tested.", "ta": "குழந்தைக்கு கண் பரிசோதனை செய்யுங்கள்", "say": "Noticed any of these signs? Get your child's eyes tested by an eye specialist.", "image": "tools/assets/pro-4.jpg"}
+  ]
+}
