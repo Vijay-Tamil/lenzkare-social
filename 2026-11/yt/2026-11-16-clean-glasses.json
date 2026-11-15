@@ -1,0 +1,12 @@
+{
+  "voice": "hf_alpha",
+  "speed": 1.0,
+  "scenes": [
+    {"big": "STOP!", "en": "Cleaning your glasses with your shirt?", "ta": "சட்டையில் கண்ணாடியை துடைக்காதீர்கள்!", "say": "Still cleaning your glasses with your shirt? Stop! Here is the right way.", "image": "tools/assets/pro-1.jpg"},
+    {"big": "Step 1", "en": "Rinse under plain running water", "ta": "முதலில் தண்ணீரில் கழுவுங்கள்", "say": "Step one. Rinse your glasses under plain running water to wash away dust."},
+    {"big": "Step 2", "en": "One drop of mild soap, rub gently", "ta": "ஒரு துளி சோப்பு, மெதுவாக கழுவுங்கள்", "say": "Step two. Add one drop of mild dish soap, rub gently with your fingers, and rinse again."},
+    {"big": "Step 3", "en": "Dry with a clean microfibre cloth", "ta": "மைக்ரோஃபைபர் துணியால் துடையுங்கள்", "say": "Step three. Dry them with a clean microfibre cloth."},
+    {"big": "Don't", "en": "Shirts and tissues can scratch your lenses", "ta": "சட்டை, டிஷ்யூ லென்ஸில் கீறல் ஏற்படுத்தும்", "say": "Don't use your shirt or tissue paper. They can scratch the lens. When you are not wearing your glasses, keep them in their case."},
+    {"en": "Scratched lenses or blurry vision? Get an eye test.", "ta": "பார்வை மங்கலா? கண் பரிசோதனை செய்யுங்கள்", "say": "Scratched lenses or blurry vision? Get your eyes tested by an eye specialist.", "image": "tools/assets/pro-3.jpg"}
+  ]
+}
