@@ -1,0 +1,11 @@
+{
+  "voice": "hm_omega",
+  "speed": 1.07,
+  "scenes": [
+    {"big": "MYTH or FACT?", "en": "3 eye myths you still believe", "ta": "கண் பற்றிய 3 கட்டுக்கதைகள்!", "say": "Three eye myths you probably still believe. Let's check them."},
+    {"big": "Myth 1", "en": "Reading in dim light ruins your eyes? Fact: it only tires them.", "ta": "மங்கலான வெளிச்சம் கண்ணை சோர்வாக்கும், கெடுக்காது", "say": "Myth one. Reading in dim light damages your eyes. Fact: it makes your eyes tired, but it does not cause permanent damage. Still, use good light for comfort."},
+    {"big": "Myth 2", "en": "Carrots can remove your glasses? Fact: food supports eyes, not your power.", "ta": "கேரட் நல்லது, ஆனால் கண் பவரை மாற்றாது", "say": "Myth two. Eating carrots will remove your glasses. Fact: a healthy diet supports your eyes, but it will not change your eye power."},
+    {"big": "Myth 3", "en": "Glasses make your eyes weaker? Fact: they help you see clearly.", "ta": "கண்ணாடி கண்ணை பலவீனமாக்காது", "say": "Myth three. Wearing glasses makes your eyes weaker. Fact: glasses do not weaken your eyes. They simply help you see clearly.", "image": "tools/assets/pro-2.jpg"},
+    {"en": "Blurry vision or eye strain? Get an eye test.", "ta": "சந்தேகமா? கண் பரிசோதனை செய்யுங்கள்", "say": "Blurry vision or tired eyes? Get your eyes tested by an eye specialist.", "image": "tools/assets/pro-3.jpg"}
+  ]
+}
