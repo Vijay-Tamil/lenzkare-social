@@ -18,7 +18,7 @@ Spec:
      "image": "tools/assets/pro-1.jpg",          # optional photo (product photo, or AI image in tools/assets/ai/)
      "full": true,                               # optional: photo fills the whole screen (Shorts only),
                                                  #   text sits on a dark gradient at the bottom;
-                                                 #   adds a small "AI-generated visual" label unless "ai_label": false
+                                                 #   no label on screen; only the LenzKare logo appears
      "big": "E  F  P"                            # optional extra-large text (eye-chart style)
     }
   ],
@@ -137,7 +137,7 @@ def render_full(sc, idx, n, W, H, out):
             d.rounded_rectangle((cx - tw / 2 - 24, y - 6, cx + tw / 2 + 24, y + f.size * 1.35), radius=18, fill=MINT)
             d.text((cx, y), ln, font=f, fill=TEAL_D, anchor="ma")
         y += h
-    if sc.get("ai_label", True):
+    if sc.get("ai_label", False):
         fs = font("Poppins-Bold.ttf", int(H * 0.014))
         d.text((M + 6, int(H * 0.058)), "AI-generated visual", font=fs, fill=(235, 245, 244), anchor="la")
     im.save(out)
@@ -245,7 +245,7 @@ def music(seconds, out):
         for f in ch:
             y[a:b] += env * (np.sin(2 * np.pi * f * tt) + 0.3 * np.sin(2 * np.pi * f * 2 * tt)) / 6
     # light pulse
-    y *= 0.85 + 0.15 * (np.sin(2 * np.pi * 2 * t) > 0)
+    y *= 0.9 + 0.1 * np.sin(2 * np.pi * 2 * t)
     fade = np.minimum(1, np.minimum(t / 1.5, (seconds - t) / 1.5))
     sf.write(out, (y * fade * 0.25).astype(np.float32), SR)
 
@@ -276,10 +276,16 @@ def main():
     for png, wav, dur in clips:
         if wav:
             s, _ = sf.read(wav, dtype="float32")
+            f = min(len(s) // 4, int(0.012 * SR))
+            if f > 0:
+                s[:f] *= np.linspace(0, 1, f); s[-f:] *= np.linspace(1, 0, f)
             a = int((pos + 0.15) * SR)
             vo[a:a + len(s)] += s[: len(vo) - a]
         pos += dur
-    sf.write(f"{tmp}/vo.wav", vo[: int(total * SR)], SR)
+    vo = vo[: int(total * SR)]
+    pk = float(np.abs(vo).max()) or 1.0
+    vo *= 0.6 / pk  # voice peaks at -4.4 dBFS: no clipping, mixed with music below
+    sf.write(f"{tmp}/vo.wav", vo, SR)
     music(total, f"{tmp}/music.wav")
     # video: each scene a slow zoom, concat
     parts = []
@@ -294,7 +300,7 @@ def main():
         fh.writelines(f"file '{p}'\n" for p in parts)
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", f"{tmp}/list.txt",
                     "-i", f"{tmp}/vo.wav", "-i", f"{tmp}/music.wav",
-                    "-filter_complex", "[1:a]volume=1.6[v];[2:a]volume=0.5[m];[v][m]amix=inputs=2:duration=first:normalize=0,aresample=44100[a]",
+                    "-filter_complex", "[1:a]volume=1.0[v];[2:a]volume=0.45[m];[v][m]amix=inputs=2:duration=first:normalize=0,alimiter=limit=0.89:level=false,aresample=44100[a]",
                     "-map", "0:v", "-map", "[a]", "-c:v", "copy", "-c:a", "aac", "-b:a", "160k", "-shortest", "-movflags", "+faststart", out], check=True)
     print(f"{out}  {total:.1f}s")
 
