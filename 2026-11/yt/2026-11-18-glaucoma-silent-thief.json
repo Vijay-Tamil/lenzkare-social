@@ -1,0 +1,11 @@
+{
+  "voice": "hm_psi",
+  "speed": 1.05,
+  "scenes": [
+    {"full": true, "image": "tools/assets/ai/2026-11-18-appa-newspaper.jpg", "big": "The silent eye thief", "en": "It steals sight with no pain and no warning.", "ta": "வலி இல்லாமல் பார்வையை திருடும்!", "say": "This eye problem steals your sight silently. No pain, no warning."},
+    {"big": "Glaucoma", "en": "It slowly damages the eye nerve. Side vision fades first.", "ta": "கண் நரம்பு மெதுவாக பாதிக்கப்படும்", "say": "It's called glaucoma. It slowly damages the nerve of the eye, and side vision fades first, so most people don't notice it."},
+    {"full": true, "image": "tools/assets/ai/2026-11-18-father-son-album.jpg", "big": "Family history?", "en": "If a parent or grandparent had it, your risk is higher.", "ta": "குடும்பத்தில் யாருக்காவது இருந்ததா?", "say": "If a parent or grandparent had glaucoma, your risk is higher. Age over forty and diabetes also raise the risk."},
+    {"big": "Lost sight won't return", "en": "But finding it early helps protect the sight you have.", "ta": "இழந்த பார்வை திரும்ப வராது", "say": "Vision lost to glaucoma does not come back. But finding it early helps protect the sight you have."},
+    {"full": true, "image": "tools/assets/ai/2026-11-18-father-son-booking.jpg", "big": "Check after 40", "en": "Book a full eye check with an eye specialist.", "ta": "40 வயதுக்கு மேல் கண் பரிசோதனை அவசியம்", "say": "So after forty, or with a family history, get a full eye check by an eye specialist. Book one for your parents today."}
+  ]
+}
