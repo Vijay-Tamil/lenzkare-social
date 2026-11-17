@@ -15,7 +15,10 @@ Spec:
     {"en": "Can you read this in 3 seconds?",   # big on-screen English line
      "ta": "3 வினாடியில் படிக்க முடியுமா?",       # Tamil line under it (optional)
      "say": "Can you read this line in three seconds?",  # voiceover (English)
-     "image": "tools/assets/pro-1.jpg",          # optional real photo (no AI images)
+     "image": "tools/assets/pro-1.jpg",          # optional photo (product photo, or AI image in tools/assets/ai/)
+     "full": true,                               # optional: photo fills the whole screen (Shorts only),
+                                                 #   text sits on a dark gradient at the bottom;
+                                                 #   adds a small "AI-generated visual" label unless "ai_label": false
      "big": "E  F  P"                            # optional extra-large text (eye-chart style)
     }
   ],
@@ -89,7 +92,59 @@ def photo_card(im, path, box):
     im.paste(sh.filter(ImageFilter.GaussianBlur(18)), (0, 0), sh.filter(ImageFilter.GaussianBlur(18)))
     im.paste(p, (x0, y0), m)
 
+def render_full(sc, idx, n, W, H, out):
+    """Full-screen photo scene: image covers the frame, dark gradient at the bottom, text on top of it."""
+    p = Image.open(sc["image"]).convert("RGB")
+    s = max(W / p.width, H / p.height)
+    p = p.resize((int(p.width * s) + 1, int(p.height * s) + 1), Image.LANCZOS)
+    l, t = (p.width - W) // 2, int((p.height - H) * sc.get("crop_y", 0.0))
+    im = p.crop((l, t, l + W, t + H))
+    y = np.linspace(0, 1, H)[:, None]
+    a = (np.clip((y - 0.36) / 0.30, 0, 1) ** 1.2 * 230 + np.clip((0.12 - y) / 0.12, 0, 1) * 110).astype(np.uint8)
+    shade = Image.fromarray(np.repeat(a, W, axis=1), "L")
+    dark = Image.new("RGB", (W, H), (4, 40, 37))
+    im = Image.composite(dark, im, shade)
+    d = ImageDraw.Draw(im)
+    M = int(W * 0.08)
+    bw = W - 2 * M
+    d.rounded_rectangle((M, int(H * 0.035), M + bw, int(H * 0.035) + 10), radius=5, fill=(180, 200, 198))
+    d.rounded_rectangle((M, int(H * 0.035), M + int(bw * (idx + 1) / n), int(H * 0.035) + 10), radius=5, fill="white")
+    logo_pill(im, W // 2, int(H * 0.065), int(H * 0.045))
+    textw = W - 2 * M
+    ops = []
+    if sc.get("big"):
+        fb = font("Poppins-Bold.ttf", int(H * 0.062))
+        for ln in wrap(d, sc["big"], fb, textw):
+            ops.append(("y", ln, fb, int(fb.size * 1.15)))
+        ops.append(("gap", "", None, int(H * 0.012)))
+    fe = font("Poppins-Bold.ttf", int(H * 0.037))
+    for ln in wrap(d, sc.get("en", ""), fe, textw):
+        ops.append(("w", ln, fe, int(fe.size * 1.25)))
+    if sc.get("ta"):
+        ops.append(("gap", "", None, int(H * 0.016)))
+        ft = font("Catamaran.ttf", int(H * 0.028))
+        for ln in wrap(d, sc["ta"], ft, textw - 60):
+            ops.append(("t", ln, ft, int(ft.size * 1.6)))
+    total = sum(o[3] for o in ops)
+    y = int(H * 0.80) - total  # keep clear of the Shorts UI at the bottom
+    cx = W // 2
+    for kind, ln, f, h in ops:
+        if kind in ("w", "y"):
+            d.text((cx + 3, y + 4), ln, font=f, fill=(0, 0, 0), anchor="ma")
+            d.text((cx, y), ln, font=f, fill=((253, 224, 71) if kind == "y" else "white"), anchor="ma")
+        elif kind == "t":
+            tw = d.textlength(ln, font=f)
+            d.rounded_rectangle((cx - tw / 2 - 24, y - 6, cx + tw / 2 + 24, y + f.size * 1.35), radius=18, fill=MINT)
+            d.text((cx, y), ln, font=f, fill=TEAL_D, anchor="ma")
+        y += h
+    if sc.get("ai_label", True):
+        fs = font("Poppins-Bold.ttf", int(H * 0.014))
+        d.text((M + 6, int(H * 0.058)), "AI-generated visual", font=fs, fill=(235, 245, 244), anchor="la")
+    im.save(out)
+
 def render_scene(sc, idx, n, W, H, out):
+    if sc.get("full") and sc.get("image") and W < H:
+        return render_full(sc, idx, n, W, H, out)
     im = bg(W, H)
     d = ImageDraw.Draw(im)
     land = W > H
