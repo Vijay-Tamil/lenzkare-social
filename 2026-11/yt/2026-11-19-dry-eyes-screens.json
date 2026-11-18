@@ -1,0 +1,12 @@
+{
+  "voice": "hf_beta",
+  "speed": 1.05,
+  "scenes": [
+    {"full": true, "image": "tools/assets/ai/2026-11-19-woman-laptop-tired.jpg", "big": "Eyes dry after screens?", "en": "Burning, gritty, tired eyes by evening?", "ta": "கண் எரிச்சல், வறட்சியா?", "say": "Do your eyes feel dry and gritty after hours on screens?"},
+    {"big": "Why?", "en": "We blink much less when we stare at a screen.", "ta": "திரை பார்க்கும்போது கண் சிமிட்டுவது குறையும்", "say": "Here's why. When we stare at a screen, we blink much less, so the eyes dry out."},
+    {"full": true, "image": "tools/assets/ai/2026-11-19-woman-desk-setup.jpg", "big": "DO", "en": "Blink fully, drink water, keep the screen a little below eye level.", "ta": "அடிக்கடி கண் சிமிட்டுங்கள், தண்ணீர் குடியுங்கள்", "say": "Do: blink fully and often, drink enough water, and keep the screen at arm's length, a little below eye level."},
+    {"big": "DON'T", "en": "Don't face the fan or AC. Don't rub your eyes. No drops without advice.", "ta": "ஃபேன், ஏசி காற்று நேராக கண்ணில் படக்கூடாது", "say": "Don't sit with the fan or AC blowing on your face. Don't rub your eyes, and don't use eye drops without advice."},
+    {"full": true, "image": "tools/assets/ai/2026-11-19-woman-window.jpg", "big": "Take screen breaks", "en": "Look far away and let your eyes rest.", "ta": "இடையிடையே தூரத்தைப் பாருங்கள்", "say": "Take short breaks. Look far away and let your eyes rest."},
+    {"big": "Still dry or red?", "en": "Get an eye test and see an eye specialist.", "ta": "தொடர்ந்தால் கண் மருத்துவரை அணுகுங்கள்", "say": "Still dry, red or blurry? Get an eye test, and see an eye specialist."}
+  ]
+}

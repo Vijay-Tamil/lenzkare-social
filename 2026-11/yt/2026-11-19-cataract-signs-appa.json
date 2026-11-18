@@ -1,0 +1,12 @@
+{
+  "voice": "hm_omega",
+  "speed": 1.05,
+  "scenes": [
+    {"full": true, "image": "tools/assets/ai/2026-11-19-appa-wiping-glasses.jpg", "big": "Appa keeps wiping his glasses", "en": "But everything still looks hazy...", "ta": "கண்ணாடியை துடைத்தும் மங்கலா தெரியுதா?", "say": "Appa keeps wiping his glasses, but everything still looks hazy."},
+    {"full": true, "image": "tools/assets/ai/2026-11-19-appa-headlight-glare.jpg", "big": "Night lights look too bright", "en": "Glare and halos around lights at night.", "ta": "இரவில் விளக்குகள் கண்ணை கூசுதா?", "say": "At night, lights look too bright, with glare around them."},
+    {"big": "Could be cataract", "en": "With age, the clear lens inside the eye slowly turns cloudy.", "ta": "வயதாகும்போது கண் லென்ஸ் மங்கலாகலாம்", "say": "These can be signs of cataract. With age, the clear lens inside the eye slowly turns cloudy."},
+    {"big": "More signs", "en": "Faded colours. Glasses power changing often. Double vision in one eye.", "ta": "நிறம் மங்குவது, பவர் அடிக்கடி மாறுவது", "say": "Other signs: colours look faded, the glasses power keeps changing, or double vision in one eye."},
+    {"full": true, "image": "tools/assets/ai/2026-11-19-daughter-appa-phone.jpg", "big": "Don't ignore it", "en": "Book an eye test for your parents.", "ta": "அப்பா அம்மாவுக்கு கண் பரிசோதனை செய்யுங்கள்", "say": "So his daughter booked him an eye test. If you notice these signs in your parents, don't ignore them."},
+    {"full": true, "image": "tools/assets/ai/2026-11-19-daughter-appa-veranda.jpg", "big": "Check early", "en": "An eye specialist can advise the right treatment.", "ta": "சரியான நேரத்தில் பரிசோதனை அவசியம்", "say": "Get their eyes checked, and see an eye specialist, who can advise the right treatment at the right time."}
+  ]
+}
