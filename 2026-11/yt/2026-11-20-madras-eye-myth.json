@@ -1,0 +1,48 @@
+{
+ "voice": "hf_alpha",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-20-son-sunglasses-sofa.jpg",
+   "big": "Madras eye by just looking?",
+   "en": "Myth or fact?",
+   "ta": "பார்த்தாலே மெட்ராஸ் ஐ வருமா?",
+   "say": "Can Madras eye spread just by looking at someone? Let's find out."
+  },
+  {
+   "big": "MYTH",
+   "en": "It spreads through hands, towels and things we touch, not by looking.",
+   "ta": "பார்ப்பதால் பரவாது, தொடுவதால் பரவும்",
+   "say": "That's a myth. Conjunctivitis, the eye infection we call Madras eye, spreads through hands, towels and things we touch, not by looking at someone."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-20-amma-son-handwash.jpg",
+   "big": "Wash hands often",
+   "en": "Use soap, and don't touch or rub your eyes.",
+   "ta": "அடிக்கடி சோப்பால் கை கழுவுங்கள்",
+   "say": "So wash your hands with soap often, and don't touch or rub your eyes."
+  },
+  {
+   "big": "Don't share",
+   "en": "Keep a separate towel and pillow. Don't share eye makeup or eye drops.",
+   "ta": "டவல், தலையணை தனியாக வையுங்கள்",
+   "say": "Keep a separate towel and pillow, and don't share eye makeup or eye drops."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-20-amma-son-balcony.jpg",
+   "big": "Dark glasses?",
+   "en": "They ease the glare, but clean hands stop the spread.",
+   "ta": "கருப்பு கண்ணாடி பரவலை தடுக்காது",
+   "say": "Dark glasses can make light more comfortable, but they don't stop the spread. Clean hands do."
+  },
+  {
+   "big": "Red, painful eyes?",
+   "en": "Don't use drops on your own. See an eye specialist.",
+   "ta": "நீங்களாக சொட்டு மருந்து போடாதீர்கள்",
+   "say": "Red, sticky or painful eyes? Don't put drops on your own. See an eye specialist and get an eye test."
+  }
+ ]
+}

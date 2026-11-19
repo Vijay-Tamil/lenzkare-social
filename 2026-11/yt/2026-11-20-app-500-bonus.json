@@ -1,0 +1,48 @@
+{
+ "voice": "hm_psi",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-20-karthik-phone-sofa.jpg",
+   "big": "₹500 off your new glasses?",
+   "en": "Here's how, in 3 steps.",
+   "ta": "புது கண்ணாடிக்கு 500 ரூபாய் போனஸ்!",
+   "say": "Want five hundred rupees off your new glasses? Here's how, in three steps."
+  },
+  {
+   "big": "1. Get the app",
+   "en": "Download the LenzKare app from Google Play.",
+   "ta": "LenzKare ஆப்பை டவுன்லோட் செய்யுங்கள்",
+   "say": "Step one: download the LenzKare app from Google Play."
+  },
+  {
+   "big": "2. Order ₹1,500+",
+   "en": "Use your ₹500 joining bonus on your first app order of ₹1,500 or more.",
+   "ta": "முதல் ஆர்டர் 1,500 ரூபாய்க்கு மேல்",
+   "say": "Step two: use your five hundred rupee joining bonus on your first app order of fifteen hundred rupees or more."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-20-karthik-parcel.jpg",
+   "big": "3. Within 30 days",
+   "en": "Use the bonus within 30 days of downloading.",
+   "ta": "30 நாட்களுக்குள் பயன்படுத்துங்கள்",
+   "say": "Step three: use it within thirty days of downloading the app. Then sit back and get your glasses delivered."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-20-karthik-amma-mirror.jpg",
+   "big": "+ Buy 1 Get 1 FREE",
+   "en": "Works with Buy 1 Get 1 FREE on spectacles with Fusion lenses.",
+   "ta": "1 வாங்கினால் 1 இலவசம் சேர்த்து!",
+   "say": "And it works with buy one get one free on spectacles with Fusion lenses, so the second pair can be for your mother."
+  },
+  {
+   "big": "Not sure of your power?",
+   "en": "Free eye test in store. Home eye test in Chennai: ₹100 for the whole family.",
+   "ta": "வீட்டில் முழு குடும்பத்துக்கும் கண் பரிசோதனை 100 ரூபாய்",
+   "say": "Not sure of your power? The eye test in our store is free, and our home eye test in Chennai is one hundred rupees for the whole family."
+  }
+ ]
+}
