@@ -1,0 +1,48 @@
+{
+ "voice": "hm_psi",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-21-arun-rubbing-eyes.jpg",
+   "big": "Stop rubbing your eyes!",
+   "en": "3 reasons, and what to do instead.",
+   "ta": "கண்ணை கசக்காதீர்கள்!",
+   "say": "Do you rub your eyes when they feel tired or itchy? Stop! Here are three reasons."
+  },
+  {
+   "big": "1. Germs",
+   "en": "Your hands carry germs that can cause eye infections.",
+   "ta": "கையில் உள்ள கிருமி கண்ணுக்கு போகும்",
+   "say": "One. Your hands carry germs that can cause eye infections."
+  },
+  {
+   "big": "2. More itching",
+   "en": "Rubbing makes itching and redness worse, not better.",
+   "ta": "கசக்கினால் அரிப்பு இன்னும் அதிகமாகும்",
+   "say": "Two. Rubbing makes itching and redness worse, not better."
+  },
+  {
+   "big": "3. Harms the cornea",
+   "en": "Hard, frequent rubbing can scratch and weaken the clear front of the eye.",
+   "ta": "கண்ணின் முன் பகுதியை பாதிக்கலாம்",
+   "say": "Three. Hard, frequent rubbing can scratch and weaken the cornea, the clear front window of the eye."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-21-arun-handwash.jpg",
+   "big": "Do this instead",
+   "en": "Wash your hands, then rinse your eyes with clean water.",
+   "ta": "கை கழுவி, சுத்தமான தண்ணீரில் கண்ணை கழுவுங்கள்",
+   "say": "Instead, wash your hands, then gently rinse your eyes with clean water. A clean, cool cloth over closed eyes can also soothe them."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-21-arun-cool-cloth.jpg",
+   "big": "Itchy eyes often?",
+   "en": "Don't use drops on your own. See an eye specialist.",
+   "ta": "அடிக்கடி அரிப்பா? கண் மருத்துவரை பாருங்கள்",
+   "say": "If your eyes itch often, don't use drops on your own. See an eye specialist and get an eye test."
+  }
+ ]
+}

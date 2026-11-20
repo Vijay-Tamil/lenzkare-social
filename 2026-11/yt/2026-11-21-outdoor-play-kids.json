@@ -1,0 +1,48 @@
+{
+ "voice": "hf_beta",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-21-girl-tablet-sofa.jpg",
+   "big": "Tablet all weekend?",
+   "en": "Meena held it closer and closer...",
+   "ta": "விடுமுறை முழுக்க டேப்லெட்டா?",
+   "say": "It's the weekend, and Meena has been on the tablet all day, holding it closer and closer."
+  },
+  {
+   "big": "Up close, all day",
+   "en": "Long hours of close-up screens and little daylight are linked to short-sight in kids.",
+   "ta": "குழந்தைகளுக்கு கிட்டப்பார்வை வரலாம்",
+   "say": "Long hours on screens up close, with very little daylight, is linked to short sight in children."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-21-girl-ball-park.jpg",
+   "big": "\"Let's go out and play!\"",
+   "en": "Daylight and looking far away are good for growing eyes.",
+   "ta": "வெளியே விளையாடுவது கண்ணுக்கு நல்லது",
+   "say": "So Amma said, let's go out and play! Daylight and looking far away are good for growing eyes."
+  },
+  {
+   "big": "About 2 hours a day",
+   "en": "Studies show outdoor time can help lower the risk of short-sight in children.",
+   "ta": "தினமும் சுமார் 2 மணி நேரம் வெளியே விளையாடட்டும்",
+   "say": "Studies show that about two hours outdoors every day can help lower the risk of short sight in children."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-21-girl-cycle-park.jpg",
+   "big": "Screens? Take breaks",
+   "en": "Keep screens at a good distance and look far away often.",
+   "ta": "திரையை கண் அருகில் வைக்காதீர்கள்",
+   "say": "And when they do use screens, keep them at a good distance and take short breaks."
+  },
+  {
+   "big": "Yearly eye test",
+   "en": "Kids rarely complain. See an eye specialist if you notice any problem.",
+   "ta": "வருடம் ஒருமுறை கண் பரிசோதனை செய்யுங்கள்",
+   "say": "Children rarely complain about blurry vision. So get their eyes tested every year, and see an eye specialist if you notice any problem."
+  }
+ ]
+}
