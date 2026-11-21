@@ -1,0 +1,137 @@
+{
+ "voice": "hf_beta",
+ "speed": 1.0,
+ "scenes": [
+  {
+   "image": "tools/assets/ai/2026-11-22-suresh-phone-arm.jpg",
+   "big": "Progressive lenses explained",
+   "en": "One pair of glasses for far, middle and near.",
+   "ta": "புரோகிரசிவ் லென்ஸ் – எளிய விளக்கம்",
+   "say": "Holding your phone at arm's length to read it? In this video, we explain progressive lenses: one pair of glasses for far, middle and near vision."
+  },
+  {
+   "big": "After 40, near vision changes",
+   "en": "This is called presbyopia. It happens to almost everyone.",
+   "ta": "40 வயதுக்கு மேல் அருகில் உள்ளவை தெளிவாக தெரியாது",
+   "say": "After about forty, the lens inside the eye slowly becomes less flexible, so focusing up close gets harder. This is called presbyopia, and it happens to almost everyone."
+  },
+  {
+   "image": "tools/assets/visuals/lens-types-3.jpg",
+   "big": "3 lens choices",
+   "en": "Single vision, bifocal and progressive.",
+   "ta": "மூன்று வகை லென்ஸ்கள்",
+   "say": "Once you need help for both distance and near, there are three main choices: single vision, bifocal, and progressive."
+  },
+  {
+   "big": "Single vision",
+   "en": "One power across the whole lens. Great for one distance.",
+   "ta": "ஒரே பவர் – ஒரு தூரத்துக்கு மட்டும்",
+   "say": "Single vision lenses have one power across the whole lens. They are great for one distance, but you may need two pairs and keep switching between them."
+  },
+  {
+   "big": "Bifocal",
+   "en": "Two zones with a visible line: distance on top, reading below.",
+   "ta": "பைஃபோகல் – மேலே தூரம், கீழே படிக்க",
+   "say": "Bifocals have two zones with a visible line: distance on top, and reading below. Middle distances, like a computer screen, can fall in between."
+  },
+  {
+   "image": "tools/assets/visuals/progressive-zones.jpg",
+   "big": "Progressive",
+   "en": "No line. The power changes smoothly from top to bottom.",
+   "ta": "கோடு இல்லை, பவர் மெதுவாக மாறும்",
+   "say": "Progressive lenses have no visible line. The power changes smoothly from the top of the lens to the bottom, so you can see far, middle and near with one pair."
+  },
+  {
+   "big": "Top: far",
+   "en": "Driving, TV, faces across the room.",
+   "ta": "மேல் பகுதி – தூரப் பார்வை",
+   "say": "Look through the top of the lens for distance: driving, watching TV, or seeing faces across the room."
+  },
+  {
+   "image": "tools/assets/ai/2026-11-22-suresh-office.jpg",
+   "big": "Middle: computer",
+   "en": "A narrow corridor for arm's-length tasks.",
+   "ta": "நடுப் பகுதி – கம்ப்யூட்டர்",
+   "say": "The middle corridor is for arm's length: your computer screen, the car dashboard, or a shop counter."
+  },
+  {
+   "big": "Bottom: reading",
+   "en": "Phone, newspaper, price tags.",
+   "ta": "கீழ் பகுதி – படிக்க",
+   "say": "Lower your eyes to the bottom of the lens to read your phone, the newspaper, or price tags."
+  },
+  {
+   "big": "The sides are soft",
+   "en": "Every progressive has some blur at the sides. That's normal.",
+   "ta": "பக்கங்களில் சிறிது மங்கல் – இது இயல்பு",
+   "say": "Every progressive lens has some blur at the lower sides. That is normal. You learn to turn your head, not just your eyes, toward what you want to see."
+  },
+  {
+   "big": "Wider design, wider clear view",
+   "en": "Fusion progressives: Narrow, Wide, Custom HD and Individual designs.",
+   "ta": "அகலமான டிசைன் = அதிக தெளிவான பகுதி",
+   "say": "Progressive designs differ in how wide the clear zones are. At our store, Fusion progressives come in Narrow, Wide, Custom HD and Individual designs. Wider designs give a wider clear view, though the edges are never completely clear. We also offer progressive lenses from leading international brands."
+  },
+  {
+   "big": "The first 1–2 weeks",
+   "en": "Wear them all day. Point your nose at what you look at.",
+   "ta": "முதல் 1–2 வாரம் முழு நாளும் அணியுங்கள்",
+   "say": "Most people get used to progressives within a week or two. Wear them all day, point your nose toward what you're looking at, and lower your eyes, not your head, to read."
+  },
+  {
+   "image": "tools/assets/ai/2026-11-22-suresh-stairs.jpg",
+   "big": "On stairs: tilt your head",
+   "en": "Look through the top part, not the reading zone.",
+   "ta": "படிக்கட்டில் தலையை சற்று குனியுங்கள்",
+   "say": "On stairs, tilt your head down a little, so you look through the distance part, not the reading zone. Hold the handrail at first."
+  },
+  {
+   "big": "Good fitting matters",
+   "en": "Accurate PD and fitting height put each zone right in front of your eyes.",
+   "ta": "சரியான அளவீடு மிக முக்கியம்",
+   "say": "Good fitting matters most. Your pupil distance and fitting height must be measured carefully, so each zone sits right in front of your eyes. A frame with enough lens height also helps."
+  },
+  {
+   "big": "Myth: only for old people",
+   "en": "Fact: progressives help anyone whose near vision has changed, often from the early 40s.",
+   "ta": "கட்டுக்கதை: வயதானவர்களுக்கு மட்டும்",
+   "say": "Myth number one: progressives are only for old people. Fact: they help anyone whose near vision has started to change, which is often in the early forties."
+  },
+  {
+   "big": "Myth: glasses weaken eyes",
+   "en": "Fact: near focus changes with age anyway. Glasses just help you see clearly.",
+   "ta": "கண்ணாடி கண்ணை பலவீனமாக்காது",
+   "say": "Myth number two: wearing glasses makes your eyes weaker. Fact: near focus changes with age anyway. Glasses simply help you see clearly and comfortably."
+  },
+  {
+   "big": "Care for your lenses",
+   "en": "Rinse with water, wipe with a microfibre cloth, keep them in a case.",
+   "ta": "தண்ணீரில் கழுவி, மென்மையான துணியால் துடையுங்கள்",
+   "say": "Take care of your lenses. Rinse them with water, wipe them with a clean microfibre cloth, and keep them in a case, not face down on the table."
+  },
+  {
+   "big": "Check every 1–2 years",
+   "en": "Your power can change. Regular eye tests keep every zone accurate.",
+   "ta": "1–2 வருடத்துக்கு ஒருமுறை கண் பரிசோதனை",
+   "say": "Your power can keep changing with age, so get your eyes tested every one to two years, or sooner if anything feels different."
+  },
+  {
+   "big": "Is it right for you?",
+   "en": "Over 40 and juggling two pairs? Get an eye test first.",
+   "ta": "இரண்டு கண்ணாடி மாற்றுகிறீர்களா? முதலில் கண் பரிசோதனை",
+   "say": "If you are over forty and juggling two pairs of glasses, progressives may suit you. But first, get a complete eye test, so your power is accurate."
+  },
+  {
+   "big": "Buy 1 Get 1 FREE",
+   "en": "on spectacles with LenzKare Fusion lenses. Home eye test in Chennai: ₹100 for the whole family.",
+   "ta": "Fusion லென்ஸ் கண்ணாடிகளுக்கு 1 வாங்கினால் 1 இலவசம்",
+   "say": "Spectacles with Fusion lenses are buy one, get one free. Visit our store, or book a home eye test in Chennai, just one hundred rupees for the whole family."
+  },
+  {
+   "big": "See an eye specialist",
+   "en": "This video is general information, not a diagnosis.",
+   "ta": "உங்கள் கண்களுக்கு கண் பரிசோதனை செய்துகொள்ளுங்கள்",
+   "say": "This video is general information. For your own eyes, see an eye specialist and get an eye test. Subscribe for more eye-care tips."
+  }
+ ]
+}
