@@ -1,0 +1,42 @@
+{
+ "voice": "hf_alpha",
+ "speed": 1.0,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-22-paati-album-squint.jpg",
+   "big": "Paati couldn't see her photos",
+   "en": "But going out to a clinic is hard at 80.",
+   "ta": "பாட்டிக்கு போட்டோ சரியா தெரியல",
+   "say": "Grandma couldn't see her old family photos anymore. But at eighty, going out to an eye clinic is hard."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-22-divya-paati-booking.jpg",
+   "big": "So Divya booked a home eye test",
+   "en": "One WhatsApp message. We come to your home.",
+   "ta": "வீட்டிலேயே கண் பரிசோதனை",
+   "say": "So Divya booked a home eye test with one WhatsApp message. Our optometrist comes to your home."
+  },
+  {
+   "big": "₹100",
+   "en": "for the whole family. Everyone at home gets their eyes checked.",
+   "ta": "முழு குடும்பத்துக்கும் 100 ரூபாய் மட்டுமே",
+   "say": "Just one hundred rupees for the whole family. Everyone at home gets their eyes checked."
+  },
+  {
+   "big": "Buy 1 Get 1 FREE",
+   "en": "on spectacles with LenzKare Fusion lenses.",
+   "ta": "Fusion லென்ஸ் கண்ணாடிகளுக்கு 1 வாங்கினால் 1 இலவசம்",
+   "say": "And spectacles with Fusion lenses are buy one, get one free."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-22-paati-new-glasses.jpg",
+   "big": "Paati sees her memories again",
+   "en": "Book on WhatsApp: 044 4356 9998",
+   "ta": "இப்போ பாட்டிக்கு எல்லாம் தெளிவா தெரியுது!",
+   "say": "Now Grandma sees her memories clearly again. Book a home eye test in Chennai on WhatsApp today."
+  }
+ ]
+}
