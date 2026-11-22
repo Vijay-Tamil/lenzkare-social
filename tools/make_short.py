@@ -19,7 +19,11 @@ Spec:
      "full": true,                               # optional: photo fills the whole screen (Shorts only),
                                                  #   text sits on a dark gradient at the bottom;
                                                  #   no label on screen; only the LenzKare logo appears
-     "big": "E  F  P"                            # optional extra-large text (eye-chart style)
+     "big": "E  F  P",                           # optional extra-large text (eye-chart style)
+     "video": "tools/assets/clips/x.mp4",        # optional: a video clip (AI clip or Vijay's real home eye test
+                                                 #   clip) fills the screen instead of a photo; same text overlay
+                                                 #   as "full"; looped/trimmed to the voiceover length; its own
+                                                 #   sound is dropped. "video_start": seconds to skip at the start.
     }
   ],
   "cta": true                      # append the standard LenzKare closing card (default true)
@@ -93,17 +97,22 @@ def photo_card(im, path, box):
     im.paste(p, (x0, y0), m)
 
 def render_full(sc, idx, n, W, H, out):
-    """Full-screen photo scene: image covers the frame, dark gradient at the bottom, text on top of it."""
-    p = Image.open(sc["image"]).convert("RGB")
-    s = max(W / p.width, H / p.height)
-    p = p.resize((int(p.width * s) + 1, int(p.height * s) + 1), Image.LANCZOS)
-    l, t = (p.width - W) // 2, int((p.height - H) * sc.get("crop_y", 0.0))
-    im = p.crop((l, t, l + W, t + H))
+    """Full-screen photo scene: image covers the frame, dark gradient at the bottom, text on top of it.
+    For a "video" scene it writes a transparent overlay PNG (gradient + text + logo) to lay over the clip."""
     y = np.linspace(0, 1, H)[:, None]
     a = (np.clip((y - 0.36) / 0.30, 0, 1) ** 1.2 * 230 + np.clip((0.12 - y) / 0.12, 0, 1) * 110).astype(np.uint8)
     shade = Image.fromarray(np.repeat(a, W, axis=1), "L")
-    dark = Image.new("RGB", (W, H), (4, 40, 37))
-    im = Image.composite(dark, im, shade)
+    if sc.get("video"):
+        im = Image.new("RGBA", (W, H), (4, 40, 37, 0))
+        im.putalpha(shade)
+    else:
+        p = Image.open(sc["image"]).convert("RGB")
+        s = max(W / p.width, H / p.height)
+        p = p.resize((int(p.width * s) + 1, int(p.height * s) + 1), Image.LANCZOS)
+        l, t = (p.width - W) // 2, int((p.height - H) * sc.get("crop_y", 0.0))
+        im = p.crop((l, t, l + W, t + H))
+        dark = Image.new("RGB", (W, H), (4, 40, 37))
+        im = Image.composite(dark, im, shade)
     d = ImageDraw.Draw(im)
     M = int(W * 0.08)
     bw = W - 2 * M
@@ -143,7 +152,7 @@ def render_full(sc, idx, n, W, H, out):
     im.save(out)
 
 def render_scene(sc, idx, n, W, H, out):
-    if sc.get("full") and sc.get("image") and W < H:
+    if sc.get("video") or (sc.get("full") and sc.get("image") and W < H):
         return render_full(sc, idx, n, W, H, out)
     im = bg(W, H)
     d = ImageDraw.Draw(im)
@@ -263,17 +272,17 @@ def main():
         png, wav = f"{tmp}/s{i}.png", f"{tmp}/s{i}.wav"
         render_scene(sc, i, n, W, H, png)
         dur = tts(sc["say"], voice, speed, wav) + 0.35 if sc.get("say") else sc.get("seconds", 2.5)
-        clips.append((png, wav if sc.get("say") else None, dur))
+        clips.append((png, wav if sc.get("say") else None, dur, sc.get("video"), sc.get("video_start", 0)))
     if spec.get("cta", True):
         png, wav = f"{tmp}/cta.png", f"{tmp}/cta.wav"
         cta_scene(W, H, png)
         dur = tts("Book your eye test with LenzKare on WhatsApp, and subscribe for daily eye care tips.", voice, speed, wav) + 0.6
-        clips.append((png, wav, dur))
+        clips.append((png, wav, dur, None, 0))
     # voice track
     total = sum(c[2] for c in clips)
     vo = np.zeros(int(total * SR) + SR, dtype=np.float32)
     pos = 0.0
-    for png, wav, dur in clips:
+    for png, wav, dur, *_ in clips:
         if wav:
             s, _ = sf.read(wav, dtype="float32")
             f = min(len(s) // 4, int(0.012 * SR))
@@ -289,9 +298,17 @@ def main():
     music(total, f"{tmp}/music.wav")
     # video: each scene a slow zoom, concat
     parts = []
-    for i, (png, _, dur) in enumerate(clips):
+    for i, (png, _, dur, vid, vstart) in enumerate(clips):
         p = f"{tmp}/p{i}.mp4"
         frames = int(dur * 30)
+        if vid:
+            fc = (f"[0:v]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},fps=30,setsar=1[b];"
+                  f"[b][1:v]overlay=0:0,format=yuv420p")
+            subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-stream_loop", "-1", "-ss", str(vstart), "-i", vid,
+                            "-i", png, "-filter_complex", fc, "-frames:v", str(frames), "-an",
+                            "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", p], check=True)
+            parts.append(p)
+            continue
         z = f"zoompan=z='min(1+0.0006*on,1.06)':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={frames}:s={W}x{H}:fps=30"
         subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-loop", "1", "-i", png, "-vf", f"scale={W*2}:{H*2},{z},format=yuv420p",
                         "-frames:v", str(frames), "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", p], check=True)
