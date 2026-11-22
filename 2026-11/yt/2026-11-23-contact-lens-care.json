@@ -1,0 +1,62 @@
+{
+ "voice": "hm_psi",
+ "speed": 1.1,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-23-priya-sleepy-bed.jpg",
+   "big": "Sleeping in your lenses?",
+   "en": "Watch this first.",
+   "ta": "லென்ஸுடன் தூங்குகிறீர்களா?",
+   "say": "Do you ever fall asleep with your contact lenses on? Watch this first."
+  },
+  {
+   "big": "Why it matters",
+   "en": "Your cornea takes oxygen from the air. A lens on it all night means less oxygen, more germs.",
+   "ta": "கருவிழிக்கு காற்றிலிருந்து ஆக்சிஜன் கிடைக்கிறது",
+   "say": "Your cornea gets oxygen from the air. A lens on it all night means less oxygen, and an easier path for germs."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Sleeping in lenses raises the risk of eye infection about 6 to 8 times.",
+   "ta": "லென்ஸுடன் தூங்கினால் தொற்று அபாயம் பல மடங்கு அதிகம்",
+   "say": "Did you know? Studies show that sleeping in contact lenses raises the risk of an eye infection by about six to eight times."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-23-priya-handwash.jpg",
+   "big": "Do: clean hands",
+   "en": "Wash and dry your hands before touching lenses.",
+   "ta": "லென்ஸை தொடும் முன் கைகளை கழுவி துடையுங்கள்",
+   "say": "Do: wash and dry your hands before you touch your lenses."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-23-priya-lens-case.jpg",
+   "big": "Do: fresh solution",
+   "en": "Fresh solution every time. Never top up. New case every 3 months.",
+   "ta": "ஒவ்வொரு முறையும் புதிய கரைசல்",
+   "say": "Use fresh solution every time, never top up old solution, and replace your lens case at least every three months."
+  },
+  {
+   "big": "Don't",
+   "en": "No tap water, no saliva. Remove lenses before swimming or a shower.",
+   "ta": "குழாய் நீர், எச்சில் வேண்டவே வேண்டாம்",
+   "say": "Don't rinse lenses with tap water or saliva, and take them out before swimming or a shower. Water can carry harmful germs."
+  },
+  {
+   "big": "Red, painful eye?",
+   "en": "Remove lenses and see an eye specialist urgently.",
+   "ta": "கண் சிவந்து வலித்தால், உடனே கண் மருத்துவரை பாருங்கள்",
+   "say": "If your eye turns red and painful, or your vision blurs, remove your lenses and see an eye specialist urgently."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-23-priya-office-smile.jpg",
+   "big": "Right lens, right fit",
+   "en": "Get an eye test before buying lenses.",
+   "ta": "லென்ஸ் வாங்கும் முன் கண் பரிசோதனை",
+   "say": "Always get an eye test and the right fit before you buy lenses. Book yours today."
+  }
+ ]
+}

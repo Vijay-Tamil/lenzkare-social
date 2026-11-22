@@ -1,0 +1,56 @@
+{
+ "voice": "hf_beta",
+ "speed": 1.0,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-23-meena-window-specks.jpg",
+   "big": "Specks floating in your sight?",
+   "en": "Here's when it's urgent.",
+   "ta": "கண்ணில் புள்ளிகள் மிதக்கிறதா?",
+   "say": "Tiny specks floating in your sight? Here's when it's harmless, and when it's urgent."
+  },
+  {
+   "big": "Why it happens",
+   "en": "A clear gel fills your eye. With age it shrinks, and tiny clumps cast shadows on the retina.",
+   "ta": "கண்ணின் உள்ளே உள்ள ஜெல் வயதுடன் சுருங்கும்",
+   "say": "Your eye is filled with a clear gel. With age, this gel slowly shrinks, and tiny clumps in it cast shadows on the retina. You see those shadows as floating specks."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-23-meena-balcony-calm.jpg",
+   "big": "Did you know?",
+   "en": "Floaters are more common after 50 and in short-sighted people. Many fade over time.",
+   "ta": "50 வயதுக்கு மேல், கிட்டப்பார்வை உள்ளவர்களுக்கு அதிகம்",
+   "say": "Did you know? These floating specks are more common after fifty, and in people who are short-sighted. Many become less noticeable over time."
+  },
+  {
+   "big": "Flashes of light?",
+   "en": "That can be the gel tugging on the retina.",
+   "ta": "ஒளி மின்னல் போல் தெரிகிறதா?",
+   "say": "Seeing flashes of light, like lightning at the edge of your vision? That can be the gel tugging on the retina."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-23-meena-cover-eye.jpg",
+   "big": "Urgent if...",
+   "en": "A sudden shower of floaters, flashes, or a curtain-like shadow",
+   "ta": "திடீர் புள்ளிகள், மின்னல், திரை போல் நிழல்: உடனே கண் மருத்துவரிடம்!",
+   "say": "See an eye specialist the same day if you suddenly get a shower of new specks, flashes of light, or a dark shadow like a curtain over your vision. These can be signs of a retinal tear."
+  },
+  {
+   "big": "Do this",
+   "en": "Check each eye alone. Note anything new. Get a dilated eye exam.",
+   "ta": "ஒவ்வொரு கண்ணையும் தனியாக சோதியுங்கள்",
+   "say": "Check each eye separately, notice anything new, and get a dilated eye exam, so the retina can be checked properly."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-23-meena-daughter-booking.jpg",
+   "big": "Don't wait",
+   "en": "Book an eye test today.",
+   "ta": "இன்றே கண் பரிசோதனை செய்யுங்கள்",
+   "say": "Don't wait and worry. Book an eye test today."
+  }
+ ]
+}
