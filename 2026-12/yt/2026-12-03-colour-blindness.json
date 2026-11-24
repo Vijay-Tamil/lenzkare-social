@@ -6,7 +6,9 @@
    "big": "Red or green? Are you sure?",
    "en": "Some people really can't tell.",
    "ta": "சிவப்பா, பச்சையா? உறுதியா?",
-   "say": "Red or green? Are you sure? Some people really can't tell the difference, and many don't even know it."
+   "say": "Red or green? Are you sure? Some people really can't tell the difference, and many don't even know it.",
+   "image": "tools/assets/ai/2026-12-03-vignesh-pencils.jpg",
+   "full": true
   },
   {
    "big": "Why it happens",
@@ -28,7 +30,7 @@
   },
   {
    "full": true,
-   "image": "tools/assets/ai/2026-11-18-father-son-album.jpg",
+   "image": "tools/assets/ai/2026-12-03-vignesh-father.jpg",
    "big": "Simple facts",
    "en": "Usually from birth. Doesn't get worse. It is not blindness.",
    "ta": "பிறவியிலிருந்தே இருக்கும், இது பார்வை இழப்பு அல்ல",
@@ -38,7 +40,9 @@
    "big": "Check for it",
    "en": "A quick colour plate test during an eye test. Helps kids at school and some jobs.",
    "ta": "குழந்தைகளுக்கு சிறு வயதிலேயே பரிசோதியுங்கள்",
-   "say": "A quick colour plate test, during an eye test, can find it. It helps children at school, and matters for some jobs."
+   "say": "A quick colour plate test, during an eye test, can find it. It helps children at school, and matters for some jobs.",
+   "image": "tools/assets/ai/2026-12-03-vignesh-walk.jpg",
+   "full": true
   },
   {
    "big": "Urgent if...",

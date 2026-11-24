@@ -1,0 +1,109 @@
+<title>LenzKare Posting Kit</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;700;800&family=Noto+Sans+Tamil:wght@500&display=swap">
+<style>
+/* Layout: one narrow column of day blocks; each video is a card with platform tabs and copy buttons. */
+:root{
+  --bg:#f3f7f6; --surface:#ffffff; --ink:#10201e; --muted:#5b6f6c; --line:#d8e4e1;
+  --teal:#0d9488; --teal-ink:#0b5e57; --chip-health:#e0f2ef; --chip-offer:#fdf0d8; --chip-offer-ink:#8a5a00; --chip-long:#e6e9fb; --chip-long-ink:#3b4aa8;
+  --done:#e8efe9;
+  --font:"Manrope",system-ui,-apple-system,"Segoe UI",sans-serif; --ta:"Noto Sans Tamil","Manrope",sans-serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0c1615; --surface:#13211f; --ink:#e6f1ef; --muted:#93aaa6; --line:#24413d;
+  --teal:#2dd4bf; --teal-ink:#7fe3d6; --chip-health:#123b36; --chip-offer:#3a2c10; --chip-offer-ink:#f3c76b; --chip-long:#1e2447; --chip-long-ink:#a9b4ff; --done:#16261f; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0c1615; --surface:#13211f; --ink:#e6f1ef; --muted:#93aaa6; --line:#24413d;
+  --teal:#2dd4bf; --teal-ink:#7fe3d6; --chip-health:#123b36; --chip-offer:#3a2c10; --chip-offer-ink:#f3c76b; --chip-long:#1e2447; --chip-long-ink:#a9b4ff; --done:#16261f; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--font);font-size:15px;line-height:1.5}
+.wrap{max-width:760px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:20px 60px}
+header h1{font-size:1.6rem;margin:0 0 4px;font-weight:800;letter-spacing:-.01em;text-wrap:balance}
+header p{margin:0;color:var(--muted)}
+.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);padding-block:12px;display:flex;gap:8px;flex-wrap:wrap;align-items:center;border-bottom:1px solid var(--line);margin-bottom:12px}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
+.bar select,.bar button{font:inherit;font-size:.9rem;padding:7px 12px;border-radius:8px;border:1px solid var(--line);background:var(--surface);color:var(--ink)}
+.bar button.primary{background:var(--teal);border-color:var(--teal);color:#fff;font-weight:700}
+.prog{margin-left:auto;color:var(--muted);font-size:.85rem;font-variant-numeric:tabular-nums}
+.day{margin-top:22px}
+.day h2{font-size:1rem;margin:0 0 8px;color:var(--teal-ink);font-weight:800;text-transform:uppercase;letter-spacing:.06em}
+.day h2 span{color:var(--muted);font-weight:600;text-transform:none;letter-spacing:0}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:14px;margin-bottom:12px}
+.card.is-done{background:var(--done)}
+.top{display:flex;gap:10px;align-items:flex-start}
+.time{font-weight:800;font-size:1.05rem;font-variant-numeric:tabular-nums;min-width:52px}
+.meta{flex:1;min-width:0}
+.topic{font-weight:700}
+.chip{display:inline-block;font-size:.72rem;font-weight:700;padding:2px 8px;border-radius:99px;margin-right:6px;letter-spacing:.03em;text-transform:uppercase}
+.chip.eye-health{background:var(--chip-health);color:var(--teal-ink)}
+.chip.offer{background:var(--chip-offer);color:var(--chip-offer-ink)}
+.chip.long{background:var(--chip-long);color:var(--chip-long-ink)}
+.done{display:flex;gap:6px;align-items:center;font-size:.85rem;color:var(--muted);white-space:nowrap}
+.vid{display:inline-block;margin-top:8px;font-weight:700;color:var(--teal-ink);text-decoration:none;border:1px solid var(--line);padding:6px 10px;border-radius:8px}
+.tabs{display:flex;gap:6px;flex-wrap:wrap;margin-top:12px}
+.tabs button{font:inherit;font-size:.85rem;padding:6px 10px;border-radius:8px;border:1px solid var(--line);background:transparent;color:var(--ink);cursor:pointer}
+.tabs button[aria-selected="true"]{background:var(--teal);border-color:var(--teal);color:#fff;font-weight:700}
+.panel{margin-top:10px;display:grid;gap:10px}
+.field{border:1px solid var(--line);border-radius:10px;padding:10px;min-width:0}
+.field .lab{display:flex;justify-content:space-between;align-items:center;gap:8px;font-size:.75rem;font-weight:800;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin-bottom:6px}
+.field pre{margin:0;white-space:pre-wrap;word-break:break-word;font-family:var(--ta);font-size:.92rem}
+.copy{font:inherit;font-size:.78rem;font-weight:700;padding:4px 10px;border-radius:6px;border:1px solid var(--teal);background:transparent;color:var(--teal-ink);cursor:pointer;text-transform:none;letter-spacing:0}
+.note{font-size:.85rem;color:var(--muted)}
+button:focus-visible,a:focus-visible,select:focus-visible{outline:2px solid var(--teal);outline-offset:2px}
+</style>
+<div class="wrap">
+<header>
+  <h1>LenzKare Posting Kit</h1>
+  <p>24 Nov 2026 to 7 Jan 2027: 2 Shorts/Reels a day at 13:00 and 19:00 IST, plus a long video every Sunday at 11:00. Tap a video to download it, then copy each platform's text.</p>
+</header>
+<div class="bar">
+  <button class="primary" id="today">Jump to today</button>
+  <select id="filter" aria-label="Show"><option value="all">All videos</option><option value="eye-health">Eye health</option><option value="offer">Offers</option><option value="long">Long videos</option><option value="todo">Not posted yet</option></select>
+  <span class="prog" id="prog"></span>
+</div>
+<div id="list"><p class="note">Loading the 45-day plan…</p></div>
+</div>
+<script>
+const TABS=[["youtube","YouTube"],["instagram","Instagram"],["facebook","Facebook"],["gmb","Google"],["threads","Threads"]];
+const DAYS=["Sun","Mon","Tue","Wed","Thu","Fri","Sat"];
+let DATA=[],done={};
+try{done=JSON.parse(localStorage.getItem("lk-done")||"{}")}catch(e){}
+function save(){try{localStorage.setItem("lk-done",JSON.stringify(done))}catch(e){}}
+function fields(v,t){
+  const y=v.youtube,i=v.instagram;
+  if(t==="youtube")return[["Title",y.title],["Description",y.description],["Tags",y.tags.join(", ")],["Settings",`Category: ${y.category}\nAudience: No, it's not made for kids\nAltered or synthetic content: Yes`],["Pinned comment",y.pinned_comment]];
+  if(t==="instagram")return[["Caption + hashtags",i.caption+"\n\n"+i.hashtags],["Cover text",i.cover_text],["First comment",i.first_comment],["Setting","Turn on the 'AI info' label before sharing."]];
+  if(t==="facebook")return[["Caption",v.facebook.caption]];
+  if(t==="gmb")return[["Update text",v.gmb.text],["Button",v.gmb.button+" (link: wa.me/914443569998)"]];
+  return[["Post",v.threads.text]];
+}
+function esc(s){return String(s).replace(/[&<>]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]))}
+function panel(v,t){return fields(v,t).map(([l,x],n)=>`<div class="field"><div class="lab">${l}<button class="copy" data-t="${t}" data-n="${n}">Copy</button></div><pre>${esc(x)}</pre></div>`).join("")}
+function render(){
+  const f=document.getElementById("filter").value;const list=document.getElementById("list");
+  const by={};DATA.forEach((v,k)=>{v._k=k;if(f==="todo"&&done[v.video])return;if(f!=="all"&&f!=="todo"&&v.kind!==f)return;(by[v.date]=by[v.date]||[]).push(v)});
+  list.innerHTML=Object.keys(by).sort().map(d=>{const dt=new Date(d+"T00:00:00");
+    return `<section class="day" id="d${d}"><h2>${dt.getDate()} ${dt.toLocaleString("en",{month:"short"})} <span>${DAYS[dt.getDay()]}</span></h2>`+
+    by[d].sort((a,b)=>a.time.localeCompare(b.time)).map(v=>`<article class="card ${done[v.video]?"is-done":""}" data-k="${v._k}">
+      <div class="top"><div class="time">${v.time}</div><div class="meta"><span class="chip ${v.kind}">${v.kind==="long"?"Long video":v.kind==="offer"?"Offer":"Eye health"}</span><div class="topic">${esc(v.youtube.title)}</div>
+      <a class="vid" href="${v.url}" target="_blank" rel="noopener">⬇ Download video</a></div>
+      <label class="done"><input type="checkbox" id="c${v._k}" ${done[v.video]?"checked":""}> Posted</label></div>
+      <div class="tabs" role="tablist">${TABS.map(([t,l],n)=>`<button role="tab" data-tab="${t}" aria-selected="${n===0}">${l}</button>`).join("")}</div>
+      <div class="panel">${panel(v,"youtube")}</div></article>`).join("")+"</section>"}).join("")||'<p class="note">Nothing to show for this filter.</p>';
+  const n=DATA.filter(v=>done[v.video]).length;document.getElementById("prog").textContent=`${n} of ${DATA.length} posted`;
+}
+document.addEventListener("click",e=>{
+  const card=e.target.closest(".card");if(!card)return;const v=DATA[+card.dataset.k];
+  const tb=e.target.closest("[data-tab]");
+  if(tb){card.querySelectorAll("[data-tab]").forEach(b=>b.setAttribute("aria-selected",b===tb));card.querySelector(".panel").innerHTML=panel(v,tb.dataset.tab);return}
+  const cp=e.target.closest(".copy");
+  if(cp){const txt=fields(v,cp.dataset.t)[+cp.dataset.n][1];
+    const ok=()=>{cp.textContent="Copied";setTimeout(()=>cp.textContent="Copy",1500)};
+    const fb=()=>{const pre=cp.closest(".field").querySelector("pre");const r=document.createRange();r.selectNodeContents(pre);const s=getSelection();s.removeAllRanges();s.addRange(r);cp.textContent="Selected, copy it"};
+    try{navigator.clipboard.writeText(txt).then(ok,fb)}catch(err){fb()}}
+});
+document.addEventListener("change",e=>{if(e.target.matches(".done input")){const card=e.target.closest(".card");const v=DATA[+card.dataset.k];if(e.target.checked)done[v.video]=1;else delete done[v.video];save();card.classList.toggle("is-done",e.target.checked);const n=DATA.filter(x=>done[x.video]).length;document.getElementById("prog").textContent=`${n} of ${DATA.length} posted`}
+  if(e.target.id==="filter")render()});
+document.getElementById("today").addEventListener("click",()=>{const t=new Date();const k=t.toISOString().slice(0,10);const ids=[...document.querySelectorAll(".day")].map(s=>s.id.slice(1));const d=ids.find(x=>x>=k)||ids[ids.length-1];const el=document.getElementById("d"+d);if(el)el.scrollIntoView({behavior:"smooth"})});
+fetch("kit.json").then(r=>r.json()).then(j=>{DATA=j;render()}).catch(()=>{document.getElementById("list").innerHTML='<p class="note">The plan could not load. Refresh the page.</p>'});
+</script>

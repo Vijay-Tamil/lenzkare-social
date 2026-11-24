@@ -3,7 +3,7 @@
  "speed": 1.05,
  "scenes": [
   {
-   "image": "tools/assets/ai/2026-11-20-karthik-phone-sofa.jpg",
+   "image": "tools/assets/ai/2026-11-26-arjun-late-laptop.jpg",
    "full": true,
    "big": "Do blue-cut lenses really work?",
    "en": "Myth vs fact.",
@@ -26,7 +26,9 @@
    "big": "So why choose blue-cut?",
    "en": "Many screen users find them more comfortable, with less glare.",
    "ta": "பலருக்குத் திரை பார்க்கும்போது வசதியாக இருக்கும்",
-   "say": "So why choose them? Many screen users simply find them more comfortable, with less glare and reflection."
+   "say": "So why choose them? Many screen users simply find them more comfortable, with less glare and reflection.",
+   "image": "tools/assets/ai/2026-11-26-arjun-office-smile.jpg",
+   "full": true
   },
   {
    "big": "Did you know?",
@@ -35,7 +37,7 @@
    "say": "Did you know? Studies show screen use late at night can disturb your sleep. Try putting the phone away an hour before bed."
   },
   {
-   "image": "tools/assets/ai/2026-11-20-karthik-amma-mirror.jpg",
+   "image": "tools/assets/ai/2026-11-26-arjun-mirror.jpg",
    "full": true,
    "big": "Fusion Blu lenses",
    "en": "Buy 1 Get 1 FREE on spectacles with LenzKare Fusion lenses.",
@@ -43,7 +45,7 @@
    "say": "Try LenzKare Fusion Blu lenses. And get Buy One Get One Free on spectacles with Fusion lenses."
   },
   {
-   "image": "tools/assets/ai/2026-11-20-karthik-parcel.jpg",
+   "image": "tools/assets/ai/2026-11-26-arjun-parcel.jpg",
    "full": true,
    "big": "Order online",
    "en": "Delivered across India. ₹500 joining bonus on your first app order (min ₹1,500).",
