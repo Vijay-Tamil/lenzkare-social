@@ -6,19 +6,25 @@
    "big": "5 foods your eyes love",
    "en": "Simple foods from your kitchen.",
    "ta": "கண்களுக்கு நல்ல 5 உணவுகள்",
-   "say": "Here are five everyday foods your eyes love. Let's count down."
+   "say": "Here are five everyday foods your eyes love. Let's count down.",
+   "image": "tools/assets/ai/2026-11-25-revathi-family-meal.jpg",
+   "full": true
   },
   {
    "big": "5. Fruits",
    "en": "Guava, orange and amla are rich in vitamin C.",
    "ta": "கொய்யா, ஆரஞ்சு, நெல்லிக்காய்",
-   "say": "Number five. Fruits like guava, orange and amla. They are rich in vitamin C, which helps protect the eye's tissues."
+   "say": "Number five. Fruits like guava, orange and amla. They are rich in vitamin C, which helps protect the eye's tissues.",
+   "image": "tools/assets/ai/2026-11-25-revathi-son-guava.jpg",
+   "full": true
   },
   {
    "big": "4. Fish",
    "en": "Sardine and mackerel have omega-3 fats, good for the retina.",
    "ta": "மத்தி, கானாங்கெளுத்தி மீன்",
-   "say": "Number four. Oily fish like sardine and mackerel. Their healthy omega three fats are good for the retina."
+   "say": "Number four. Oily fish like sardine and mackerel. Their healthy omega three fats are good for the retina.",
+   "image": "tools/assets/ai/2026-11-25-revathi-food-table.jpg",
+   "full": true
   },
   {
    "big": "3. Eggs",
@@ -30,7 +36,9 @@
    "big": "2. Carrots",
    "en": "Carrot, pumpkin and papaya: vitamin A helps you see in dim light.",
    "ta": "கேரட், பூசணி, பப்பாளி",
-   "say": "Number two. Carrots, pumpkin and papaya. Their vitamin A helps your eyes see in dim light."
+   "say": "Number two. Carrots, pumpkin and papaya. Their vitamin A helps your eyes see in dim light.",
+   "image": "tools/assets/ai/2026-11-25-revathi-keerai.jpg",
+   "full": true
   },
   {
    "big": "1. Leafy greens",
