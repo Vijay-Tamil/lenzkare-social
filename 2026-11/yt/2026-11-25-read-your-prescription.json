@@ -1,0 +1,61 @@
+{
+ "voice": "hm_omega",
+ "speed": 1.12,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-25-senthil-puzzled-card.jpg",
+   "big": "Can you read your eye power?",
+   "en": "SPH, CYL, AXIS, ADD... decoded!",
+   "ta": "உங்கள் கண் பவர் சீட்டு புரிகிறதா?",
+   "say": "Can you read your own eye power card? Let's decode it."
+  },
+  {
+   "big": "RE / LE",
+   "en": "Right eye and left eye. Sometimes written OD and OS.",
+   "ta": "வலது கண், இடது கண்",
+   "say": "R E and L E mean right eye and left eye. Some cards say O D and O S."
+  },
+  {
+   "big": "SPH",
+   "en": "Minus = far things blur. Plus = near things blur.",
+   "ta": "மைனஸ் தூரப் பார்வை, பிளஸ் அருகில் பார்வை",
+   "say": "S P H is your main power. Minus means far things blur. Plus usually means near things are harder."
+  },
+  {
+   "big": "CYL + AXIS",
+   "en": "Corrects astigmatism (uneven eye curve). AXIS is its direction, 0 to 180.",
+   "ta": "சிலிண்டர் பவர் மற்றும் அதன் திசை",
+   "say": "Cylinder power corrects astigmatism, an uneven curve in the front of the eye. The axis, from zero to one eighty, is its direction."
+  },
+  {
+   "big": "ADD",
+   "en": "Extra power for reading. Did you know? Most people need it after about 40.",
+   "ta": "40 வயதுக்கு பிறகு படிக்க கூடுதல் பவர்",
+   "say": "Add is extra power for reading. Did you know? Most people need it after about forty."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-25-senthil-trying-frames.jpg",
+   "big": "PD",
+   "en": "Distance between your pupils, in mm. It centres your lenses.",
+   "ta": "இரு கண்மணிகளுக்கு இடையிலான தூரம்",
+   "say": "P D is the distance between your pupils, in millimetres. It centres your lenses, so always ask for it."
+  },
+  {
+   "big": "Old card?",
+   "en": "Power can change. Re-check every 1 to 2 years, or sooner if vision blurs.",
+   "ta": "பவர் மாறலாம், மீண்டும் பரிசோதியுங்கள்",
+   "say": "Powers change, so recheck every one to two years, or sooner if vision blurs."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-25-senthil-wife-newspaper.jpg",
+   "big": "Buy 1 Get 1 FREE",
+   "en": "On spectacles with LenzKare Fusion lenses. Home eye test ₹100 for the whole family.",
+   "ta": "உங்களுக்கும் உங்கள் துணைவருக்கும் புதிய கண்ணாடி",
+   "say": "Free eye test at our store, home eye test in Chennai for one hundred rupees for the whole family, and Buy One Get One Free on spectacles with LenzKare Fusion lenses."
+  }
+ ],
+ "cta": true
+}
