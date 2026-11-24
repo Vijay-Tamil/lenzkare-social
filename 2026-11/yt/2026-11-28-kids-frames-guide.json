@@ -1,0 +1,58 @@
+{
+ "voice": "hm_omega",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "image": "tools/assets/ai/2026-11-18-father-son-store.jpg",
+   "full": true,
+   "big": "Kids break glasses. A lot.",
+   "en": "Do's and don'ts for kids' frames.",
+   "ta": "குழந்தைகளுக்குச் சரியான ஃப்ரேம் எப்படித் தேர்வு செய்வது?",
+   "say": "Kids drop, bend and sit on their glasses. Here's how to pick frames that survive."
+  },
+  {
+   "big": "DO: Flexible frames",
+   "en": "TR90 frames bend without snapping and stay light.",
+   "ta": "வளையும், லேசான TR90 ஃப்ரேம்",
+   "say": "Do pick flexible frames, like TR90. They bend without snapping, and stay light on a small nose."
+  },
+  {
+   "big": "DO: Right size",
+   "en": "Eyes centred in the lenses. Frame no wider than the face.",
+   "ta": "கண்கள் லென்ஸின் நடுவில் இருக்க வேண்டும்",
+   "say": "Do get the right size. Eyes in the centre of the lenses, and a frame no wider than the face."
+  },
+  {
+   "big": "DON'T: Buy big to grow into",
+   "en": "Loose frames slide down and kids peek over the top.",
+   "ta": "பெரிய ஃப்ரேம் வாங்காதீர்கள்",
+   "say": "Don't buy a big frame to grow into. Loose frames slide down, and kids peek over the top."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Studies link more outdoor play with less short-sightedness in kids.",
+   "ta": "வெளியில் விளையாடுவது கிட்டப்பார்வை அபாயத்தைக் குறைக்கலாம்",
+   "say": "Did you know? Studies show more outdoor play is linked to less short-sightedness in children."
+  },
+  {
+   "image": "tools/assets/ai/2026-11-20-son-sunglasses-sofa.jpg",
+   "full": true,
+   "big": "FOE Kids sunglasses",
+   "en": "Polarised, TR90, ages 4–10. Buy 1 Get 1 FREE.",
+   "ta": "FOE கிட்ஸ் சன்கிளாஸ் – ஒன்று வாங்கினால் ஒன்று இலவசம்",
+   "say": "For that outdoor time, FrameOra Kids polarised sunglasses are made of TR90 for ages four to ten. And they're Buy One Get One Free."
+  },
+  {
+   "big": "FOE frames from ₹899",
+   "en": "Buy 1 Get 1 FREE on spectacles with LenzKare Fusion lenses. 6-month frame warranty.",
+   "ta": "ரூ.899 முதல் ஃப்ரேம்கள் – 6 மாத வாரண்டி",
+   "say": "FrameOra frames start from eight hundred and ninety nine rupees, with a six month frame warranty. Get Buy One Get One Free on spectacles with Fusion lenses."
+  },
+  {
+   "big": "Check their eyes first",
+   "en": "Home eye test: ₹100 for the whole family. Free eye test in store.",
+   "ta": "வீட்டில் கண் பரிசோதனை – முழு குடும்பத்துக்கும் ரூ.100",
+   "say": "Check their eyes first. Our home eye test is just one hundred rupees for the whole family, and it's free at our store."
+  }
+ ]
+}

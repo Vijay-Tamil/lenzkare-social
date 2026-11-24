@@ -1,0 +1,56 @@
+{
+ "voice": "hf_alpha",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-24-anu-beach-squint.jpg",
+   "big": "Sunglasses for kids? Just style?",
+   "en": "Myth or fact? Let's check.",
+   "ta": "குழந்தைகளுக்கு கூலிங் கிளாஸ் வெறும் ஸ்டைலா?",
+   "say": "Sunglasses for kids. Just a style thing? Let's check the myths."
+  },
+  {
+   "big": "Myth: kids don't need them",
+   "en": "Fact: a child's eye lets more UV light reach the back of the eye.",
+   "ta": "உண்மை: குழந்தையின் கண்ணில் அதிக UV ஒளி உள்ளே செல்லும்",
+   "say": "Myth: children don't need sunglasses. Fact: a child's eye lens is very clear, so more ultraviolet light reaches the back of the eye than in adults."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-24-anu-hat-sunglasses.jpg",
+   "big": "Did you know?",
+   "en": "UV damage to the eyes adds up over a lifetime, starting in childhood.",
+   "ta": "UV பாதிப்பு சிறு வயதிலிருந்தே சேர்ந்துகொண்டே வரும்",
+   "say": "Did you know? Ultraviolet damage to the eyes adds up over a lifetime, and it starts in childhood. Over many years, it is linked to cataract."
+  },
+  {
+   "big": "Myth: cloudy day = safe",
+   "en": "Fact: UV passes through clouds and bounces off sand and water.",
+   "ta": "உண்மை: மேகமூட்டத்திலும் UV ஒளி உண்டு",
+   "say": "Myth: cloudy days are safe. Fact: ultraviolet light passes through clouds, and bounces off sand and water."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-24-anu-swing.jpg",
+   "big": "Do this",
+   "en": "Wide hat + UV400 sunglasses. Play in shade from 10 am to 4 pm.",
+   "ta": "தொப்பி, UV400 கண்ணாடி, நிழலில் விளையாட்டு",
+   "say": "So, give your child a wide hat, and sunglasses with full ultraviolet protection. Play in the shade between ten and four, when the sun is strongest."
+  },
+  {
+   "big": "Avoid toy sunglasses",
+   "en": "Dark lenses without a UV filter can let in more UV.",
+   "ta": "UV பாதுகாப்பு இல்லாத பொம்மைக் கண்ணாடி வேண்டாம்",
+   "say": "Avoid toy sunglasses. Dark lenses without a proper filter make the pupil open wider, and can let more ultraviolet in."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-24-anu-shade-walk.jpg",
+   "big": "Check their eyes too",
+   "en": "Book a kids' eye test this holiday.",
+   "ta": "இந்த விடுமுறையில் குழந்தைக்கு கண் பரிசோதனை",
+   "say": "And this holiday, book an eye test for your child too."
+  }
+ ]
+}

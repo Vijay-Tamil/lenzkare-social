@@ -1,0 +1,58 @@
+{
+ "voice": "hf_beta",
+ "speed": 1.0,
+ "scenes": [
+  {
+   "image": "tools/assets/ai/2026-11-21-arun-rubbing-eyes.jpg",
+   "full": true,
+   "big": "When did you last blink?",
+   "en": "On screens, you blink far less.",
+   "ta": "கடைசியாக எப்போது கண் சிமிட்டினீர்கள்?",
+   "say": "When did you last blink? If you're on a screen, probably not for a while."
+  },
+  {
+   "big": "Why blinking matters",
+   "en": "Each blink spreads fresh tears that keep your eyes clear and comfortable.",
+   "ta": "ஒவ்வொரு சிமிட்டலும் கண்ணீர்ப் படலத்தைப் பரப்பும்",
+   "say": "Every blink spreads a fresh layer of tears across your eye. It keeps the surface smooth, clear and comfortable."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Studies show we blink much less on screens, and often only half-way.",
+   "ta": "திரை பார்க்கும்போது நாம் குறைவாகச் சிமிட்டுகிறோம்",
+   "say": "Did you know? Studies show we blink much less while staring at screens, and many blinks only close half way. So eyes feel dry, gritty and tired."
+  },
+  {
+   "big": "DO: Blink exercise",
+   "en": "Close gently, pause 2 seconds, squeeze softly, open. Repeat 10 times.",
+   "ta": "மெதுவாக மூடி, 2 வினாடி நிறுத்தி, திறக்கவும் – 10 முறை",
+   "say": "Do this blink exercise. Close your eyes gently. Pause for two seconds. Squeeze softly, then open. Repeat ten times, a few times a day."
+  },
+  {
+   "image": "tools/assets/ai/2026-11-21-arun-cool-cloth.jpg",
+   "full": true,
+   "big": "DO: Rest your eyes",
+   "en": "Every 20 minutes, look far away. A cool, clean cloth can soothe tired eyes.",
+   "ta": "20 நிமிடத்துக்கு ஒருமுறை தூரத்தில் பாருங்கள்",
+   "say": "Do rest your eyes. Every twenty minutes, look far away. A cool, clean cloth over closed eyes can feel soothing."
+  },
+  {
+   "big": "DON'T",
+   "en": "Don't rub your eyes. Don't let a fan or AC blow on your face.",
+   "ta": "கண்ணைத் தேய்க்காதீர்கள், முகத்தில் நேராகக் காற்று வேண்டாம்",
+   "say": "Don't rub your eyes. Don't let a fan or AC blow straight on your face. And don't use random eye drops without advice."
+  },
+  {
+   "big": "Urgent if...",
+   "en": "Pain, redness, light sensitivity or blur that doesn't clear.",
+   "ta": "வலி, சிவப்பு, மங்கல் இருந்தால் உடனே கண் மருத்துவரிடம்",
+   "say": "See an eye specialist urgently if you have eye pain, redness, sensitivity to light, or blur that doesn't clear when you blink."
+  },
+  {
+   "big": "Dry eyes every day?",
+   "en": "Book an eye test.",
+   "ta": "இன்றே கண் பரிசோதனை செய்யுங்கள்",
+   "say": "Dry, tired eyes every day? Book an eye test."
+  }
+ ]
+}

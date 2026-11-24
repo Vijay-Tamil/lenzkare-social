@@ -1,0 +1,52 @@
+{
+ "voice": "hf_beta",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-18-woman-trying-frames.jpg",
+   "big": "New glasses feel odd?",
+   "en": "What's normal, and when to come back.",
+   "ta": "புது கண்ணாடி வித்தியாசமாக இருக்கிறதா?",
+   "say": "New glasses feel a little strange? Here's what's normal, and when to come back."
+  },
+  {
+   "big": "Why it happens",
+   "en": "Your brain is used to your old view. A new power or lens shape needs time.",
+   "ta": "மூளை புதிய பார்வைக்கு பழக நேரம் தேவை",
+   "say": "Why? Your brain is used to your old view. With a new power, a new lens shape or a new frame, it needs a little time to adjust."
+  },
+  {
+   "image": "tools/assets/ai/2026-11-22-suresh-stairs.jpg",
+   "big": "Normal for a few days",
+   "en": "Floor looks tilted, mild strain, edges a bit blurry.",
+   "ta": "சில நாட்கள் லேசான சிரமம் சாதாரணம்",
+   "say": "For a few days, it's normal if the floor looks a little tilted, or you feel mild strain. Take stairs slowly."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Most people adjust within a few days. Progressives can take up to two weeks.",
+   "ta": "புரோகிரசிவ் லென்ஸுக்கு இரண்டு வாரம் ஆகலாம்",
+   "say": "Did you know? Most people adjust within a few days. Progressive lenses can take up to two weeks."
+  },
+  {
+   "image": "tools/assets/ai/2026-11-22-suresh-office.jpg",
+   "big": "Do this",
+   "en": "Wear them all day. Don't switch back to old glasses. Look through the right zone.",
+   "ta": "நாள் முழுவதும் அணியுங்கள், பழையதுக்கு மாறாதீர்கள்",
+   "say": "Help your eyes adjust. Wear them all day, don't keep switching back to your old pair, and move your head, not just your eyes."
+  },
+  {
+   "big": "Come back if...",
+   "en": "Headache or double vision after a week, or things still look wrong.",
+   "ta": "ஒரு வாரத்துக்கு மேல் தலைவலி இருந்தால் வாருங்கள்",
+   "say": "Come back if headaches, double vision or blur last beyond a week. Sudden vision loss or eye pain needs an eye specialist urgently."
+  },
+  {
+   "big": "We've got you",
+   "en": "One free lens remake if power doesn't suit, after a LenzKare eye test.",
+   "ta": "பவர் சரியில்லை என்றால் ஒரு முறை இலவச லென்ஸ்",
+   "say": "After a LenzKare eye test, if the power doesn't suit you, we remake your lenses once, free. Book an eye test today."
+  }
+ ]
+}

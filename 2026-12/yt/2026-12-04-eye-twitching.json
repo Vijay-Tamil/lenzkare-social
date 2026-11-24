@@ -1,0 +1,56 @@
+{
+ "voice": "hf_alpha",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-04-kavya-eyelid-desk.jpg",
+   "big": "Eyelid jumping on its own?",
+   "en": "Here's why, and when to worry.",
+   "ta": "கண் இமை தானாக துடிக்கிறதா?",
+   "say": "Is your eyelid jumping on its own? Here's why it happens, and when to worry."
+  },
+  {
+   "big": "Why it happens",
+   "en": "A tiny eyelid muscle keeps firing. Usually harmless.",
+   "ta": "இமையின் சிறிய தசை தானாக சுருங்குகிறது",
+   "say": "A tiny muscle in your eyelid keeps firing on its own. It feels strange, but it's usually harmless, and it stops by itself."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-04-kavya-late-coffee.jpg",
+   "big": "Common triggers",
+   "en": "Poor sleep, stress, too much tea or coffee, long screen time",
+   "ta": "தூக்கமின்மை, மன அழுத்தம், அதிக காபி",
+   "say": "The common triggers are poor sleep, stress, too much tea or coffee, and long hours on screens."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Dry, tired eyes can also set off twitching.",
+   "ta": "வறண்ட, சோர்வான கண்களும் துடிப்பை தூண்டும்",
+   "say": "Did you know? Dry, tired eyes can also set off twitching. So can eye strain from glasses with the wrong power."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-04-kavya-balcony-rest.jpg",
+   "big": "Do this",
+   "en": "Sleep 7–8 hours. Cut caffeine. Take screen breaks. Warm compress.",
+   "ta": "நன்றாக தூங்குங்கள், காபியை குறையுங்கள்",
+   "say": "Sleep seven to eight hours. Cut down on caffeine. Take regular screen breaks, and try a warm compress on closed eyes."
+  },
+  {
+   "big": "See a doctor if...",
+   "en": "It lasts weeks, the eyelid shuts fully, or other face muscles twitch",
+   "ta": "சில வாரங்கள் தொடர்ந்தால் மருத்துவரை பாருங்கள்",
+   "say": "See a doctor if it lasts more than a few weeks, if your eyelid closes completely, or if other parts of your face start twitching."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-04-kavya-morning-walk.jpg",
+   "big": "Rule out eye strain",
+   "en": "A simple eye test checks if you need glasses.",
+   "ta": "இன்றே கண் பரிசோதனை செய்யுங்கள்",
+   "say": "Uncorrected power can strain your eyes too. Get a simple eye test, and rule it out."
+  }
+ ]
+}

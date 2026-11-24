@@ -1,0 +1,54 @@
+{
+ "voice": "hm_omega",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-22-paati-new-glasses.jpg",
+   "big": "Home eye test fee waived?",
+   "en": "Here's how LenzKare member levels work.",
+   "ta": "வீட்டு கண் பரிசோதனை கட்டணம் தள்ளுபடி!",
+   "say": "Want the home eye test fee waived? Here's how LenzKare member levels work."
+  },
+  {
+   "big": "Home eye test",
+   "en": "We test the whole family at home in Chennai. ₹100 for the whole family.",
+   "ta": "முழு குடும்பத்துக்கும் 100 ரூபாய்",
+   "say": "Our home eye test checks the whole family at home in Chennai, for one hundred rupees for the whole family."
+  },
+  {
+   "big": "Member levels",
+   "en": "Your total LenzKare spend unlocks member levels.",
+   "ta": "நீங்கள் செலவிடும் தொகைக்கு ஏற்ப உறுப்பினர் நிலை",
+   "say": "Your total spend at LenzKare unlocks member levels."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-22-paati-album-squint.jpg",
+   "big": "Silver: ₹5,000+",
+   "en": "Spend ₹5,000 or more to reach Silver.",
+   "ta": "5,000 ரூபாய்க்கு மேல் செலவு = சில்வர்",
+   "say": "Spend five thousand rupees or more, and you reach Silver."
+  },
+  {
+   "big": "Silver & above",
+   "en": "Home eye test fee waived for Silver members and above.",
+   "ta": "சில்வர் மற்றும் அதற்கு மேல்: வீட்டு பரிசோதனை கட்டணம் இல்லை",
+   "say": "From Silver upwards, the home eye test fee is waived. Perfect for elders who find it hard to travel."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-22-divya-paati-booking.jpg",
+   "big": "Book on WhatsApp",
+   "en": "044 4356 9998. Please give 4+ hours' notice.",
+   "ta": "4 மணி நேரம் முன்பே புக் செய்யுங்கள்",
+   "say": "To book a home eye test, send us a WhatsApp message. Please give at least four hours' notice."
+  },
+  {
+   "big": "Plus: Buy 1 Get 1 FREE",
+   "en": "On spectacles with Fusion lenses. In-store eye test is free.",
+   "ta": "1 வாங்கினால் 1 இலவசம்",
+   "say": "Plus, buy one get one free on spectacles with Fusion lenses. And the eye test in our store is free."
+  }
+ ]
+}

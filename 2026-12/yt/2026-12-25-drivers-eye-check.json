@@ -1,0 +1,54 @@
+{
+ "voice": "hm_psi",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-24-anand-headlight-glare.jpg",
+   "big": "Night drive. Signs look blurry.",
+   "en": "Meet Anand, a cab driver.",
+   "ta": "இரவில் போர்டுகள் மங்கலாகத் தெரிகிறதா?",
+   "say": "Meet Anand, a cab driver. Lately, at night, sign boards look blurry, and headlights feel blinding."
+  },
+  {
+   "big": "\"Just tiredness,\" he thought",
+   "en": "But vision often changes slowly, without you noticing.",
+   "ta": "பார்வை மெதுவாக மாறும், நமக்கே தெரியாது",
+   "say": "He thought it was just tiredness. But vision often changes slowly, so you don't notice it."
+  },
+  {
+   "big": "Why it matters",
+   "en": "Driving depends on your eyes. A small blur means a slower reaction.",
+   "ta": "சிறிய மங்கலும் வாகனம் ஓட்டும்போது ஆபத்து",
+   "say": "When you drive, most of what you react to comes through your eyes. A small blur can mean a slower reaction."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-24-anand-windscreen.jpg",
+   "big": "Did you know?",
+   "en": "Long hours, dust and AC air dry the eyes and blur vision.",
+   "ta": "நீண்ட நேரம், தூசி, ஏசி காற்று கண்களை உலரச் செய்யும்",
+   "say": "Did you know? Long hours on the road, dust, and air conditioning can dry your eyes, and make your vision blurry and tired."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-24-anand-cleaning-glasses.jpg",
+   "big": "Anand's routine now",
+   "en": "Yearly eye test. Clean windscreen and glasses. A break every 2 hours.",
+   "ta": "வருடம் ஒரு முறை கண் பரிசோதனை, 2 மணி நேரத்துக்கு ஒரு இடைவேளை",
+   "say": "Now Anand gets his eyes checked every year, keeps his windscreen and glasses clean, and takes a short break every two hours."
+  },
+  {
+   "big": "See an eye specialist urgently if...",
+   "en": "Sudden blur, double vision or loss of side vision.",
+   "ta": "திடீர் மங்கல், இரட்டைப் பார்வை இருந்தால் உடனே கண் மருத்துவரிடம்",
+   "say": "See an eye specialist urgently if you get sudden blur, double vision, or you lose side vision."
+  },
+  {
+   "big": "Your eyes bring you home",
+   "en": "Auto, cab or bus: book your yearly eye test.",
+   "ta": "வருடம் ஒரு முறை கண் பரிசோதனை செய்யுங்கள்",
+   "say": "Auto, cab or bus, your eyes bring you home safely. Book your yearly eye test."
+  }
+ ]
+}

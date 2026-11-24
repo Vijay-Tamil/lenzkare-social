@@ -1,0 +1,54 @@
+{
+ "voice": "hf_beta",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "big": "Teen's power keeps changing?",
+   "en": "It may be more than growing up.",
+   "ta": "பிள்ளையின் கண் பவர் அடிக்கடி மாறுகிறதா?",
+   "say": "Your teen's glasses power keeps changing every few months? It could be more than just growing up."
+  },
+  {
+   "big": "Why it happens",
+   "en": "The cornea, the eye's clear front window, can thin and bulge into a cone.",
+   "ta": "கண்ணின் முன் பகுதி மெலிந்து கூம்பு போல் மாறலாம்",
+   "say": "The cornea is the clear front window of the eye. In a condition called keratoconus, it slowly thins and bulges forward like a cone. Light then bends unevenly."
+  },
+  {
+   "big": "Sign 1",
+   "en": "Power, especially cylinder, changes often.",
+   "ta": "பவர், குறிப்பாக சிலிண்டர், அடிக்கடி மாறும்",
+   "say": "Sign one. The power keeps changing, especially the cylinder power."
+  },
+  {
+   "big": "Sign 2",
+   "en": "Blurred, stretched or double vision, even with new glasses.",
+   "ta": "புது கண்ணாடியிலும் மங்கலாக, இரட்டையாக தெரியும்",
+   "say": "Sign two. Things look blurred, stretched or doubled, even with new glasses."
+  },
+  {
+   "big": "Sign 3",
+   "en": "Glare and halos around lights, plus a strong eye-rubbing habit.",
+   "ta": "விளக்குகளை சுற்றி ஒளிவட்டம்; அடிக்கடி கண் தேய்த்தல்",
+   "say": "Sign three. Glare and halos around lights at night, often in teens who rub their eyes a lot."
+  },
+  {
+   "big": "Did you know?",
+   "en": "It often starts in the teens. Found early, treatment can help slow it.",
+   "ta": "பெரும்பாலும் டீன் வயதில் தொடங்கும்; ஆரம்பத்தில் கண்டால் கட்டுப்படுத்தலாம்",
+   "say": "Did you know? It usually starts in the teens or early twenties. When it's found early, treatment can help slow it down."
+  },
+  {
+   "big": "What to do",
+   "en": "Stop eye rubbing. Treat itchy allergies. See a specialist for a cornea scan.",
+   "ta": "கண் தேய்ப்பதை நிறுத்துங்கள்; கண் மருத்துவரை பாருங்கள்",
+   "say": "Help your teen stop rubbing their eyes, get itchy allergies treated, and see an eye specialist for a detailed scan of the cornea."
+  },
+  {
+   "big": "Don't just change glasses",
+   "en": "Book an eye test today.",
+   "ta": "இன்றே கண் பரிசோதனை செய்யுங்கள்",
+   "say": "If the power keeps changing, don't just keep changing glasses. Book an eye test today."
+  }
+ ]
+}

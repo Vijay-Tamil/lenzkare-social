@@ -1,0 +1,54 @@
+{
+ "voice": "hm_psi",
+ "speed": 1.0,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-19-appa-headlight-glare.jpg",
+   "big": "Lights look stretched at night?",
+   "en": "It may be astigmatism.",
+   "ta": "இரவில் விளக்குகள் நீண்டு தெரிகிறதா?",
+   "say": "Do street lights look stretched or streaky at night? It may be astigmatism."
+  },
+  {
+   "big": "Football vs rugby ball",
+   "en": "Normal cornea: round like a football. Astigmatism: curved more one way, like a rugby ball.",
+   "ta": "கார்னியா வட்டமாக இல்லாமல் முட்டை வடிவில் இருக்கும்",
+   "say": "The clear front window of your eye, the cornea, is normally round like a football. With astigmatism, it is curved more in one direction, like a rugby ball."
+  },
+  {
+   "big": "Why it blurs",
+   "en": "Light focuses at two points instead of one. Near and far can both blur.",
+   "ta": "ஒளி ஒரே இடத்தில் குவியாது, அதனால் மங்கல்",
+   "say": "So light does not focus at one single point. Things can look blurry or stretched, both near and far."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-19-woman-laptop-tired.jpg",
+   "big": "Common signs",
+   "en": "Squinting, eye strain, headaches, glare at night",
+   "ta": "கண் சுருக்குவது, கண் சோர்வு, தலைவலி",
+   "say": "Common signs are squinting, tired eyes after screen work, headaches, and glare at night."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Astigmatism is very common. Many people have a little, often with short or long sight.",
+   "ta": "இது மிகவும் சாதாரணம். பலருக்கு கொஞ்சம் இருக்கும்",
+   "say": "Did you know? Astigmatism is very common. Many people have a little, and it often comes with short sight or long sight. It is not a disease."
+  },
+  {
+   "big": "Do this",
+   "en": "Get an eye test. A 'cylinder' power in glasses corrects it. Toric contact lenses help too.",
+   "ta": "கண் பரிசோதனை செய்யுங்கள். சரியான கண்ணாடி போதும்",
+   "say": "Get a full eye test. A special power called cylinder in your glasses corrects it. Toric contact lenses can help too. If your power keeps changing quickly, or vision drops suddenly, see an eye specialist."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-18-woman-trying-frames.jpg",
+   "big": "See sharp again",
+   "en": "Book an eye test today.",
+   "ta": "இன்றே கண் பரிசோதனை செய்யுங்கள்",
+   "say": "Clear, sharp vision can be one eye test away. Book yours today."
+  }
+ ]
+}

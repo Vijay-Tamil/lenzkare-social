@@ -1,0 +1,54 @@
+{
+ "voice": "hf_alpha",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "big": "Studying late for board exams?",
+   "en": "Protect your eyes while you study.",
+   "ta": "போர்டு தேர்வுக்கு இரவில் படிக்கிறீர்களா?",
+   "say": "Studying late for board exams? Here's how to protect your eyes."
+  },
+  {
+   "big": "Why eyes get tired",
+   "en": "Reading up close keeps a tiny eye muscle working hard. Hours of it = strain.",
+   "ta": "அருகில் படிக்கும்போது கண் தசை கடினமாக வேலை செய்யும்",
+   "say": "When you read up close, a tiny muscle inside the eye works hard to keep words in focus. Hours without rest bring eye strain, headaches and blur."
+  },
+  {
+   "big": "Do: Good light",
+   "en": "Room light on + a desk lamp from the side, opposite your writing hand.",
+   "ta": "அறை விளக்கு + பக்கவாட்டில் மேசை விளக்கு",
+   "say": "Do keep the room light on, and add a desk lamp from the side, opposite your writing hand, so there are no shadows."
+  },
+  {
+   "big": "Don't",
+   "en": "Don't study in a dark room with only a bright screen.",
+   "ta": "இருட்டில் படிக்காதீர்கள்",
+   "say": "Don't study in a dark room with only a bright screen or one small light."
+  },
+  {
+   "big": "Do: Posture & breaks",
+   "en": "Book 35–40 cm away. Sit upright. Every 20 min, look far for 20 sec.",
+   "ta": "புத்தகத்தை 35-40 செ.மீ தூரத்தில் வையுங்கள்",
+   "say": "Do sit upright, keep your book about thirty five to forty centimetres away, and every twenty minutes, look far away for twenty seconds."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Time outdoors in daylight helps lower the risk of short sight in children.",
+   "ta": "பகல் வெளிச்சத்தில் வெளியே நேரம் செலவிடுவது கண்ணுக்கு நல்லது",
+   "say": "Did you know? Studies show that time outdoors in daylight helps lower the risk of short sight in children. So take short breaks outside."
+  },
+  {
+   "big": "Sleep counts",
+   "en": "Tired eyes and a tired brain don't learn well.",
+   "ta": "நன்றாக தூங்குங்கள்",
+   "say": "And get enough sleep. Tired eyes and a tired brain don't learn well."
+  },
+  {
+   "big": "Blurry board or headaches?",
+   "en": "Get an eye test before exams.",
+   "ta": "தேர்வுக்கு முன் கண் பரிசோதனை செய்யுங்கள்",
+   "say": "If the board looks blurry or you get frequent headaches, get an eye test before your exams."
+  }
+ ]
+}

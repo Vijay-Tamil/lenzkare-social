@@ -1,0 +1,62 @@
+{
+ "voice": "hf_alpha",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-04-kavya-eyelid-desk.jpg",
+   "big": "Thyroid can affect your eyes",
+   "en": "3 signs to watch for.",
+   "ta": "தைராய்டு கண்களையும் பாதிக்கலாம்",
+   "say": "Did you know thyroid problems can affect your eyes? Here are three signs to watch for."
+  },
+  {
+   "big": "Why?",
+   "en": "The immune system can cause swelling in the muscles and tissue behind the eye.",
+   "ta": "கண்ணின் பின்னால் உள்ள தசைகள் வீங்கலாம்",
+   "say": "Why? The body's immune system can cause swelling in the muscles and tissue behind the eye."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-04-kavya-late-coffee.jpg",
+   "big": "Sign 1: dry, gritty eyes",
+   "en": "Redness, watering or a sandy feeling that doesn't settle.",
+   "ta": "1. கண் வறட்சி, உறுத்தல், சிவப்பு",
+   "say": "Sign one: dry, gritty, red or watery eyes that don't settle."
+  },
+  {
+   "big": "Sign 2: eyes look bigger",
+   "en": "Eyes bulge, or the upper lid pulls back for a staring look.",
+   "ta": "2. கண்கள் பெரிதாக, முறைப்பது போல் தெரியும்",
+   "say": "Sign two: your eyes look bigger or bulging, or the upper eyelid pulls back, giving a staring look."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-04-kavya-balcony-rest.jpg",
+   "big": "Sign 3: double vision",
+   "en": "Seeing two of things, or pain when moving the eyes.",
+   "ta": "3. இரட்டை பார்வை, கண் அசைக்கும்போது வலி",
+   "say": "Sign three: double vision, or pain when you move your eyes."
+  },
+  {
+   "big": "Did you know?",
+   "en": "It's more common in women and smokers, and can happen even when thyroid levels are controlled.",
+   "ta": "பெண்களுக்கும் புகைபிடிப்பவர்களுக்கும் அதிகம்",
+   "say": "Did you know? It's more common in women, and smoking makes it worse. It can happen even when your thyroid levels are under control."
+  },
+  {
+   "big": "Urgent if...",
+   "en": "Vision drops, colours look faded, or double vision starts suddenly.",
+   "ta": "பார்வை குறைந்தால் உடனே கண் மருத்துவரை பாருங்கள்",
+   "say": "See an eye specialist urgently if your vision drops, colours look faded, or double vision starts suddenly."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-04-kavya-morning-walk.jpg",
+   "big": "Have thyroid? Do this",
+   "en": "Don't smoke. Wear sunglasses outdoors. Tell your doctor about eye changes.",
+   "ta": "புகைபிடிக்காதீர்கள், கண் பரிசோதனை செய்யுங்கள்",
+   "say": "If you have a thyroid condition, don't smoke, wear sunglasses outdoors, and tell your doctor about any eye changes. Book an eye test today."
+  }
+ ]
+}

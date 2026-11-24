@@ -1,0 +1,54 @@
+{
+ "voice": "hm_psi",
+ "speed": 1.0,
+ "scenes": [
+  {
+   "big": "That puff of air?",
+   "en": "Ever wondered what it checks?",
+   "ta": "கண்ணில் காற்று ஊதும் சோதனை எதற்கு?",
+   "say": "That sudden puff of air during an eye test. Do you know what it actually checks?"
+  },
+  {
+   "big": "Eye pressure",
+   "en": "It measures the pressure inside your eye. Painless, takes seconds.",
+   "ta": "கண்ணின் உள் அழுத்தத்தை அளக்கும்",
+   "say": "It measures the pressure inside your eye. It's painless, quick, and nothing touches your eye."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-22-ravi-bp-check.jpg",
+   "big": "Why it matters",
+   "en": "If eye fluid drains too slowly, pressure can harm the optic nerve.",
+   "ta": "அழுத்தம் அதிகமானால் பார்வை நரம்பு பாதிக்கலாம்",
+   "say": "Your eye keeps making and draining a clear fluid. If it drains too slowly, pressure can build up and damage the optic nerve. This is linked to glaucoma."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Glaucoma often has no pain and no early signs. Lost vision can't come back.",
+   "ta": "ஆரம்பத்தில் வலியும் அறிகுறியும் இருக்காது",
+   "say": "Did you know? Glaucoma often has no pain and no early warning signs. Side vision is lost slowly, and lost vision cannot be brought back."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-18-father-son-album.jpg",
+   "big": "Higher risk if...",
+   "en": "Over 40, family history, diabetes, high short sight",
+   "ta": "40 வயதுக்கு மேல், குடும்பத்தில் யாருக்காவது இருந்தால்",
+   "say": "Your risk is higher if you're over forty, if a parent or sibling has glaucoma, if you have diabetes, or if you have high short sight."
+  },
+  {
+   "big": "Urgent if...",
+   "en": "Sudden eye pain, red eye, headache, halos around lights",
+   "ta": "திடீர் கண் வலி, சிவப்பு, ஒளியைச் சுற்றி வளையம்: உடனே மருத்துவரிடம்",
+   "say": "See an eye specialist urgently if you get sudden severe eye pain, a red eye, a headache with vomiting, or rainbow halos around lights."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-19-daughter-appa-phone.jpg",
+   "big": "Check it yearly",
+   "en": "Book an eye test today.",
+   "ta": "வருடம் ஒருமுறை கண் அழுத்தம் பார்க்கவும்",
+   "say": "The puff test is one part of glaucoma screening, along with checking the optic nerve. Over forty? Get checked every year. Book an eye test today."
+  }
+ ]
+}

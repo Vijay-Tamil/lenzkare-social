@@ -1,0 +1,131 @@
+{
+ "voice": "hm_psi",
+ "speed": 1.0,
+ "scenes": [
+  {
+   "image": "tools/assets/ai/2026-11-22-suresh-phone-arm.jpg",
+   "big": "Read your prescription & choose lenses",
+   "en": "A simple, complete guide.",
+   "ta": "உங்கள் கண் பவர் சீட்டை புரிந்துகொள்ளுங்கள்",
+   "say": "Got your eye prescription, but all those numbers look like a puzzle? In this video, we explain how to read your prescription, and how to choose the right lenses: single vision, bifocal or progressive, the right coatings, and why P D matters."
+  },
+  {
+   "big": "Right eye, left eye",
+   "en": "RE / OD = right eye. LE / OS = left eye.",
+   "ta": "RE – வலது கண், LE – இடது கண்",
+   "say": "First, the two rows. R E, or O D, means your right eye. L E, or O S, means your left eye. Each eye usually has its own power, and they are often different."
+  },
+  {
+   "big": "SPH: the main power",
+   "en": "Minus (−) = far is blurry. Plus (+) = near is harder.",
+   "ta": "மைனஸ் – தூரம் மங்கல்; பிளஸ் – அருகில் கடினம்",
+   "say": "Next, S P H, or sphere. This is the main power. A minus number means you are short-sighted: distant things look blurry. A plus number means you are long-sighted: near work is harder. The bigger the number, the stronger the lens."
+  },
+  {
+   "big": "CYL: astigmatism",
+   "en": "The eye's front is shaped more like a rugby ball than a football.",
+   "ta": "CYL – கண்ணின் வடிவத்தில் சிறிய மாறுபாடு",
+   "say": "C Y L, or cylinder, is for astigmatism. It means the front of the eye is curved more in one direction, like a rugby ball instead of a football. Things can look blurred or stretched at every distance. It is very common."
+  },
+  {
+   "big": "AXIS: the direction",
+   "en": "A number from 1 to 180. It shows direction, not strength.",
+   "ta": "AXIS – திசை மட்டும், பவர் அல்ல",
+   "say": "Axis comes with cylinder. It is a number between one and one hundred and eighty, showing the direction of the astigmatism. It is not a strength, so a bigger axis does not mean worse eyes. But it must be exact in your lenses."
+  },
+  {
+   "big": "ADD: reading boost",
+   "en": "Extra plus power for near, usually from the 40s.",
+   "ta": "ADD – படிப்பதற்கான கூடுதல் பவர்",
+   "say": "A D D means addition. It is extra plus power for reading, added on top of your distance power. It usually appears from the early forties, when near focus gets harder. If you see an add, you may need bifocal or progressive lenses."
+  },
+  {
+   "big": "PD: pupil distance",
+   "en": "The distance between the centres of your pupils, in millimetres.",
+   "ta": "PD – இரண்டு கண்மணிகளுக்கு இடையிலான தூரம்",
+   "say": "P D is pupil distance: the gap between the centres of your two pupils, in millimetres. The optical centre of each lens must sit exactly in front of each pupil. A wrong P D can cause strain, headaches or a pulling feeling, especially with higher powers."
+  },
+  {
+   "image": "tools/assets/visuals/lens-types-3.jpg",
+   "big": "3 lens types",
+   "en": "Single vision, bifocal and progressive.",
+   "ta": "மூன்று வகை லென்ஸ்கள்",
+   "say": "Now, choosing lenses. There are three main types: single vision, bifocal, and progressive."
+  },
+  {
+   "image": "tools/assets/ai/2026-11-22-suresh-office.jpg",
+   "big": "Single vision",
+   "en": "One power. For distance only, or reading only.",
+   "ta": "ஒரே பவர் – ஒரு தூரத்துக்கு மட்டும்",
+   "say": "Single vision lenses have one power across the whole lens. They are perfect for most children and young adults, or as a separate pair just for reading or just for distance."
+  },
+  {
+   "big": "Bifocal",
+   "en": "Two zones with a visible line: distance on top, reading below.",
+   "ta": "மேலே தூரம், கீழே படிக்க – நடுவில் கோடு",
+   "say": "Bifocal lenses have two zones with a visible line: distance at the top, and reading at the bottom. They are simple, but middle distance, like a computer screen, is not covered well."
+  },
+  {
+   "image": "tools/assets/visuals/progressive-zones.jpg",
+   "big": "Progressive",
+   "en": "No line. Far, middle and near in one smooth lens.",
+   "ta": "கோடு இல்லாமல் தூரம், நடு, அருகில் – ஒரே லென்ஸில்",
+   "say": "Progressive lenses have no line. The power changes smoothly from far at the top, to middle, to near at the bottom. They need careful fitting, and a week or two to get used to."
+  },
+  {
+   "big": "Thinner lenses: index",
+   "en": "Higher index = thinner lens for higher powers. Fusion: 1.50, 1.56, 1.60.",
+   "ta": "அதிக பவருக்கு மெல்லிய லென்ஸ்",
+   "say": "Next, lens index. A higher index lens bends light more, so it can be thinner and lighter for the same power. For low powers, a standard index is fine. For higher powers, a higher index looks better. Fusion lenses come in one point five zero, one point five six, and one point six zero."
+  },
+  {
+   "big": "Anti-reflection coating",
+   "en": "Less glare from lights and screens. Clearer, better-looking lenses.",
+   "ta": "கண்ணை கூசுவதை குறைக்கும் கோட்டிங்",
+   "say": "Now, coatings. An anti-reflection coating cuts glare from headlights, tube lights and screens, and lets people see your eyes, not reflections. A hard coat helps resist scratches. Together, they make lenses last longer."
+  },
+  {
+   "big": "Photochromic lenses",
+   "en": "Clear indoors, darken in the sun. +₹1,000 on Fusion lenses.",
+   "ta": "வெயிலில் கருமையாகும் லென்ஸ்",
+   "say": "Photochromic lenses are clear indoors and darken in sunlight, so one pair works as both glasses and sunglasses. On Fusion lenses, photochromic is just one thousand rupees extra. Note: they darken less inside a car."
+  },
+  {
+   "big": "Myth: blue-cut lenses protect your eyes",
+   "en": "Fact: no good evidence screen light damages eyes (AAO).",
+   "ta": "நீல ஒளி கண்ணை சேதப்படுத்தும் என்பதற்கு சான்று இல்லை",
+   "say": "Myth: you must buy blue-cut lenses to protect your eyes from screens. Fact: according to the American Academy of Ophthalmology, there is no good evidence that screen light damages the eye. Some people like them for comfort, but breaks and blinking matter more."
+  },
+  {
+   "image": "tools/assets/ai/2026-11-18-woman-trying-frames.jpg",
+   "big": "Pick the right frame",
+   "en": "High power? Choose a smaller frame. Progressive? Enough lens height.",
+   "ta": "சரியான ஃப்ரேம் தேர்வு செய்யுங்கள்",
+   "say": "Choose the frame with your lenses in mind. With high power, a smaller frame keeps lenses thinner and lighter. For progressives, choose a frame with enough height for all the zones. And it must sit comfortably on your nose."
+  },
+  {
+   "big": "Fitting matters",
+   "en": "Correct PD, fitting height and frame adjustment.",
+   "ta": "சரியான அளவீடு மிக முக்கியம்",
+   "say": "Even the best lens works badly if it is fitted wrongly. Pupil distance, fitting height for progressives, and a well-adjusted frame put the right power exactly in front of your eyes."
+  },
+  {
+   "big": "Power changes",
+   "en": "Get your eyes tested every 1–2 years, or sooner if vision changes.",
+   "ta": "1–2 வருடத்துக்கு ஒருமுறை கண் பரிசோதனை",
+   "say": "Your prescription is not for life. Power changes with growth, age, and health conditions like diabetes. Get your eyes tested every one to two years, and children every year, or sooner if anything changes."
+  },
+  {
+   "big": "Buy 1 Get 1 FREE",
+   "en": "on spectacles with LenzKare Fusion lenses. 1-year coating warranty.",
+   "ta": "Fusion லென்ஸ் கண்ணாடிகளுக்கு 1 வாங்கினால் 1 இலவசம்",
+   "say": "Spectacles with LenzKare Fusion lenses are buy one, get one free, with a one-year coating warranty. If the power doesn't suit after a LenzKare eye test, we remake the lenses once, free. The eye test at our store is free, and a home eye test in Chennai is one hundred rupees for the whole family."
+  },
+  {
+   "big": "General information",
+   "en": "For your own eyes, get a complete eye test.",
+   "ta": "உங்கள் கண்களுக்கு முழு கண் பரிசோதனை செய்யுங்கள்",
+   "say": "This video is general information. For your own eyes, get a complete eye test with an eye specialist or optometrist. Save this video for your next pair of glasses, and subscribe for more eye-care tips."
+  }
+ ]
+}

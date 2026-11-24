@@ -1,0 +1,62 @@
+{
+ "voice": "hm_psi",
+ "speed": 1.0,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-18-chennai-street.jpg",
+   "big": "Read a number plate from 20 metres?",
+   "en": "Quick test before you drive.",
+   "ta": "20 மீட்டர் தூரத்தில் நம்பர் பிளேட் படிக்க முடியுமா?",
+   "say": "Can you read a car number plate from twenty metres away? Try this quick test before your next drive."
+  },
+  {
+   "big": "The test",
+   "en": "In daylight, stand about 20 big steps from a parked car. Cover one eye, read the plate. Swap.",
+   "ta": "ஒரு கண்ணை மூடி, தூரத்தில் உள்ள நம்பர் பிளேட்டை படியுங்கள்",
+   "say": "In daylight, stand about twenty big steps from a parked car. Cover one eye and read the number plate. Then try the other eye."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-24-anand-windscreen.jpg",
+   "big": "Why it matters",
+   "en": "At 50 km/h, a car covers about 14 metres every second.",
+   "ta": "வேகமாக செல்லும்போது ஒவ்வொரு வினாடியும் முக்கியம்",
+   "say": "At fifty kilometres an hour, a car covers about fourteen metres every second. Seeing clearly, early, gives you time to brake."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Distance vision often blurs so slowly that you don't notice.",
+   "ta": "பார்வை மெதுவாக குறையும்போது நமக்கு தெரியாது",
+   "say": "Did you know? Distance vision often blurs so slowly that you don't notice. Your brain gets used to it, until a test shows the difference."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-24-anand-headlight-glare.jpg",
+   "big": "Night glare?",
+   "en": "Starbursts around headlights can mean a power change or early cataract.",
+   "ta": "இரவில் விளக்குகள் கண் கூசுகிறதா?",
+   "say": "Do headlights look like big starbursts at night? That can mean your power has changed, or an early cataract. Get it checked."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-24-anand-cleaning-glasses.jpg",
+   "big": "Do this",
+   "en": "Keep a clean pair in your current power in the car. Test eyes every 1 to 2 years.",
+   "ta": "வண்டியில் சுத்தமான கண்ணாடி வைத்திருங்கள்",
+   "say": "Keep a clean pair of glasses, in your current power, in the car. Wipe the windscreen inside and out. And test your eyes every one to two years."
+  },
+  {
+   "big": "Urgent if...",
+   "en": "Sudden blur, double vision or a dark patch: stop driving, see an eye specialist.",
+   "ta": "திடீர் மங்கல், இரட்டை பார்வை: உடனே கண் மருத்துவரிடம்!",
+   "say": "If you suddenly get blurred or double vision, or a dark patch, stop driving and see an eye specialist the same day."
+  },
+  {
+   "big": "Licence renewal soon?",
+   "en": "Get a free eye test at our store first.",
+   "ta": "லைசென்ஸ் புதுப்பிக்கும் முன் கண் பரிசோதனை செய்யுங்கள்",
+   "say": "Renewing your licence soon? Get a free eye test at our store first."
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "voice": "hf_beta",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-14-anand-headache.jpg",
+   "big": "Suddenly seeing double?",
+   "en": "Don't brush it off.",
+   "ta": "திடீரென எல்லாம் இரண்டாகத் தெரிகிறதா?",
+   "say": "Suddenly seeing two of everything? Don't brush it off."
+  },
+  {
+   "big": "How your eyes team up",
+   "en": "Six tiny muscles move each eye. Nerves from the brain control them.",
+   "ta": "ஒவ்வொரு கண்ணையும் 6 சிறிய தசைகள் நகர்த்துகின்றன",
+   "say": "Six tiny muscles move each eye, controlled by nerves from the brain. Both eyes must point at the same spot."
+  },
+  {
+   "big": "When they don't line up",
+   "en": "The brain gets two different pictures, so you see double.",
+   "ta": "இரண்டு கண்களும் ஒரே இடத்தைப் பார்க்காவிட்டால் இரட்டைப் பார்வை",
+   "say": "If one eye drifts even a little, the brain gets two different pictures, and you see double."
+  },
+  {
+   "big": "Quick check",
+   "en": "Cover one eye. Does the double image go away?",
+   "ta": "ஒரு கண்ணை மூடுங்கள். இரட்டை மறைகிறதா?",
+   "say": "Quick check. Cover one eye. If the double image goes away, your eyes are not lining up, and a doctor needs to find out why."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Sudden double vision can be linked to diabetes, high BP, stroke or nerve problems.",
+   "ta": "சர்க்கரை, ரத்த அழுத்தம், பக்கவாதம் காரணமாக இருக்கலாம்",
+   "say": "Did you know? Sudden double vision can be linked to diabetes, high blood pressure, a stroke, or a nerve problem."
+  },
+  {
+   "big": "Go to hospital immediately if...",
+   "en": "With severe headache, drooping eyelid, weakness, slurred speech or dizziness.",
+   "ta": "தலைவலி, கண் இமை தொங்குதல், பேச்சு குழறல் இருந்தால் உடனே மருத்துவமனை",
+   "say": "Go to a hospital immediately if it comes with a severe headache, a drooping eyelid, weakness, slurred speech, or dizziness."
+  },
+  {
+   "big": "Don't drive",
+   "en": "Get checked the same day.",
+   "ta": "வாகனம் ஓட்டாதீர்கள், அன்றே பரிசோதனை செய்யுங்கள்",
+   "say": "Don't drive, and get checked the same day. For regular eye care, book an eye test."
+  }
+ ]
+}

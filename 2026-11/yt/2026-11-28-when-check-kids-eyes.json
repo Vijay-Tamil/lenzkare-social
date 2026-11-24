@@ -1,0 +1,56 @@
+{
+ "voice": "hf_alpha",
+ "speed": 1.0,
+ "scenes": [
+  {
+   "image": "tools/assets/ai/2026-11-20-amma-son-balcony.jpg",
+   "full": true,
+   "big": "Kids rarely say 'I can't see'",
+   "en": "So when should you check their eyes?",
+   "ta": "குழந்தைகள் 'தெரியவில்லை' என்று சொல்வதில்லை",
+   "say": "Kids rarely say they can't see. They think blurry is normal. So when should you check their eyes?"
+  },
+  {
+   "big": "4. At birth",
+   "en": "A newborn's eyes are checked before going home.",
+   "ta": "பிறந்தவுடன் கண் பரிசோதனை",
+   "say": "Number four. At birth. A newborn's eyes should be checked before going home from hospital."
+  },
+  {
+   "big": "3. Around 6–12 months",
+   "en": "Both eyes should move together and follow objects.",
+   "ta": "6 முதல் 12 மாதத்தில்",
+   "say": "Number three. Around six to twelve months. A check that both eyes move together and follow objects."
+  },
+  {
+   "big": "2. Before school (3–5 years)",
+   "en": "Catches lazy eye and squint while they're easiest to treat.",
+   "ta": "பள்ளி செல்லும் முன் (3–5 வயது)",
+   "say": "Number two. Before school, between three and five years. This is when lazy eye and squint are easiest to treat."
+  },
+  {
+   "big": "1. Every year in school",
+   "en": "A child's power can change quickly.",
+   "ta": "பள்ளி வயதில் ஆண்டுக்கு ஒருமுறை",
+   "say": "Number one. Every year during school. A child's power can change quickly, especially with lots of screen time."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Most vision problems in kids cause no pain. Only an eye test finds them.",
+   "ta": "குழந்தைகளின் பார்வைக் குறைபாட்டில் வலி இருக்காது",
+   "say": "Did you know? Most vision problems in children cause no pain at all. Watch for sitting close to the TV, squinting, or a tilted head."
+  },
+  {
+   "big": "Urgent if...",
+   "en": "A white glow in the pupil in photos, or an eye that suddenly turns.",
+   "ta": "புகைப்படத்தில் கண்மணியில் வெள்ளை ஒளி – உடனே மருத்துவரிடம்",
+   "say": "See an eye specialist urgently if you see a white glow in your child's pupil in photos, or an eye that suddenly turns."
+  },
+  {
+   "big": "Is your child due?",
+   "en": "Book an eye test today.",
+   "ta": "இன்றே கண் பரிசோதனை செய்யுங்கள்",
+   "say": "Is your child due for a check? Book an eye test today."
+  }
+ ]
+}

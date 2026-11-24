@@ -1,0 +1,54 @@
+{
+ "voice": "hf_alpha",
+ "speed": 1.0,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-21-girl-tablet-sofa.jpg",
+   "big": "Phone = babysitter?",
+   "en": "Simple family rules for healthy young eyes.",
+   "ta": "குழந்தைகளுக்கு எளிய திரை விதிகள்",
+   "say": "Is the phone your child's babysitter? Here are simple family rules for healthy young eyes."
+  },
+  {
+   "big": "Why it matters",
+   "en": "Close screens keep the eye's focusing muscle tight, and kids blink less.",
+   "ta": "அருகில் நீண்ட நேரம் பார்த்தால் கண் சோர்வடையும்",
+   "say": "When children stare at a screen up close for long, the focusing muscle inside the eye stays tight, and they blink less. That means tired, dry eyes."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-21-girl-ball-park.jpg",
+   "big": "Did you know?",
+   "en": "Studies show daylight play outdoors lowers kids' risk of short sight.",
+   "ta": "வெளியில் விளையாடுவது கிட்டப்பார்வை அபாயத்தைக் குறைக்கும்",
+   "say": "Did you know? Studies show children who play outdoors in daylight are less likely to become short-sighted."
+  },
+  {
+   "big": "Do",
+   "en": "Screens at arm's length. 20-20-20 breaks. Screens off 1 hour before bed.",
+   "ta": "திரையை கை நீள தூரத்தில் வையுங்கள். அடிக்கடி இடைவெளி",
+   "say": "Do: keep screens at arm's length. Every twenty minutes, look at something far away for twenty seconds. And switch screens off an hour before bed."
+  },
+  {
+   "big": "Don't",
+   "en": "Screens for babies and toddlers. Phones in a dark room. Screens at meals.",
+   "ta": "இருட்டில் போன் வேண்டாம், சாப்பிடும்போது திரை வேண்டாம்",
+   "say": "Don't: give screens to babies and toddlers, let kids use phones in a dark room, or keep screens on at meal times."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-20-amma-son-balcony.jpg",
+   "big": "Lead by example",
+   "en": "Family screen-free time: books, games, outdoor play.",
+   "ta": "பெற்றோரும் முன்மாதிரியாக இருங்கள்",
+   "say": "Kids copy us. Make family screen-free time for books, games and outdoor play."
+  },
+  {
+   "big": "Watch for",
+   "en": "Squinting, sitting close to the TV, rubbing eyes, headaches",
+   "ta": "கண் சுருக்குவது, டிவி அருகில் உட்காருவது: கண் பரிசோதனை செய்யுங்கள்",
+   "say": "If your child squints, sits close to the TV, rubs their eyes, or gets headaches, book an eye test. Children often don't complain."
+  }
+ ]
+}

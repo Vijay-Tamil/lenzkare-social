@@ -1,0 +1,56 @@
+{
+ "voice": "hf_beta",
+ "speed": 1.0,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-19-woman-laptop-tired.jpg",
+   "big": "Eyes tired by 4 pm?",
+   "en": "Your desk setup may be the reason.",
+   "ta": "மாலையில் கண் சோர்வா?",
+   "say": "Eyes tired and heavy by four p.m.? Your desk setup may be the reason."
+  },
+  {
+   "big": "Why it happens",
+   "en": "A close screen makes the focusing muscles inside your eye work hard all day.",
+   "ta": "அருகில் பார்க்கும்போது கண் தசைகள் அதிகம் உழைக்கும்",
+   "say": "When a screen is too close, the focusing muscles inside your eye work hard all day, like holding a heavy bag without a break."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-19-woman-desk-setup.jpg",
+   "big": "Arm's length",
+   "en": "Screen an arm's length away. Top of screen at or just below eye level.",
+   "ta": "திரை ஒரு கை நீளம் தூரத்தில் இருக்கட்டும்",
+   "say": "Step one: keep the screen about an arm's length away. The top of the screen should be at, or just below, eye level, so you look slightly down."
+  },
+  {
+   "big": "No glare",
+   "en": "Window to the side, not behind the screen. Room about as bright as the screen.",
+   "ta": "ஜன்னல் திரைக்கு பக்கவாட்டில் இருக்கட்டும்",
+   "say": "Step two: stop the glare. Keep the window to the side, not behind the screen. And keep the room about as bright as your screen."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-22-suresh-office.jpg",
+   "big": "Did you know?",
+   "en": "We blink much less while looking at screens.",
+   "ta": "திரை பார்க்கும்போது கண் சிமிட்டுவது குறைகிறது",
+   "say": "Did you know? Studies show we blink much less while looking at a screen. That's why eyes feel dry and gritty."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-19-woman-window.jpg",
+   "big": "20-20-20",
+   "en": "Every 20 minutes, look 20 feet away for 20 seconds.",
+   "ta": "20 நிமிடத்திற்கு ஒருமுறை, 20 அடி தூரம், 20 வினாடி பாருங்கள்",
+   "say": "Step three: every twenty minutes, look at something twenty feet away, for twenty seconds. And blink fully."
+  },
+  {
+   "big": "Still straining?",
+   "en": "Headaches or blur at work? You may need glasses for screen distance.",
+   "ta": "தலைவலி, மங்கல் இருந்தால் கண் பரிசோதனை செய்யுங்கள்",
+   "say": "Still getting headaches, or blurry vision at work? You may need glasses made for screen distance. Book an eye test."
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "voice": "hm_omega",
+ "speed": 1.0,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-18-chennai-street.jpg",
+   "big": "Why is the road so blinding?",
+   "en": "It's not just sunlight. It's glare.",
+   "ta": "சாலையில் கண் கூசுகிறதா?",
+   "say": "Why does the road look so blinding at noon? It's not just sunlight. It's glare."
+  },
+  {
+   "big": "Why it happens",
+   "en": "Light bouncing off roads, water and car glass turns into flat, harsh glare.",
+   "ta": "சாலை, தண்ணீர், கார் கண்ணாடியில் ஒளி பிரதிபலிக்கும்",
+   "say": "When sunlight bounces off a flat road, water, or a car windscreen, it becomes harsh glare. That makes you squint, and tires your eyes."
+  },
+  {
+   "big": "Polarised lenses",
+   "en": "A special filter blocks that flat glare. Everything looks clearer.",
+   "ta": "போலரைஸ்டு லென்ஸ் கண் கூச்சத்தை குறைக்கும்",
+   "say": "Polarised lenses have a special filter that blocks this glare. Roads, water and the sky look clearer and calmer."
+  },
+  {
+   "big": "Did you know?",
+   "en": "A child's eye lens is clearer, so more UV light gets inside.",
+   "ta": "குழந்தைகளின் கண்களில் அதிக UV ஒளி செல்லும்",
+   "say": "Did you know? A child's eye lens is clearer than an adult's, so more UV light reaches deep inside. Kids need sun protection too."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-21-girl-cycle-park.jpg",
+   "big": "FOE Kids polarised",
+   "en": "Flexible TR90 frames that bend, not break. Ages 4 to 10.",
+   "ta": "4 முதல் 10 வயது குழந்தைகளுக்கு",
+   "say": "F O E Kids polarised sunglasses have flexible T R ninety frames, that bend instead of breaking. Made for ages four to ten."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-20-son-sunglasses-sofa.jpg",
+   "big": "Buy 1 Get 1 FREE",
+   "en": "On FOE Kids polarised sunglasses.",
+   "ta": "ஒன்று வாங்கினால் ஒன்று இலவசம்!",
+   "say": "And F O E Kids polarised sunglasses are Buy 1 Get 1 FREE. One for school trips, one for the beach."
+  },
+  {
+   "big": "Smart sun habits",
+   "en": "Pick full UV protection. Add a cap at noon. Never look at the sun.",
+   "ta": "UV பாதுகாப்பு உள்ள கண்ணாடியை தேர்ந்தெடுங்கள்",
+   "say": "Pick sunglasses with full UV protection, add a cap at noon, and never look straight at the sun."
+  },
+  {
+   "big": "Get yours",
+   "en": "Order on lenzkare.com or visit our store. Home eye test: ₹100 for the whole family.",
+   "ta": "lenzkare.com அல்லது எங்கள் கடையில் வாங்குங்கள்",
+   "say": "Order on lenzkare dot com, or visit our store. Need a check first? Our home eye test is one hundred rupees for the whole family."
+  }
+ ]
+}

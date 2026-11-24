@@ -1,0 +1,131 @@
+{
+ "voice": "hf_beta",
+ "speed": 1.0,
+ "scenes": [
+  {
+   "image": "tools/assets/ai/2026-11-29-ganesan-newspaper.jpg",
+   "big": "Diabetes & your eyes",
+   "en": "A complete, simple guide.",
+   "ta": "சர்க்கரை நோயும் உங்கள் கண்களும்",
+   "say": "Do you, or someone at home, have diabetes? Then this video is for you. In the next few minutes, we explain in simple words how sugar affects the eyes, the warning signs, and how to protect your sight."
+  },
+  {
+   "image": "tools/assets/visuals/eye-optic-nerve.jpg",
+   "big": "How the eye works",
+   "en": "The retina at the back works like the film in a camera.",
+   "ta": "கண்ணின் பின்புறம் உள்ள ரெடினா, கேமரா ஃபிலிம் போல",
+   "say": "First, how the eye works. Light enters the front of the eye and is focused on the retina, a thin layer at the back. The retina works like the film in a camera. It sends the picture through the optic nerve to the brain."
+  },
+  {
+   "big": "Tiny blood vessels",
+   "en": "The retina is fed by very fine, delicate blood vessels.",
+   "ta": "ரெடினாவுக்கு ரத்தம் தரும் மிகச் சிறிய குழாய்கள்",
+   "say": "The retina needs a steady supply of blood, through very tiny, delicate blood vessels. These small vessels are the part that high sugar affects the most."
+  },
+  {
+   "big": "What high sugar does",
+   "en": "Over years, the tiny vessels weaken. They can leak or get blocked.",
+   "ta": "அதிக சர்க்கரை ரத்தக் குழாய்களை பலவீனமாக்கும்",
+   "say": "When blood sugar stays high for many years, the walls of these tiny vessels become weak. They can leak fluid or blood, or get blocked. This is called diabetic retinopathy."
+  },
+  {
+   "big": "Did you know?",
+   "en": "It is the most common cause of vision loss in people with diabetes (NEI).",
+   "ta": "சர்க்கரை நோயாளிகளின் பார்வை இழப்புக்கு முக்கிய காரணம்",
+   "say": "Did you know? According to the National Eye Institute, diabetic retinopathy is the most common cause of vision loss in people with diabetes. The good news: early checks and good control can protect your sight."
+  },
+  {
+   "big": "The silent stage",
+   "en": "Early on, there is no pain and vision can seem normal.",
+   "ta": "ஆரம்பத்தில் வலியும் இல்லை, அறிகுறியும் இல்லை",
+   "say": "Here is the tricky part. In the early stage, there is usually no pain, and your vision can seem completely normal. Damage can start long before you notice anything."
+  },
+  {
+   "big": "Warning signs",
+   "en": "Blurry or changing vision, dark spots, poor night vision, faded colours.",
+   "ta": "மங்கலான பார்வை, கருப்பு புள்ளிகள் – கவனியுங்கள்",
+   "say": "Later, you may notice warning signs. Blurry vision. Vision that changes from day to day. Dark spots or strings drifting across your sight. Poor vision at night. Or colours that look faded."
+  },
+  {
+   "big": "Swelling in the centre",
+   "en": "Fluid can collect in the macula, the reading area of the retina.",
+   "ta": "ரெடினாவின் மையத்தில் வீக்கம் – படிப்பது கடினம்",
+   "say": "Sometimes fluid collects in the macula, the small central area of the retina we use for reading and seeing faces. This swelling can make reading and recognising faces difficult."
+  },
+  {
+   "big": "Other eye effects",
+   "en": "Changing glasses power, earlier cataract, higher glaucoma risk.",
+   "ta": "கண்ணாடி பவர் மாறலாம், கேட்டராக்ட் சீக்கிரம் வரலாம்",
+   "say": "Diabetes can affect the eyes in other ways too. Your glasses power can change when sugar levels swing. Cataract can come earlier, and the risk of glaucoma is higher."
+  },
+  {
+   "big": "See a specialist urgently if…",
+   "en": "Sudden vision loss, a curtain or shadow, a shower of new spots or flashes.",
+   "ta": "திடீர் பார்வை இழப்பு – உடனே கண் மருத்துவரை பாருங்கள்",
+   "say": "See an eye specialist urgently if you have sudden loss of vision, a curtain or shadow over your sight, a shower of new dark spots, or flashes of light. Do not wait for it to settle."
+  },
+  {
+   "big": "The yearly dilated eye exam",
+   "en": "At least once a year, even if you see well.",
+   "ta": "வருடத்துக்கு ஒருமுறை கண் பரிசோதனை அவசியம்",
+   "say": "Now, the most important step: a dilated eye exam, at least once a year, even if your vision feels fine. Your doctor may advise checks more often, depending on your eyes."
+  },
+  {
+   "big": "What happens in the exam",
+   "en": "Drops widen the pupil so the doctor can see the whole retina.",
+   "ta": "சொட்டு மருந்து போட்டு ரெடினாவை முழுமையாக பார்ப்பார்கள்",
+   "say": "In this exam, eye drops widen the pupil, so the eye specialist can see the whole retina. It is painless, but your vision may be blurry and bright for a few hours. So go with a family member, carry sunglasses, and take your latest sugar reports."
+  },
+  {
+   "big": "Protect your eyes: A, B, C",
+   "en": "Keep sugar, blood pressure and cholesterol in your target range.",
+   "ta": "சர்க்கரை, BP, கொலஸ்ட்ரால் – கட்டுப்பாட்டில் வையுங்கள்",
+   "say": "Next, how to protect your eyes. Remember A, B, C. A for your average sugar test. B for blood pressure. C for cholesterol. Keep all three in the target range your doctor sets."
+  },
+  {
+   "image": "tools/assets/ai/2026-11-29-lakshmi-meal.jpg",
+   "big": "Eat well",
+   "en": "More vegetables, greens and whole grains. Fewer sweets and fried foods.",
+   "ta": "காய்கறி, கீரை அதிகம்; இனிப்பு குறைவு",
+   "say": "Eat well. Fill half your plate with vegetables and greens, choose whole grains like millets, and cut down on sweets, sugary drinks and fried food."
+  },
+  {
+   "video": "tools/assets/ai/2026-11-29-ganesan-lakshmi-walk.mp4",
+   "big": "Move every day",
+   "en": "A brisk 30-minute walk on most days helps control sugar.",
+   "ta": "தினமும் 30 நிமிடம் நடைப்பயிற்சி",
+   "say": "Move every day. A brisk walk of about thirty minutes on most days helps control sugar and blood pressure. Walk together. It is more fun."
+  },
+  {
+   "big": "No smoking. Follow your treatment.",
+   "en": "Smoking harms the eye's tiny vessels. Never stop treatment on your own.",
+   "ta": "புகைபிடிக்காதீர்கள்; மருத்துவர் சொல்வதை பின்பற்றுங்கள்",
+   "say": "Do not smoke, because it harms the same tiny blood vessels. Take your diabetes treatment exactly as your doctor advises, and never stop it on your own."
+  },
+  {
+   "big": "Myth: “I see clearly, so my eyes are fine”",
+   "en": "Fact: early damage has no symptoms. Only an eye exam can find it.",
+   "ta": "தெளிவாக தெரிந்தாலும் பரிசோதனை அவசியம்",
+   "say": "Myth: I see clearly, so my eyes are fine. Fact: early damage has no symptoms. Only an eye exam can find it in time."
+  },
+  {
+   "big": "Tip: new glasses?",
+   "en": "Check your power once your sugar is stable.",
+   "ta": "சர்க்கரை சீரான பிறகு கண்ணாடி பவர் பாருங்கள்",
+   "say": "A useful tip. If your sugar has been very high, or has just changed a lot, your power may shift for a while. Get your glasses power checked once your sugar is stable, for an accurate prescription."
+  },
+  {
+   "image": "tools/assets/ai/2026-11-29-ganesan-lakshmi-walk.jpg",
+   "big": "Book your eye test",
+   "en": "Free eye test at our store. Home eye test in Chennai: ₹100 for the whole family.",
+   "ta": "வீட்டிலேயே கண் பரிசோதனை – முழு குடும்பத்துக்கும் ரூ.100",
+   "say": "At LenzKare, the eye test at our store is free. We can also come to your home: a home eye test in Chennai is just one hundred rupees for the whole family. Book on WhatsApp. And if anything needs a closer look, we will guide you to an eye specialist."
+  },
+  {
+   "big": "General information",
+   "en": "Not a diagnosis. See an eye specialist for your own eyes.",
+   "ta": "இது பொது தகவல் மட்டும் – கண் மருத்துவரை அணுகுங்கள்",
+   "say": "This video is general information, not a diagnosis. For your own eyes, see an eye specialist. Share this video with someone who has diabetes, and subscribe for more eye-care tips."
+  }
+ ]
+}

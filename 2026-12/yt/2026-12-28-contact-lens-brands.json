@@ -1,0 +1,60 @@
+{
+ "voice": "hm_omega",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-23-priya-office-smile.jpg",
+   "big": "Thinking of contact lenses?",
+   "en": "Do this first.",
+   "ta": "காண்டாக்ட் லென்ஸ் போட ஆசையா?",
+   "say": "Thinking of switching to contact lenses? Do this first."
+  },
+  {
+   "big": "Eye test first",
+   "en": "Your contact lens power can differ from your glasses power.",
+   "ta": "கண்ணாடி பவரும் லென்ஸ் பவரும் ஒன்றல்ல",
+   "say": "Get an eye test first. Your contact lens power can be different from your glasses power, because the lens sits right on the eye."
+  },
+  {
+   "big": "Brands we stock",
+   "en": "Acuvue · Bausch+Lomb · Alcon · CooperVision · Freshlook",
+   "ta": "முன்னணி பிராண்டுகள் எல்லாம் கிடைக்கும்",
+   "say": "We stock Acuvue, Bausch and Lomb, Alcon, CooperVision, and Freshlook."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-23-priya-lens-case.jpg",
+   "big": "Daily, monthly, coloured",
+   "en": "We help you pick what suits your eyes and routine.",
+   "ta": "தினசரி, மாதாந்திர, கலர் லென்ஸ்கள்",
+   "say": "Daily, monthly, or coloured lenses. We help you pick what suits your eyes and your routine."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-23-priya-handwash.jpg",
+   "big": "Golden rules",
+   "en": "Wash hands. Fresh solution. Never sleep or swim in lenses.",
+   "ta": "கை கழுவுங்கள், லென்ஸுடன் தூங்காதீர்கள்",
+   "say": "Golden rules. Wash and dry your hands, use fresh solution every time, and never sleep or swim in your lenses."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Tap water can carry germs that cause serious eye infections.",
+   "ta": "குழாய் நீர் லென்ஸில் படக்கூடாது",
+   "say": "Did you know? Tap water can carry germs that cause serious eye infections. So never rinse your lenses with water."
+  },
+  {
+   "big": "Urgent if...",
+   "en": "Red, painful or blurry eye: remove the lens, see an eye specialist.",
+   "ta": "கண் சிவந்து வலித்தால் லென்ஸைக் கழற்றி உடனே கண் மருத்துவரிடம்",
+   "say": "If your eye turns red, painful, or blurry, remove the lens and see an eye specialist urgently."
+  },
+  {
+   "big": "Free eye test in store",
+   "en": "Get contact lens advice at our store.",
+   "ta": "கடையில் இலவச கண் பரிசோதனை",
+   "say": "Visit our store for a free eye test and contact lens advice."
+  }
+ ]
+}

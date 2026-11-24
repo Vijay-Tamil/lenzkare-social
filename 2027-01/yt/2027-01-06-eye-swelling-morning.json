@@ -1,0 +1,60 @@
+{
+ "voice": "hf_beta",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-23-priya-sleepy-bed.jpg",
+   "big": "Puffy eyes every morning?",
+   "en": "Here's why, and when it's urgent",
+   "ta": "காலையில் கண் வீக்கமா?",
+   "say": "Waking up with puffy eyes? Here's why it happens, and when it's urgent."
+  },
+  {
+   "big": "Why it happens",
+   "en": "Lying flat all night lets fluid settle in the thin skin around the eyes",
+   "ta": "இரவில் படுத்திருக்கும்போது கண்ணைச் சுற்றி நீர் தேங்கும்",
+   "say": "When you lie flat all night, fluid settles in the thin, loose skin around your eyes. Once you are up and moving, it usually drains away."
+  },
+  {
+   "big": "Common triggers",
+   "en": "Salty dinner, late nights, crying, allergies, rubbing",
+   "ta": "உப்பு உணவு, தூக்கமின்மை, அலர்ஜி",
+   "say": "Common triggers are a salty dinner, late nights, crying, allergies, and rubbing your eyes."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Eyelid skin is among the thinnest skin on your body",
+   "ta": "இமைத் தோல் உடலிலேயே மிக மெல்லியது",
+   "say": "Did you know? Eyelid skin is among the thinnest skin on your body. That's why fluid shows there first."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-21-arun-cool-cloth.jpg",
+   "big": "Try this",
+   "en": "Cool, clean cloth for 5 minutes. Sleep well, head a little raised. Less salt at night.",
+   "ta": "குளிர்ந்த துணியை மூடிய கண் மேல் வையுங்கள்",
+   "say": "Try this. Place a cool, clean cloth on closed eyes for five minutes. Sleep well with your head a little raised, and eat less salt at night."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-21-arun-rubbing-eyes.jpg",
+   "big": "Don't rub",
+   "en": "Rubbing makes swelling and itching worse",
+   "ta": "கண்ணைத் தேய்க்காதீர்கள்",
+   "say": "And don't rub. It makes swelling and itching worse."
+  },
+  {
+   "big": "Urgent if...",
+   "en": "Pain, redness, fever, vision change, or one eye badly swollen",
+   "ta": "வலி, சிவப்பு, காய்ச்சல் இருந்தால் உடனே மருத்துவரிடம்",
+   "say": "See an eye specialist urgently if swelling comes with pain, redness, fever, a change in vision, or if one eye is badly swollen."
+  },
+  {
+   "big": "Keeps coming back?",
+   "en": "Swollen feet too? See a doctor. Book an eye test.",
+   "ta": "தொடர்ந்தால் கண் பரிசோதனை செய்யுங்கள்",
+   "say": "If puffiness comes every day with swollen feet, see a doctor for a check-up. And book an eye test."
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "voice": "hm_omega",
+ "speed": 1.0,
+ "scenes": [
+  {
+   "big": "What is PD?",
+   "en": "Two letters on your prescription that matter a lot.",
+   "ta": "உங்கள் கண்ணாடி சீட்டில் உள்ள PD என்ன?",
+   "say": "Quick question. What is P D on your glasses prescription? Most people don't know."
+  },
+  {
+   "big": "Pupillary distance",
+   "en": "The gap between the centres of your two pupils, in millimetres.",
+   "ta": "இரண்டு கண்மணிகளின் நடுவே உள்ள தூரம்",
+   "say": "P D means pupillary distance. It is the gap between the centres of your two pupils, measured in millimetres."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-20-karthik-amma-mirror.jpg",
+   "big": "Why it matters",
+   "en": "Each lens's centre must sit right in front of your pupil.",
+   "ta": "லென்ஸின் மையம் கண்மணிக்கு நேராக இருக்க வேண்டும்",
+   "say": "Every lens has an optical centre. It must sit exactly in front of your pupil. If the P D is wrong, your eyes have to work harder."
+  },
+  {
+   "big": "Did you know?",
+   "en": "A wrong PD can cause eye strain, headaches or a pulling feeling.",
+   "ta": "தவறான PD என்றால் கண் சோர்வு, தலைவலி வரலாம்",
+   "say": "Did you know? A wrong P D can cause eye strain, headaches, or a pulling feeling. It matters even more with higher powers and progressive lenses."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-20-karthik-phone-sofa.jpg",
+   "big": "Ordering online?",
+   "en": "Use the PD from your latest eye test. Kids' PD changes as they grow.",
+   "ta": "ஆன்லைனில் ஆர்டர் செய்யும்போது சரியான PD கொடுங்கள்",
+   "say": "Ordering glasses online? Use the P D from your latest eye test. Children's P D changes as they grow, so measure it again."
+  },
+  {
+   "big": "Buy 1 Get 1 FREE",
+   "en": "On spectacles with LenzKare Fusion lenses. Free eye test in our store.",
+   "ta": "ஃப்யூஷன் லென்ஸ் கண்ணாடிக்கு ஒன்று வாங்கினால் ஒன்று இலவசம்",
+   "say": "The eye test in our store is free, and we measure your P D. And get buy one get one free on spectacles with LenzKare Fusion lenses."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-20-karthik-parcel.jpg",
+   "big": "Delivered across India",
+   "en": "Order at lenzkare.com",
+   "ta": "lenzkare.com-இல் ஆர்டர் செய்யுங்கள்",
+   "say": "Or order online, with delivery across India. Get your P D right, and see clearly."
+  }
+ ]
+}

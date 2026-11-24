@@ -1,0 +1,54 @@
+{
+ "voice": "hf_beta",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-09-senthil-phone-arm.jpg",
+   "big": "Squinting at your phone?",
+   "en": "Do this, not that.",
+   "ta": "போனை பார்க்க கண்ணை சுருக்குகிறீர்களா?",
+   "say": "Squinting at your phone? Do this, not that."
+  },
+  {
+   "big": "Why it happens",
+   "en": "After about 40, the lens inside the eye gets stiffer. Near focus gets harder.",
+   "ta": "40 வயதுக்கு பிறகு அருகில் பார்ப்பது கடினம்",
+   "say": "Here is why. After about forty, the lens inside your eye slowly gets stiffer, so focusing up close gets harder. This is natural, and it happens to almost everyone."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-19-daughter-appa-phone.jpg",
+   "big": "DO",
+   "en": "Increase font size and display zoom. Turn on bold text.",
+   "ta": "எழுத்து அளவை பெரிதாக்குங்கள்",
+   "say": "Do this. In your phone settings, increase the font size and display zoom, and turn on bold text."
+  },
+  {
+   "big": "DO",
+   "en": "Match brightness to the room. Hold the phone about an arm's length away.",
+   "ta": "அறை வெளிச்சத்திற்கு ஏற்ப பிரகாசம்",
+   "say": "Match screen brightness to the room light, and hold the phone a comfortable distance away."
+  },
+  {
+   "big": "DON'T",
+   "en": "Don't scroll in a dark room. Don't hold it close to your nose.",
+   "ta": "இருட்டில் போன் பார்க்காதீர்கள்",
+   "say": "Do not scroll in a dark room, and do not hold the phone close to your nose. Every twenty minutes, look far away for twenty seconds."
+  },
+  {
+   "big": "Did you know?",
+   "en": "If you push the phone farther away to read, you may need reading power.",
+   "ta": "போனை தூரமாக பிடித்தால் கண்ணாடி தேவைப்படலாம்",
+   "say": "Did you know? If you keep pushing the phone farther away to read, you may simply need reading glasses. Bigger fonts help, but they do not fix it."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-22-divya-paati-booking.jpg",
+   "big": "Read with ease",
+   "en": "Book an eye test. Home eye test in Chennai: ₹100 for the whole family.",
+   "ta": "வீட்டில் கண் பரிசோதனை: குடும்பத்துக்கு ரூ.100",
+   "say": "Book an eye test. Our home eye test in Chennai is just one hundred rupees for the whole family."
+  }
+ ]
+}

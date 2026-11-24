@@ -1,0 +1,50 @@
+{
+ "voice": "hm_psi",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-19-appa-headlight-glare.jpg",
+   "big": "Rainbow rings around lights?",
+   "en": "With eye pain? This is urgent.",
+   "ta": "விளக்கைச் சுற்றி வானவில் வளையமா?",
+   "say": "Rainbow rings around lights, with eye pain? This can be an emergency."
+  },
+  {
+   "big": "Why it happens",
+   "en": "Fluid inside the eye can suddenly stop draining. Pressure shoots up.",
+   "ta": "கண்ணின் உள்ளே திரவம் வெளியேறாமல் அழுத்தம் உயரும்",
+   "say": "Fluid inside the eye normally drains out. In some people, the drain can suddenly get blocked, and the eye pressure shoots up."
+  },
+  {
+   "big": "Sign 1",
+   "en": "Halos or rainbow rings around lights, with blurred vision",
+   "ta": "1. விளக்கைச் சுற்றி வளையங்கள், மங்கலான பார்வை",
+   "say": "Sign one. Halos or rainbow rings around lights, with blurred vision."
+  },
+  {
+   "big": "Sign 2",
+   "en": "Severe eye pain and headache, often on one side",
+   "ta": "2. கடுமையான கண் வலி, தலைவலி",
+   "say": "Sign two. Severe eye pain and headache, often on one side."
+  },
+  {
+   "big": "Sign 3",
+   "en": "Red eye with nausea or vomiting",
+   "ta": "3. கண் சிவப்பு, குமட்டல், வாந்தி",
+   "say": "Sign three. A red eye, with nausea or vomiting. People often mistake it for a migraine or a stomach upset."
+  },
+  {
+   "big": "Did you know?",
+   "en": "This is acute angle-closure glaucoma. Without quick treatment, sight can be lost for good.",
+   "ta": "உடனே சிகிச்சை இல்லாவிட்டால் பார்வை நிரந்தரமாகப் பாதிக்கலாம்",
+   "say": "Did you know? This is called acute angle closure glaucoma. Without quick treatment, it can cause permanent vision loss."
+  },
+  {
+   "big": "See an eye specialist urgently",
+   "en": "Same day. Risk is higher after 40 and in long-sighted people.",
+   "ta": "உடனே கண் மருத்துவரிடம் செல்லுங்கள்",
+   "say": "See an eye specialist urgently, the same day. And after forty, get regular eye checks. Book an eye test."
+  }
+ ]
+}

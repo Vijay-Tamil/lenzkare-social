@@ -1,0 +1,60 @@
+{
+ "voice": "hm_omega",
+ "speed": 1.0,
+ "scenes": [
+  {
+   "big": "Clear indoors. Dark outside. How?",
+   "en": "One pair of glasses that changes by itself.",
+   "ta": "உள்ளே தெளிவு, வெளியே கருமை. எப்படி?",
+   "say": "Quick quiz. Which glasses stay clear indoors, but turn dark in the sun, all by themselves?"
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-22-ravi-morning-walk.jpg",
+   "big": "Photochromic lenses",
+   "en": "They react to the sun's UV light.",
+   "ta": "ஃபோட்டோக்ரோமிக் லென்ஸ்",
+   "say": "The answer: photochromic lenses. They react to the sun's UV light."
+  },
+  {
+   "big": "How it works",
+   "en": "Special molecules in the lens darken in UV, then clear again indoors.",
+   "ta": "சூரிய UV ஒளியில் லென்ஸ் கருமையாகும்",
+   "say": "Special molecules inside the lens change shape in UV light, and darken. Indoors, away from UV, they slowly clear again."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Most car windscreens block UV, so these lenses may not darken much in a car.",
+   "ta": "காருக்குள் அதிகம் கருமையாகாது",
+   "say": "Did you know? Most car windscreens block UV, so these lenses may not darken much while you drive a car."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-19-appa-wiping-glasses.jpg",
+   "big": "One pair, not two",
+   "en": "No more switching between specs and sunglasses.",
+   "ta": "இரண்டு கண்ணாடி தேவையில்லை",
+   "say": "Perfect if you keep switching between your specs and sunglasses, on bike rides, walks, or market trips."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-18-woman-trying-frames.jpg",
+   "big": "+₹1,000 on Fusion lenses",
+   "en": "Add photochromic to LenzKare Fusion lenses.",
+   "ta": "Fusion லென்ஸுக்கு ரூ.1,000 கூடுதல்",
+   "say": "Add photochromic to LenzKare Fusion lenses for one thousand rupees extra."
+  },
+  {
+   "big": "Buy 1 Get 1 FREE",
+   "en": "On spectacles with LenzKare Fusion lenses. FOE frames from ₹899.",
+   "ta": "ஒன்று வாங்கினால் ஒன்று இலவசம்!",
+   "say": "And spectacles with LenzKare Fusion lenses are Buy 1 Get 1 FREE. F O E frames start at eight hundred and ninety nine rupees."
+  },
+  {
+   "big": "Get yours",
+   "en": "lenzkare.com or our store. Home eye test in Chennai: ₹100 for the whole family.",
+   "ta": "இன்றே கண் பரிசோதனை செய்யுங்கள்",
+   "say": "Order on lenzkare dot com, or visit our store. Our home eye test in Chennai is one hundred rupees for the whole family."
+  }
+ ]
+}

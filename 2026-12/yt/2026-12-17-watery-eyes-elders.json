@@ -1,0 +1,54 @@
+{
+ "voice": "hm_psi",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-23-meena-window-specks.jpg",
+   "big": "Amma's eyes keep watering",
+   "en": "Meena thought it was just age.",
+   "ta": "அம்மாவின் கண்ணில் எப்போதும் நீர் வடிகிறது",
+   "say": "Meena's eyes kept watering all day. She thought it was just age."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Dry eyes can cause watering! Irritation triggers floods of thin tears.",
+   "ta": "கண் வறட்சியால் கூட நீர் வடியும்",
+   "say": "Did you know? A common cause is dry eye. When the eye surface gets dry and irritated, it makes a flood of watery tears that don't protect it well."
+  },
+  {
+   "big": "Blocked tear duct",
+   "en": "Tears drain through a tiny duct into the nose. With age it can narrow.",
+   "ta": "கண்ணீர் வெளியேறும் குழாய் அடைபடலாம்",
+   "say": "Another cause: tears drain through a tiny duct into the nose. With age, this duct can narrow or get blocked, so tears spill over."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-23-meena-balcony-calm.jpg",
+   "big": "Loose eyelids",
+   "en": "With age, lids can sag or turn, so tears don't drain well.",
+   "ta": "வயதால் இமைகள் தளர்ந்து போகலாம்",
+   "say": "And with age, the eyelids can become loose, or turn slightly in or out, so tears don't flow where they should."
+  },
+  {
+   "big": "Do this",
+   "en": "Wipe gently with a clean tissue. Blink often. Keep fan air off your face.",
+   "ta": "சுத்தமான துணியால் மெதுவாக துடையுங்கள்",
+   "say": "Meanwhile, wipe gently with a clean tissue, blink often, and keep fan or AC air off your face."
+  },
+  {
+   "big": "Urgent if...",
+   "en": "Pain, redness or swelling near the nose, pus, or blurred vision.",
+   "ta": "வலி, வீக்கம், சீழ் இருந்தால் உடனே மருத்துவரை பாருங்கள்",
+   "say": "See an eye specialist urgently if there's pain, redness or swelling near the nose, pus, or blurred vision."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-23-meena-daughter-booking.jpg",
+   "big": "Meena got checked",
+   "en": "Book an eye test for the elders at home.",
+   "ta": "பெரியவர்களுக்கு கண் பரிசோதனை செய்யுங்கள்",
+   "say": "Meena's daughter booked an eye test, and the cause was found. Book one for the elders in your home too."
+  }
+ ]
+}

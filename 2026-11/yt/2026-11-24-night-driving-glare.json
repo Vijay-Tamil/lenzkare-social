@@ -1,0 +1,60 @@
+{
+ "voice": "hf_alpha",
+ "speed": 1.0,
+ "scenes": [
+  {
+   "image": "tools/assets/ai/2026-11-24-anand-headlight-glare.jpg",
+   "full": true,
+   "big": "Headlights blinding you at night?",
+   "en": "3 signs to watch for.",
+   "ta": "இரவில் எதிர் விளக்கு கண்ணைக் கூசுகிறதா?",
+   "say": "Do oncoming headlights blind you at night? Watch for these three signs."
+  },
+  {
+   "big": "Why it happens",
+   "en": "In the dark, your pupil opens wide. Haze scatters the light into glare.",
+   "ta": "இருட்டில் கண்மணி விரியும், ஒளி சிதறும்",
+   "say": "In the dark, your pupil opens wide. Any haze in the eye, or smudges on your glasses, scatter the light into glare."
+  },
+  {
+   "big": "Sign 1: Halos",
+   "en": "Rings or rays around every light.",
+   "ta": "விளக்குகளைச் சுற்றி வளையங்கள்",
+   "say": "Sign one. Rings or rays around every streetlight."
+  },
+  {
+   "image": "tools/assets/ai/2026-11-24-anand-cleaning-glasses.jpg",
+   "full": true,
+   "big": "Sign 2: Slow recovery",
+   "en": "Your sight takes longer to clear after a bright light.",
+   "ta": "பார்வை தெளிவாக அதிக நேரம் ஆகிறது",
+   "say": "Sign two. After a bright light passes, your sight takes longer to clear."
+  },
+  {
+   "big": "Sign 3: Worse every year",
+   "en": "The eye's lens can slowly turn cloudy. Night glare is an early sign of cataract.",
+   "ta": "கண் லென்ஸ் மங்கலாகலாம் – கண்புரையின் ஆரம்ப அறிகுறி",
+   "say": "Sign three. It gets worse every year. The lens inside the eye can slowly turn cloudy, and night glare is a common early sign of cataract."
+  },
+  {
+   "image": "tools/assets/ai/2026-11-24-anand-windscreen.jpg",
+   "full": true,
+   "big": "Do this",
+   "en": "Clean the windscreen inside and out. Keep glasses spotless. Look at the left edge of the road.",
+   "ta": "கண்ணாடியைச் சுத்தமாக வையுங்கள், சாலையின் இடது ஓரத்தைப் பாருங்கள்",
+   "say": "Clean your windscreen inside and out. Keep your glasses spotless, and look at the left edge of the road, not into the lights."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Yellow 'night driving' glasses don't help. Anti-reflective coated lenses cut reflections.",
+   "ta": "மஞ்சள் கண்ணாடி உதவாது",
+   "say": "Did you know? Yellow night driving glasses don't help, and can make you see less. Lenses with anti-reflective coating cut reflections."
+  },
+  {
+   "big": "Get checked",
+   "en": "Sudden blur or vision loss? See an eye specialist urgently. Book an eye test today.",
+   "ta": "திடீர் மங்கலா? உடனே கண் மருத்துவரைப் பாருங்கள்",
+   "say": "If your vision drops suddenly, see an eye specialist the same day. Otherwise, book an eye test before your next night drive."
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "voice": "hf_beta",
+ "speed": 1.0,
+ "scenes": [
+  {
+   "image": "tools/assets/ai/2026-11-19-woman-laptop-tired.jpg",
+   "big": "Screens, dry eyes & eye strain",
+   "en": "A complete guide for office workers and students.",
+   "ta": "திரை, வறண்ட கண், கண் சோர்வு – முழு வழிகாட்டி",
+   "say": "Tired, burning eyes after a day at the laptop? You are not alone. In this guide for office workers and students, we explain why screens strain the eyes, what dry eye really is, and simple habits that bring real relief."
+  },
+  {
+   "big": "Digital eye strain",
+   "en": "Tired eyes, burning, blur, headache, neck and shoulder pain.",
+   "ta": "கண் சோர்வு, எரிச்சல், தலைவலி, கழுத்து வலி",
+   "say": "First, the signs of digital eye strain: tired or burning eyes, blurry vision after long screen work, headaches, and even neck and shoulder pain. These usually ease with rest, but they come back every day if habits don't change."
+  },
+  {
+   "big": "Why it happens: focus",
+   "en": "Close work keeps the focusing muscle tight for hours.",
+   "ta": "அருகில் பார்க்கும்போது கண் தசை இறுக்கமாகும்",
+   "say": "Why does it happen? When you look at something close, a small muscle inside the eye tightens to focus. Hours of close work keep that muscle working without a break, so the eyes get tired."
+  },
+  {
+   "big": "Why it happens: blinking",
+   "en": "We blink much less while staring at a screen.",
+   "ta": "திரையைப் பார்க்கும்போது கண் சிமிட்டுவது குறையும்",
+   "say": "The second reason is blinking. Every blink spreads a fresh layer of tears over the eye. Did you know? We normally blink about fifteen times a minute, but studies show we blink much less while staring at a screen."
+  },
+  {
+   "big": "The tear film",
+   "en": "Three layers: oil, water and mucus keep the eye smooth and wet.",
+   "ta": "கண்ணீர் படலம் – எண்ணெய், நீர், சளி",
+   "say": "The surface of your eye is covered by a thin tear film, with three layers: oil on the top, water in the middle, and mucus at the bottom. The oil layer stops the water from drying out too fast."
+  },
+  {
+   "image": "tools/assets/ai/2026-11-21-arun-rubbing-eyes.jpg",
+   "big": "Dry eye",
+   "en": "Gritty, burning, red eyes. Sometimes, watery eyes too!",
+   "ta": "மணல் விழுந்தது போல் உறுத்தல், எரிச்சல்",
+   "say": "When tears dry too fast, or there are not enough of them, you get dry eye. The eyes feel gritty, burning or red. Strangely, dry eyes can also water a lot, because the irritated eye makes emergency tears that do not stick well."
+  },
+  {
+   "big": "What makes it worse",
+   "en": "AC and fans blowing on the face, late nights, contact lenses, smoke.",
+   "ta": "ஏசி காற்று, தூக்கமின்மை, புகை",
+   "say": "Air conditioning and fans blowing on your face, late nights, smoke, long contact lens wear, and age can all make dry eye worse. Women and people over forty often notice it more."
+  },
+  {
+   "big": "Rule 1: 20-20-20",
+   "en": "Every 20 minutes, look 20 feet away for 20 seconds.",
+   "ta": "20 நிமிடத்துக்கு ஒருமுறை, 20 அடி தூரம், 20 வினாடி",
+   "say": "Now, the habits. Rule one: twenty, twenty, twenty. Every twenty minutes, look at something about twenty feet away, for twenty seconds. This lets the focusing muscle relax."
+  },
+  {
+   "image": "tools/assets/ai/2026-11-19-woman-window.jpg",
+   "big": "Rule 2: blink fully",
+   "en": "Close your eyes gently for a second, a few times every hour.",
+   "ta": "முழுமையாக கண் சிமிட்டுங்கள்",
+   "say": "Rule two: blink fully. Many screen blinks are half blinks. A few times every hour, close your eyes gently for a second, and then open them. It spreads fresh tears across the eye."
+  },
+  {
+   "image": "tools/assets/ai/2026-11-19-woman-desk-setup.jpg",
+   "big": "Rule 3: set up your screen",
+   "en": "Arm's length away, top of the screen at or just below eye level.",
+   "ta": "திரையை கை நீள தூரத்தில், கண் மட்டத்துக்கு கீழே வையுங்கள்",
+   "say": "Rule three: set up your screen. Keep it about an arm's length away, with the top of the screen at or just below eye level. Looking slightly down keeps more of the eye covered by the lids, so it dries less."
+  },
+  {
+   "big": "Rule 4: light and air",
+   "en": "Match brightness to the room. Keep the AC and fan off your face.",
+   "ta": "ஏசி, ஃபேன் காற்று முகத்தில் படாமல் வையுங்கள்",
+   "say": "Rule four: light and air. Match screen brightness to the room, and increase the text size so you don't lean in. Point the AC and the fan away from your face, drink enough water, and take a short walk every hour."
+  },
+  {
+   "big": "For students",
+   "en": "Study in good light, take breaks, play outdoors every day.",
+   "ta": "மாணவர்கள்: இடைவேளை, நல்ல வெளிச்சம், வெளியில் விளையாட்டு",
+   "say": "For students: study in good light, take a short break every half hour, hold books and phones at a comfortable distance, and spend time outdoors in daylight every day. Outdoor time is good for growing eyes."
+  },
+  {
+   "big": "Phones at night",
+   "en": "Stop screens an hour before bed. Sleep heals the eye surface.",
+   "ta": "தூங்கும் முன் ஒரு மணி நேரம் போன் வேண்டாம்",
+   "say": "Phones in bed are a big one. Scrolling in the dark strains the eyes and cuts into sleep. Try to stop screens an hour before bed. Good sleep helps the eye surface heal every night."
+  },
+  {
+   "image": "tools/assets/ai/2026-11-21-arun-cool-cloth.jpg",
+   "big": "Don't rub. Rest instead.",
+   "en": "Close your eyes for a minute. A clean, cool cloth can soothe.",
+   "ta": "கண்ணை தேய்க்காதீர்கள்",
+   "say": "When your eyes feel tired, do not rub them. Rubbing can irritate the surface even more. Close your eyes for a minute instead, and a clean, cool cloth can feel soothing."
+  },
+  {
+   "big": "About eye drops",
+   "en": "Don't pick drops on your own. Ask an eye specialist.",
+   "ta": "சொந்தமாக சொட்டு மருந்து வாங்காதீர்கள்",
+   "say": "What about eye drops? Some drops sold for red eyes are not right for dry eyes, and some are not meant for daily use. Do not pick drops on your own. Ask an eye specialist which, if any, suit your eyes."
+  },
+  {
+   "big": "Myth: blue light is damaging your eyes",
+   "en": "Fact: no good evidence that screen light damages the eye (AAO).",
+   "ta": "திரையின் நீல ஒளி கண்ணை சேதப்படுத்தும் என்பதற்கு சான்று இல்லை",
+   "say": "Myth: blue light from screens is damaging your eyes. Fact: according to the American Academy of Ophthalmology, there is no good evidence that the light from screens damages the eye. The strain comes from long focusing and less blinking. Breaks help far more."
+  },
+  {
+   "big": "Your power matters",
+   "en": "Uncorrected or old power makes strain worse. Anti-reflection coating helps.",
+   "ta": "சரியான கண்ணாடி பவர் முக்கியம்",
+   "say": "One more cause is often missed: an uncorrected or outdated power. Even a small power, or a power that suits distance but not screens, can cause strain. Lenses with an anti-reflection coating cut glare from screens and lights."
+  },
+  {
+   "big": "See a specialist urgently if…",
+   "en": "Eye pain, a very red eye, strong light sensitivity, or vision drops.",
+   "ta": "கண் வலி, அதிக சிவப்பு, பார்வை குறைவு – உடனே காட்டுங்கள்",
+   "say": "See an eye specialist urgently if you have real eye pain, a very red eye, strong sensitivity to light, or if your vision drops. These are not normal screen strain."
+  },
+  {
+   "image": "tools/assets/ai/2026-11-23-priya-office-smile.jpg",
+   "big": "Get your eyes tested",
+   "en": "Free at our store. Home eye test in Chennai: ₹100 for the whole family.",
+   "ta": "வீட்டிலேயே கண் பரிசோதனை – முழு குடும்பத்துக்கும் ரூ.100",
+   "say": "If your eyes feel tired every day, start with an eye test. The eye test at our store is free, and a home eye test in Chennai is just one hundred rupees for the whole family. And spectacles with Fusion lenses are buy one, get one free."
+  },
+  {
+   "big": "General information",
+   "en": "Not a diagnosis. See an eye specialist for your own eyes.",
+   "ta": "இது பொது தகவல் மட்டும் – கண் மருத்துவரை அணுகுங்கள்",
+   "say": "This video is general information, not a diagnosis. For your own eyes, see an eye specialist. Share this with a friend who works on screens, and subscribe for more eye-care tips."
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "voice": "hf_beta",
+ "speed": 1.0,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-09-senthil-phone-arm.jpg",
+   "big": "Phone at arm's length?",
+   "en": "Turned 40? This is for you.",
+   "ta": "40 வயதுக்கு மேல் போனை தூரமாக பிடிக்கிறீர்களா?",
+   "say": "Turned forty, and now you hold your phone at arm's length to read it? Meet Senthil."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-09-senthil-menu-far.jpg",
+   "big": "Senthil, 46",
+   "en": "Far is clear. Menus and messages up close are blurry.",
+   "ta": "அருகில் உள்ள எழுத்துகள் மங்கலாக தெரிகிறது",
+   "say": "Senthil is forty six. Far away, he sees perfectly. But menu cards and phone messages look blurry up close."
+  },
+  {
+   "big": "Why it happens",
+   "en": "The lens inside your eye gets stiffer with age, so near focus gets hard.",
+   "ta": "வயதாகும்போது கண்ணின் லென்ஸ் இறுகிவிடும்",
+   "say": "Inside your eye is a flexible lens. To read up close, it changes shape. After about forty, it slowly gets stiffer, so near focus becomes hard. This is called presbyopia."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-09-senthil-needle.jpg",
+   "big": "Did you know?",
+   "en": "It happens to almost everyone after 40, even with perfect eyesight before.",
+   "ta": "40 வயதுக்கு பிறகு கிட்டத்தட்ட எல்லோருக்கும் வரும்",
+   "say": "Did you know? It happens to almost everyone after forty, even people who never needed glasses before. It is not a disease. It is a normal part of ageing."
+  },
+  {
+   "big": "Common signs",
+   "en": "Holding things far. Tired eyes after reading. Needing brighter light.",
+   "ta": "தூரமாக பிடிப்பது, படித்த பின் கண் சோர்வு, அதிக வெளிச்சம் தேவை",
+   "say": "Common signs: holding things far away, tired eyes or a headache after reading, and needing brighter light."
+  },
+  {
+   "big": "Do this",
+   "en": "Skip readymade readers. Test each eye. Ask about progressive lenses.",
+   "ta": "ரெடிமேட் கண்ணாடி வேண்டாம். முழு கண் பரிசோதனை செய்யுங்கள்",
+   "say": "Don't just pick up readymade reading glasses. Each eye can need a different power. Get a full eye test, and ask about progressive lenses for near and far in one pair. If your vision changes suddenly, see an eye specialist the same day."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-09-senthil-reading-glasses.jpg",
+   "big": "Read easy again",
+   "en": "Book an eye test today.",
+   "ta": "இன்றே கண் பரிசோதனை செய்யுங்கள்",
+   "say": "Senthil reads easily again. After forty, get your eyes tested every year. Book an eye test today."
+  }
+ ]
+}

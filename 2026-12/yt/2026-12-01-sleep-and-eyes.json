@@ -1,0 +1,60 @@
+{
+ "voice": "hm_psi",
+ "speed": 1.0,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-23-priya-sleepy-bed.jpg",
+   "big": "Bad sleep shows in your eyes",
+   "en": "3 things it does to them.",
+   "ta": "தூக்கம் குறைந்தால் கண்கள் பாதிக்கும்",
+   "say": "Slept badly? Your eyes feel it first. Here are three things poor sleep does to them."
+  },
+  {
+   "big": "Why sleep matters",
+   "en": "Closed eyelids keep the eye moist. Eye muscles get a long rest.",
+   "ta": "இரவில் கண்கள் ஓய்வெடுத்து புத்துணர்வு பெறும்",
+   "say": "While you sleep, your closed eyelids keep the eye surface moist, and your eye muscles finally get a long rest."
+  },
+  {
+   "big": "3. Dry, red eyes",
+   "en": "Fewer hours with eyes closed + late screens = dry, irritated eyes.",
+   "ta": "3. கண் வறட்சி, சிவப்பு",
+   "say": "Number three: dry, red eyes. Fewer hours with eyes closed, plus late night screens, leave the surface dry and irritated."
+  },
+  {
+   "big": "2. Eyelid twitching",
+   "en": "Often linked to tiredness, stress and too much coffee.",
+   "ta": "2. கண் இமை துடிப்பு",
+   "say": "Number two: eyelid twitching. That annoying flutter is often linked to tiredness, stress, and too much coffee. It usually settles with rest."
+  },
+  {
+   "big": "1. Eye strain",
+   "en": "Tired focusing muscles: heavy eyes, blurred reading, headaches.",
+   "ta": "1. கண் சோர்வு, தலைவலி",
+   "say": "Number one: eye strain. Tired focusing muscles mean heavy eyes, blurred reading, and headaches by evening."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-23-priya-office-smile.jpg",
+   "big": "Did you know?",
+   "en": "Adults need about 7 or more hours of sleep a night.",
+   "ta": "பெரியவர்களுக்கு தினமும் 7 மணி நேரத்துக்கு மேல் தூக்கம் தேவை",
+   "say": "Did you know? Health experts say adults need about seven or more hours of sleep every night."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-21-arun-cool-cloth.jpg",
+   "big": "Do this tonight",
+   "en": "Phone away 1 hour before bed. Dim lights. A cool, clean, damp cloth on tired eyes.",
+   "ta": "தூங்கும் 1 மணி நேரம் முன் போனை வையுங்கள்",
+   "say": "Tonight, put the phone away an hour before bed, dim the lights, and rest a cool, clean, damp cloth on tired eyes."
+  },
+  {
+   "big": "See a doctor if...",
+   "en": "Twitching for weeks, a drooping eyelid, or other face twitches.",
+   "ta": "வாரக்கணக்கில் துடிப்பு, இமை தொங்கினால் மருத்துவரிடம் செல்லுங்கள்",
+   "say": "If twitching lasts for weeks, the eyelid droops, or other parts of the face twitch, see a doctor. And if strain continues, book an eye test."
+  }
+ ]
+}

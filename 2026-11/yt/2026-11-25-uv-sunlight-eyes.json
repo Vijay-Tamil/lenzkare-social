@@ -1,0 +1,58 @@
+{
+ "voice": "hf_beta",
+ "speed": 1.0,
+ "scenes": [
+  {
+   "image": "tools/assets/ai/2026-11-18-chennai-street.jpg",
+   "full": true,
+   "big": "Is the sun hurting your eyes?",
+   "en": "UV light harms more than your skin.",
+   "ta": "வெயில் கண்ணையும் பாதிக்குமா?",
+   "say": "Chennai sun is strong all year. And its UV light can harm your eyes, not just your skin."
+  },
+  {
+   "big": "Why it matters",
+   "en": "Invisible UV rays reach the eye's surface and its lens. Damage adds up over years.",
+   "ta": "கண்ணுக்குத் தெரியாத UV கதிர்கள் – பாதிப்பு ஆண்டுக்கணக்கில் சேரும்",
+   "say": "UV rays are invisible. They reach the surface of your eye and the lens inside it, and the damage adds up over many years."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Years of sun exposure raise the risk of cataract and growths on the white of the eye.",
+   "ta": "அதிக வெயில் கண்புரை அபாயத்தை அதிகரிக்கும்",
+   "say": "Did you know? Studies show years of sun exposure raise the risk of cataract, and of fleshy growths on the white of the eye."
+  },
+  {
+   "big": "Step 1: UV400 sunglasses",
+   "en": "Look for '100% UV protection' or 'UV400'. Darker is not always safer.",
+   "ta": "UV400 அல்லது 100% UV பாதுகாப்பு உள்ள கண்ணாடி",
+   "say": "Step one. Wear sunglasses marked UV four hundred, or one hundred percent UV protection. A darker lens is not always safer."
+  },
+  {
+   "big": "Step 2: Cap + shade",
+   "en": "A cap or wide hat blocks light from above.",
+   "ta": "தொப்பி அணியுங்கள், நிழலில் நில்லுங்கள்",
+   "say": "Step two. Add a cap or a wide hat, and use the shade around midday."
+  },
+  {
+   "image": "tools/assets/ai/2026-11-20-son-sunglasses-sofa.jpg",
+   "full": true,
+   "big": "Step 3: Protect kids too",
+   "en": "Children's eyes let in more UV. Sand and water reflect extra light.",
+   "ta": "குழந்தைகளின் கண்களுக்கும் பாதுகாப்பு தேவை",
+   "say": "Step three. Protect children too. Their eyes let in more UV, and sand and water reflect even more light."
+  },
+  {
+   "big": "Never look at the sun",
+   "en": "Not even during an eclipse. Sudden blind spot or blur? See an eye specialist urgently.",
+   "ta": "சூரியனை நேரடியாகப் பார்க்காதீர்கள்",
+   "say": "Never look straight at the sun, even during an eclipse. If you notice a blind spot or sudden blur, see an eye specialist urgently."
+  },
+  {
+   "big": "Get your eyes checked",
+   "en": "Book an eye test today.",
+   "ta": "இன்றே கண் பரிசோதனை செய்யுங்கள்",
+   "say": "Squinting a lot in the sun? Book an eye test today."
+  }
+ ]
+}

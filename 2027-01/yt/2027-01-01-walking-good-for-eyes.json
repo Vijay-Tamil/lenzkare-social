@@ -1,0 +1,54 @@
+{
+ "voice": "hf_alpha",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-22-ravi-morning-walk.jpg",
+   "big": "New Year goal: walk!",
+   "en": "Your eyes will thank you.",
+   "ta": "புத்தாண்டு இலக்கு: தினமும் நடை!",
+   "say": "Happy New Year! Here is one resolution your eyes will love. Move more."
+  },
+  {
+   "big": "3. Better blood flow",
+   "en": "The retina and optic nerve need steady blood supply.",
+   "ta": "கண் நரம்புக்கு நல்ல ரத்த ஓட்டம்",
+   "say": "Number three. Better blood flow. The retina and the optic nerve need a steady supply of blood and oxygen, and regular exercise supports healthy circulation."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-04-kavya-morning-walk.jpg",
+   "big": "2. Sugar & BP",
+   "en": "Exercise helps control diabetes and BP, which protect the eyes.",
+   "ta": "சர்க்கரை, ரத்த அழுத்தம் கட்டுப்படும்",
+   "say": "Number two. Exercise helps keep blood sugar and blood pressure in control. Both, when high, can damage the tiny blood vessels in your eyes."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-21-girl-cycle-park.jpg",
+   "big": "1. Daylight for kids",
+   "en": "Outdoor play in daylight helps lower the risk of short sight.",
+   "ta": "குழந்தைகள் வெளியே விளையாடட்டும்",
+   "say": "Number one. For children, playing outdoors in daylight is linked to a lower risk of short sight. So walk together as a family."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Studies suggest active people have a lower risk of some eye diseases.",
+   "ta": "சுறுசுறுப்பானவர்களுக்கு கண் நோய் ஆபத்து குறைவு",
+   "say": "Did you know? Studies suggest people who stay active have a lower risk of some eye diseases, like glaucoma."
+  },
+  {
+   "big": "Start small",
+   "en": "30 minutes a day. Sunglasses in strong sun. Never look at the sun.",
+   "ta": "தினமும் 30 நிமிடம், வெயிலில் கூலிங் கிளாஸ்",
+   "say": "Start small. Thirty minutes of brisk walking a day. Wear sunglasses in strong sun, and never look straight at the sun."
+  },
+  {
+   "big": "Healthy eyes in 2027",
+   "en": "Start the year with a family eye test.",
+   "ta": "2027-ஐ கண் பரிசோதனையுடன் தொடங்குங்கள்",
+   "say": "Start the new year right. Book an eye test for your family."
+  }
+ ]
+}

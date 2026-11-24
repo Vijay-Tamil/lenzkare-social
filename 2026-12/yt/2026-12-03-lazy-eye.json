@@ -1,0 +1,54 @@
+{
+ "voice": "hf_beta",
+ "speed": 1.0,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-21-girl-tablet-sofa.jpg",
+   "big": "One eye can quietly fall behind",
+   "en": "Lazy eye must be caught early.",
+   "ta": "ஒரு கண் பார்வை பின்தங்கலாம்",
+   "say": "In some children, one eye quietly falls behind. It's called lazy eye, and it has to be caught early."
+  },
+  {
+   "big": "Why it happens",
+   "en": "If one eye is blurry or turned, the brain starts ignoring it.",
+   "ta": "மூளை வலுவான கண்ணை மட்டும் பயன்படுத்தும்",
+   "say": "Vision develops in early childhood. If one eye is blurry or turned, the brain starts using only the stronger eye, and ignores the weaker one."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Treatment works best when started young, ideally before about age 7.",
+   "ta": "சிறு வயதிலேயே சிகிச்சை தொடங்கினால் நல்ல பலன்",
+   "say": "Did you know? Treatment works best when it starts young, ideally before about seven years of age. Later, it gets much harder."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-21-girl-ball-park.jpg",
+   "big": "Sign 1",
+   "en": "Often bumps into things, or struggles to catch a ball.",
+   "ta": "அடிக்கடி இடித்தல், பந்து பிடிக்க சிரமம்",
+   "say": "Sign one: often bumping into things, or trouble catching a ball."
+  },
+  {
+   "big": "Sign 2",
+   "en": "Tilts the head or closes one eye to look.",
+   "ta": "தலை சாய்த்து அல்லது ஒரு கண்ணை மூடி பார்த்தல்",
+   "say": "Sign two: tilting the head, or closing one eye to see better."
+  },
+  {
+   "big": "Sign 3",
+   "en": "An eye drifts in or out, or the child gets upset when one eye is covered.",
+   "ta": "ஒரு கண் விலகுதல், ஒரு கண்ணை மூடினால் அழுதல்",
+   "say": "Sign three: an eye that drifts in or out, or the child gets upset when you cover one eye, but not the other."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-18-father-son-store.jpg",
+   "big": "No signs? Still test",
+   "en": "Often there are no signs. Test by age 3 to 5, and before school.",
+   "ta": "அறிகுறி இல்லாவிட்டாலும் கண் பரிசோதனை அவசியம்",
+   "say": "Often there are no signs at all. So get your child's eyes tested by age three to five, and before school. If an eye turns, see an eye specialist soon."
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "voice": "hm_psi",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "big": "Book almost touching his nose?",
+   "en": "Kavin's mother noticed this one evening.",
+   "ta": "புத்தகம் மூக்கை தொடும் அளவு அருகிலா?",
+   "say": "Eight year old Kavin read with his book almost touching his nose. His mother noticed it one evening."
+  },
+  {
+   "big": "Other clues",
+   "en": "Squinting at the TV, sitting too close, tilting his head, headaches.",
+   "ta": "கண்ணை சுருக்குவது, டிவி அருகில் உட்காருவது, தலைவலி",
+   "say": "There were other clues. He squinted at the TV, sat very close to it, tilted his head, and got headaches after school."
+  },
+  {
+   "big": "What it may mean",
+   "en": "Short sight, long sight, astigmatism, or one weaker eye.",
+   "ta": "கிட்டப்பார்வை, தூரப்பார்வை, அல்லது ஒரு கண் பலவீனம்",
+   "say": "Holding books very close can mean short sight, long sight, astigmatism, or one eye seeing less clearly than the other."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Kids rarely complain. They think everyone sees the way they do.",
+   "ta": "குழந்தைகள் பெரும்பாலும் சொல்ல மாட்டார்கள்",
+   "say": "Did you know? Children rarely complain about blurry vision. They think everyone sees the world the way they do."
+  },
+  {
+   "big": "Why early matters",
+   "en": "A lazy eye responds best when treated in early childhood.",
+   "ta": "சிறு வயதில் கண்டுபிடித்தால் சிறந்த பலன்",
+   "say": "Some problems, like a lazy eye, respond best when they are treated in early childhood. So don't wait."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-20-amma-son-balcony.jpg",
+   "big": "Kavin's eye test",
+   "en": "He needed glasses. Now he reads at a normal distance.",
+   "ta": "கண்ணாடி அணிந்த பிறகு சரியான தூரத்தில் படிக்கிறான்",
+   "say": "Kavin's eye test showed he needed glasses. Now he reads at a normal distance, and he enjoys it."
+  },
+  {
+   "big": "Your turn",
+   "en": "Book a yearly eye test for your child.",
+   "ta": "உங்கள் குழந்தைக்கு ஆண்டுதோறும் கண் பரிசோதனை",
+   "say": "Watch for these signs, and book a yearly eye test for your child."
+  }
+ ]
+}

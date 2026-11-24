@@ -1,0 +1,54 @@
+{
+ "voice": "hf_alpha",
+ "speed": 1.0,
+ "scenes": [
+  {
+   "big": "-2.00 or +2.00?",
+   "en": "Quiz: which one means short sight?",
+   "ta": "மைனஸ், பிளஸ்: எது கிட்டப்பார்வை?",
+   "say": "Quick quiz. Minus two, or plus two. Which one means short sight? Answer in three seconds."
+  },
+  {
+   "big": "Minus = short sight",
+   "en": "Near is clear, far is blurry. Called myopia.",
+   "ta": "மைனஸ் என்றால் கிட்டப்பார்வை. தூரம் மங்கலாக தெரியும்",
+   "say": "Minus power means short sight, called myopia. Near things are clear, but far things, like the board or road signs, look blurry."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-18-father-son-store.jpg",
+   "big": "Why minus?",
+   "en": "The eye is a little too long, so light focuses in front of the retina.",
+   "ta": "கண் சற்று நீளமாக இருப்பதால் ஒளி முன்னால் குவியும்",
+   "say": "Why? The eyeball is a little too long, so light focuses in front of the retina. A minus lens spreads the light, so it lands in the right place."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-18-amma-newspaper.jpg",
+   "big": "Plus = long sight",
+   "en": "Far is easier, near is a strain. Called hyperopia.",
+   "ta": "பிளஸ் என்றால் தூரப்பார்வை. அருகில் பார்க்க சிரமம்",
+   "say": "Plus power means long sight, called hyperopia. The eye is a little short, so close work is a strain. A plus lens adds focusing power."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Short sight is becoming much more common in children worldwide.",
+   "ta": "குழந்தைகளிடம் கிட்டப்பார்வை அதிகரித்து வருகிறது",
+   "say": "Did you know? Short sight is becoming much more common in children around the world. Studies show more time outdoors in daylight lowers the risk."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-21-girl-cycle-park.jpg",
+   "big": "Do this",
+   "en": "Kids outdoors every day. Check power yearly. Wear glasses as prescribed.",
+   "ta": "தினமும் வெளியில் விளையாடுங்கள். வருடம் ஒருமுறை பரிசோதனை",
+   "say": "So send kids outdoors every day, check eye power every year, and wear glasses as prescribed. If a child's power rises fast, see an eye specialist."
+  },
+  {
+   "big": "Answer: -2.00",
+   "en": "Book an eye test today.",
+   "ta": "இன்றே கண் பரிசோதனை செய்யுங்கள்",
+   "say": "So the answer is minus two. Know your own power. Book an eye test today."
+  }
+ ]
+}

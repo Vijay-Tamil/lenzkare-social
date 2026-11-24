@@ -1,0 +1,56 @@
+{
+ "voice": "hf_beta",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-29-ganesh-office-window.jpg",
+   "big": "Perfect vision? Still test!",
+   "en": "Myth or fact?",
+   "ta": "பார்வை நன்றாக இருக்கிறதா? இருந்தாலும் பரிசோதனை!",
+   "say": "You see perfectly. So why get an eye test this year? Myth or fact?"
+  },
+  {
+   "big": "MYTH",
+   "en": "\"If I see clearly, my eyes are healthy.\"",
+   "ta": "தெளிவாக தெரிந்தால் கண் ஆரோக்கியம் என்பது தவறு",
+   "say": "Myth. If I see clearly, my eyes must be healthy."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-29-ganesh-scooter.jpg",
+   "big": "FACT",
+   "en": "Clear sight is only part of the story. Pressure, nerve and retina need a proper check.",
+   "ta": "கண் அழுத்தம், நரம்பு, விழித்திரையை சோதிக்க வேண்டும்",
+   "say": "Fact. Sharp vision tells only part of the story. Your eye pressure, the optic nerve and the retina at the back of the eye can only be checked in a proper eye exam."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Studies show about half of people with glaucoma do not know they have it.",
+   "ta": "கிளாக்கோமா உள்ள பாதி பேருக்கு அது தெரியாது",
+   "say": "Did you know? Studies show about half of people with glaucoma do not know they have it. Early on, there is no pain and no blur."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-29-ganesh-kavitha-sofa.jpg",
+   "big": "Why yearly?",
+   "en": "Power changes slowly. Kids grow. After 40, focus changes. Diabetes and BP affect eyes.",
+   "ta": "பவர் மெதுவாக மாறும். 40க்கு பிறகு கவனம் தேவை",
+   "say": "Why every year? Power can change slowly without you noticing. Children grow fast. After forty, near focus changes. And diabetes or high blood pressure can affect the eyes."
+  },
+  {
+   "big": "Urgent if...",
+   "en": "Sudden blur, eye pain or a dark shadow: see an eye specialist the same day.",
+   "ta": "திடீர் மங்கல், வலி, நிழல்: அன்றே கண் மருத்துவரை பாருங்கள்",
+   "say": "And if you get sudden blur, eye pain, or a dark shadow in your vision, see an eye specialist the same day."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-29-ganesh-family-balcony.jpg",
+   "big": "New year, new check",
+   "en": "Book an eye test for the whole family.",
+   "ta": "புத்தாண்டில் குடும்பத்துடன் கண் பரிசோதனை",
+   "say": "New year, new start. Book an eye test for the whole family."
+  }
+ ]
+}

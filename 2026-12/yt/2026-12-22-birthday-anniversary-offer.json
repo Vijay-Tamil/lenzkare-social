@@ -1,0 +1,48 @@
+{
+ "voice": "hm_omega",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "big": "Anniversary gift idea, sorted!",
+   "en": "Prakash wanted to surprise Uma.",
+   "ta": "திருமண நாள் பரிசு ஐடியா!",
+   "say": "Prakash wanted to surprise his wife Uma on their wedding anniversary."
+  },
+  {
+   "big": "The problem",
+   "en": "Both their glasses were old and scratched.",
+   "ta": "இருவரின் கண்ணாடியும் பழையது, கீறல் விழுந்தது",
+   "say": "Both of them were still wearing old, scratched glasses, and Uma kept squinting at her phone."
+  },
+  {
+   "big": "The plan",
+   "en": "Eye test first. Then Buy 1 Get 1 FREE on spectacles with LenzKare Fusion lenses.",
+   "ta": "முதலில் கண் பரிசோதனை, பிறகு ஒன்று வாங்கினால் ஒன்று இலவசம்",
+   "say": "So he planned an eye test for both of them, then new glasses with Buy one, get one free, on LenzKare Fusion lenses."
+  },
+  {
+   "big": "The bonus",
+   "en": "Birthday & anniversary code works with Buy 1 Get 1 FREE on bills ₹1,500+.",
+   "ta": "பிறந்தநாள், திருமண நாள் சிறப்பு கோட்",
+   "say": "And here's the bonus. LenzKare has a special birthday and anniversary code. It works together with Buy one, get one free, on bills of fifteen hundred rupees or more."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Scratched lenses scatter light and cause glare.",
+   "ta": "லென்ஸ் கீறல்கள் கண்கூச்சத்தை உண்டாக்கும்",
+   "say": "Did you know? Scratched lenses scatter light. That means glare and tired eyes, especially at night."
+  },
+  {
+   "big": "Share your dates",
+   "en": "Send your birthday & anniversary dates on WhatsApp: 044 4356 9998",
+   "ta": "உங்கள் பிறந்தநாள், திருமண நாளை வாட்ஸ்அப்பில் அனுப்புங்கள்",
+   "say": "Want the code too? Share your birthday and anniversary dates with us on WhatsApp."
+  },
+  {
+   "big": "Celebrate clearly",
+   "en": "Gift each other a clearer view.",
+   "ta": "தெளிவான பார்வையுடன் கொண்டாடுங்கள்",
+   "say": "Celebrate your special day with clear vision. Book your eye test today."
+  }
+ ]
+}

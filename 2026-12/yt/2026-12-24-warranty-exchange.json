@@ -1,0 +1,54 @@
+{
+ "voice": "hm_omega",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-18-woman-trying-frames.jpg",
+   "big": "Worried after buying glasses?",
+   "en": "Here's the LenzKare promise.",
+   "ta": "கண்ணாடி வாங்கிய பின் கவலையா?",
+   "say": "Worried about what happens after you buy new glasses? Here is the LenzKare promise."
+  },
+  {
+   "image": "tools/assets/pro-1.jpg",
+   "big": "6-month frame warranty",
+   "en": "Peace of mind for your frame.",
+   "ta": "பிரேமுக்கு 6 மாத வாரண்டி",
+   "say": "First, your frame gets a six month warranty."
+  },
+  {
+   "big": "1-year coating warranty",
+   "en": "For the coating on your lenses.",
+   "ta": "லென்ஸ் கோட்டிங்குக்கு 1 வருட வாரண்டி",
+   "say": "Your lens coating gets a one year warranty."
+  },
+  {
+   "image": "tools/assets/pro-3.jpg",
+   "big": "7-day exchange",
+   "en": "Changed your mind? Exchange within 7 days. (Exchange only, no money back.)",
+   "ta": "7 நாட்களுக்குள் மாற்றிக்கொள்ளலாம்",
+   "say": "Changed your mind? You can exchange within seven days. Please note, it is an exchange, not a refund."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-22-paati-new-glasses.jpg",
+   "big": "Power doesn't suit?",
+   "en": "One free lens remake after a LenzKare eye test.",
+   "ta": "பவர் சரியில்லையா? ஒரு முறை இலவசமாக லென்ஸ் மாற்றித் தருவோம்",
+   "say": "And if the power doesn't suit you after a LenzKare eye test, we remake your lenses once, free."
+  },
+  {
+   "big": "Make them last",
+   "en": "Microfibre cloth. Remove with both hands. Keep in the case.",
+   "ta": "மென்மையான துணியால் துடையுங்கள், இரண்டு கைகளால் கழற்றுங்கள்",
+   "say": "To make them last, clean with a microfibre cloth, take them off with both hands, and keep them in the case."
+  },
+  {
+   "big": "Buy 1 Get 1 FREE",
+   "en": "On spectacles with LenzKare Fusion lenses. Free eye test in store.",
+   "ta": "ஃப்யூஷன் லென்ஸ் கண்ணாடிக்கு ஒன்று வாங்கினால் ஒன்று இலவசம்",
+   "say": "Plus, buy one get one free on spectacles with LenzKare Fusion lenses. And the eye test in our store is free."
+  }
+ ]
+}

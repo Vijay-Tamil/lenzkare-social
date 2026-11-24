@@ -1,0 +1,58 @@
+{
+ "voice": "hm_psi",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "big": "Painful bump on your eyelid?",
+   "en": "It's probably a stye. Here's what to do.",
+   "ta": "இமையில் வலிக்கும் சிறு கட்டி?",
+   "say": "A painful red bump on your eyelid? It's probably a stye. Here's what to do, and what not to do."
+  },
+  {
+   "big": "Why it happens",
+   "en": "A tiny oil gland at the lash line gets blocked and infected.",
+   "ta": "இமை முடி அருகே உள்ள எண்ணெய் சுரப்பி அடைபடுகிறது",
+   "say": "Your eyelids have tiny oil glands near the lashes. When one gets blocked and infected by germs, it swells into a stye."
+  },
+  {
+   "big": "Do: warm compress",
+   "en": "Clean warm cloth, 10 minutes, 3–4 times a day",
+   "ta": "சுத்தமான வெதுவெதுப்பான துணி, 10 நிமிடம்",
+   "say": "Do use a warm compress. A clean, warm cloth on the closed eye for about ten minutes, three or four times a day."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-23-priya-handwash.jpg",
+   "big": "Do: wash your hands",
+   "en": "Clean hands before touching your eyes.",
+   "ta": "கண்ணைத் தொடும் முன் கைகளை கழுவுங்கள்",
+   "say": "Do wash your hands before touching your eyes, and keep the eyelid gently clean."
+  },
+  {
+   "big": "Don't squeeze it",
+   "en": "Squeezing can spread the infection.",
+   "ta": "கட்டியை அழுத்தி பிழியாதீர்கள்!",
+   "say": "Don't squeeze it or pop it. Squeezing can push the infection deeper, and spread it."
+  },
+  {
+   "big": "Don't",
+   "en": "No eye makeup or contact lenses until it heals.",
+   "ta": "குணமாகும் வரை மேக்கப், காண்டாக்ட் லென்ஸ் வேண்டாம்",
+   "say": "Don't wear eye makeup or contact lenses until it heals."
+  },
+  {
+   "big": "See a doctor if...",
+   "en": "Swelling spreads, the eye shuts, vision changes, or no better in a week",
+   "ta": "வீக்கம் பரவினால் உடனே மருத்துவரை பாருங்கள்",
+   "say": "See a doctor if the swelling spreads across the eyelid or cheek, if the eye swells shut, if your vision changes, or if it's not better in about a week."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-23-priya-office-smile.jpg",
+   "big": "Did you know?",
+   "en": "Most styes settle on their own in about a week.",
+   "ta": "பெரும்பாலும் ஒரு வாரத்தில் தானாக சரியாகும்",
+   "say": "Did you know? Most styes settle on their own in about a week. Keep getting them? Book an eye test to check for eye strain."
+  }
+ ]
+}

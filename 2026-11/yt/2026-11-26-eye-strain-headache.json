@@ -1,0 +1,60 @@
+{
+ "voice": "hf_alpha",
+ "speed": 1.0,
+ "scenes": [
+  {
+   "image": "tools/assets/ai/2026-11-19-woman-laptop-tired.jpg",
+   "full": true,
+   "big": "Quiz: why does your head hurt?",
+   "en": "Eyes, screen, or both?",
+   "ta": "திரை பார்த்த பின் தலைவலி ஏன்?",
+   "say": "Quick quiz. A headache after hours on a screen or a book. Is it your eyes, the screen, or both?"
+  },
+  {
+   "big": "Answer: both",
+   "en": "Up close, your focusing muscle works nonstop, and you blink less.",
+   "ta": "அருகில் பார்க்கும்போது கண் தசை ஓயாமல் வேலை செய்கிறது",
+   "say": "The answer is both. Up close, a tiny focusing muscle in your eye works nonstop. You also blink less, so your eyes dry out. That tension shows up as a headache."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Eye strain doesn't permanently damage your eyes. Uncorrected power makes it worse.",
+   "ta": "சரிசெய்யாத கண் பவர் தலைவலியை அதிகரிக்கும்",
+   "say": "Did you know? Eye strain does not permanently damage your eyes. But a small, uncorrected power can make the headaches much worse."
+  },
+  {
+   "image": "tools/assets/ai/2026-11-19-woman-window.jpg",
+   "full": true,
+   "big": "Step 1: 20-20-20",
+   "en": "Every 20 minutes, look 20 feet away for 20 seconds.",
+   "ta": "20 நிமிடத்துக்கு ஒருமுறை, 20 அடி தூரம், 20 வினாடி",
+   "say": "Step one. Every twenty minutes, look at something twenty feet away, for twenty seconds."
+  },
+  {
+   "image": "tools/assets/ai/2026-11-19-woman-desk-setup.jpg",
+   "full": true,
+   "big": "Step 2: Set up your screen",
+   "en": "An arm's length away, slightly below eye level, no window glare.",
+   "ta": "திரை ஒரு கை தூரத்தில், கண் மட்டத்துக்குக் கீழே",
+   "say": "Step two. Keep the screen an arm's length away, slightly below eye level, with no window glare on it."
+  },
+  {
+   "big": "Step 3: Blink & light",
+   "en": "Blink fully. Read in good light.",
+   "ta": "முழுமையாகக் கண் சிமிட்டுங்கள், நல்ல வெளிச்சத்தில் படியுங்கள்",
+   "say": "Step three. Blink fully and often, and read in good light."
+  },
+  {
+   "big": "Urgent if...",
+   "en": "A sudden severe headache with eye pain, redness, blur or halos.",
+   "ta": "கண் வலி, சிவப்பு, மங்கல் இருந்தால் உடனே கண் மருத்துவரிடம்",
+   "say": "See an eye specialist urgently if a sudden severe headache comes with eye pain, redness, blurred vision, or rainbow halos around lights."
+  },
+  {
+   "big": "Still getting headaches?",
+   "en": "Book an eye test.",
+   "ta": "இன்றே கண் பரிசோதனை செய்யுங்கள்",
+   "say": "Still getting headaches? Book an eye test and check your power."
+  }
+ ]
+}

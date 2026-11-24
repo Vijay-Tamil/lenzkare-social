@@ -1,0 +1,54 @@
+{
+ "voice": "hm_psi",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-04-kavya-eyelid-desk.jpg",
+   "big": "Your tears have 3 layers",
+   "en": "Counting down how tears protect your eyes",
+   "ta": "உங்கள் கண்ணீரில் 3 அடுக்குகள்",
+   "say": "Did you know your tears have three layers? Let's count them down, and see how they protect your eyes."
+  },
+  {
+   "big": "3. Oil layer (top)",
+   "en": "From tiny glands on the lid edges. Stops tears drying too fast.",
+   "ta": "எண்ணெய் அடுக்கு: கண்ணீர் விரைவில் காயாமல் தடுக்கும்",
+   "say": "Number three. The oil layer on top. It comes from tiny glands along your eyelid edges, and stops tears from drying too fast."
+  },
+  {
+   "big": "2. Water layer (middle)",
+   "en": "From the tear glands. Washes away dust and germs.",
+   "ta": "நீர் அடுக்கு: தூசி, கிருமிகளைக் கழுவும்",
+   "say": "Number two. The watery middle layer. It comes from the tear glands, washes away dust and germs, and keeps the front of the eye nourished."
+  },
+  {
+   "big": "1. Mucus layer (bottom)",
+   "en": "Helps tears spread and stick evenly on the eye",
+   "ta": "கண்ணீரை கண்ணின் மேல் சீராகப் பரவச் செய்யும்",
+   "say": "Number one. The mucus layer, closest to the eye. It helps tears spread and stick evenly over the eye's surface."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-04-kavya-balcony-rest.jpg",
+   "big": "Every blink spreads them",
+   "en": "Studies show we blink less when staring at screens",
+   "ta": "திரை பார்க்கும்போது குறைவாக இமைக்கிறோம்",
+   "say": "Every blink spreads a fresh layer of tears. But studies show we blink much less when staring at screens, so the eyes feel dry and gritty."
+  },
+  {
+   "big": "Protect your tears",
+   "en": "Blink fully. 20-20-20 breaks. Keep AC and fan air off your face. Drink water.",
+   "ta": "முழுமையாக இமையுங்கள், இடைவேளை எடுங்கள்",
+   "say": "Protect your tears. Blink fully, take twenty twenty twenty breaks, keep fan air off your face, and drink enough water."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-04-kavya-morning-walk.jpg",
+   "big": "Urgent if...",
+   "en": "Painful red eye, or vision suddenly blurs. For ongoing dryness, book an eye test.",
+   "ta": "வலியுடன் சிவந்த கண்: உடனே மருத்துவரிடம்",
+   "say": "See an eye specialist urgently if you have a painful red eye, or your vision suddenly blurs. For ongoing dryness, book an eye test."
+  }
+ ]
+}

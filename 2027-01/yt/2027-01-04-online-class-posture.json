@@ -1,0 +1,54 @@
+{
+ "voice": "hm_psi",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-21-girl-tablet-sofa.jpg",
+   "big": "Headache after online class?",
+   "en": "Nila's tablet was too close, every evening",
+   "ta": "நிலாவுக்கு ஆன்லைன் வகுப்புக்குப் பிறகு தலைவலி",
+   "say": "Nila is ten. After every online class, she had a headache and tired eyes. Her tablet was just a hand's width from her face."
+  },
+  {
+   "big": "Why it hurts",
+   "en": "Close screens make focusing muscles work hard, and we blink less",
+   "ta": "அருகில் திரை இருந்தால் கண் தசைகளுக்கு அதிக வேலை",
+   "say": "Here's why. When a screen is very close, the focusing muscles inside the eye work hard non stop. And when we concentrate, we blink less, so the eyes dry out."
+  },
+  {
+   "big": "Fix 1: Arm's length",
+   "en": "Sit at a table, screen at arm's length, top at eye level or a little lower",
+   "ta": "மேசையில் உட்கார்ந்து, திரையை கை நீள தூரத்தில் வையுங்கள்",
+   "say": "Her mother made three changes. First, sit at a table, not on the bed, with the screen at arm's length, and its top at eye level or a little lower."
+  },
+  {
+   "big": "Fix 2: Sit tall, good light",
+   "en": "Back against the chair, feet on the floor, room lights on",
+   "ta": "நேராக உட்காருங்கள், அறையில் விளக்கு போடுங்கள்",
+   "say": "Second, sit tall with the back against the chair and feet on the floor, and keep the room light on."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-21-girl-ball-park.jpg",
+   "big": "Fix 3: 20-20-20",
+   "en": "Every 20 minutes, look 20 feet away for 20 seconds. Play outdoors daily.",
+   "ta": "20 நிமிடத்துக்கு ஒருமுறை, 20 அடி தூரம், 20 வினாடி பாருங்கள்",
+   "say": "Third, the twenty twenty twenty rule. Every twenty minutes, look at something twenty feet away for twenty seconds. And play outdoors every day."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Studies show kids who spend more time outdoors are less likely to become short-sighted",
+   "ta": "வெளியில் விளையாடுவது கிட்டப்பார்வை அபாயத்தைக் குறைக்கலாம்",
+   "say": "Did you know? Studies show children who spend more time outdoors are less likely to become short-sighted."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-21-girl-cycle-park.jpg",
+   "big": "Still squinting?",
+   "en": "Headaches, squinting or sitting close to the TV? Book an eye test.",
+   "ta": "தலைவலி தொடர்ந்தால் கண் பரிசோதனை செய்யுங்கள்",
+   "say": "If headaches, squinting, or sitting close to the TV continue, your child may need glasses. Book an eye test."
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "voice": "hm_psi",
+ "speed": 1.0,
+ "scenes": [
+  {
+   "big": "5 foods your eyes love",
+   "en": "Simple foods from your kitchen.",
+   "ta": "கண்களுக்கு நல்ல 5 உணவுகள்",
+   "say": "Here are five everyday foods your eyes love. Let's count down."
+  },
+  {
+   "big": "5. Fruits",
+   "en": "Guava, orange and amla are rich in vitamin C.",
+   "ta": "கொய்யா, ஆரஞ்சு, நெல்லிக்காய்",
+   "say": "Number five. Fruits like guava, orange and amla. They are rich in vitamin C, which helps protect the eye's tissues."
+  },
+  {
+   "big": "4. Fish",
+   "en": "Sardine and mackerel have omega-3 fats, good for the retina.",
+   "ta": "மத்தி, கானாங்கெளுத்தி மீன்",
+   "say": "Number four. Oily fish like sardine and mackerel. Their healthy omega three fats are good for the retina."
+  },
+  {
+   "big": "3. Eggs",
+   "en": "The yolk has lutein, a yellow pigment your retina uses.",
+   "ta": "முட்டையின் மஞ்சள் கரு",
+   "say": "Number three. Eggs. The yolk has lutein and zeaxanthin, natural yellow pigments found in the centre of your retina."
+  },
+  {
+   "big": "2. Carrots",
+   "en": "Carrot, pumpkin and papaya: vitamin A helps you see in dim light.",
+   "ta": "கேரட், பூசணி, பப்பாளி",
+   "say": "Number two. Carrots, pumpkin and papaya. Their vitamin A helps your eyes see in dim light."
+  },
+  {
+   "big": "1. Leafy greens",
+   "en": "Keerai and spinach: one of the richest sources of eye pigments.",
+   "ta": "கீரை – கண்ணுக்கு மிகச் சிறந்தது",
+   "say": "And number one. Leafy greens like spinach. They are one of the richest sources of lutein for your eyes."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Lack of vitamin A is a leading cause of preventable blindness in children (WHO).",
+   "ta": "வைட்டமின் A குறைபாடு குழந்தைகளின் பார்வையைப் பாதிக்கும்",
+   "say": "Did you know? The WHO says lack of vitamin A is a leading cause of preventable blindness in children. If a child struggles to see at dusk, see an eye specialist soon."
+  },
+  {
+   "big": "Food helps. Checks matter.",
+   "en": "Food can't fix your power. Book an eye test.",
+   "ta": "உணவு கண்ணாடிக்கு மாற்று அல்ல – பரிசோதனை அவசியம்",
+   "say": "Good food supports your eyes, but it can't fix your power. Book an eye test today."
+  }
+ ]
+}

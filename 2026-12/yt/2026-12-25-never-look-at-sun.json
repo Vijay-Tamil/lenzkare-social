@@ -1,0 +1,54 @@
+{
+ "voice": "hf_beta",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "big": "Never stare at the sun",
+   "en": "Not for a few seconds. Not even during an eclipse.",
+   "ta": "சூரியனை நேராகப் பார்க்காதீர்கள்",
+   "say": "Never stare at the sun. Not for a few seconds, and not even during an eclipse."
+  },
+  {
+   "big": "Why?",
+   "en": "Your eye's lens focuses sunlight onto the retina, like a magnifying glass.",
+   "ta": "கண் லென்ஸ் சூரிய ஒளியை ரெட்டினாவில் குவிக்கும்",
+   "say": "Why? The lens of your eye focuses sunlight onto the retina, like a magnifying glass focusing sunlight on paper."
+  },
+  {
+   "big": "No pain. Real damage.",
+   "en": "The retina has no pain nerves. Damage can be permanent.",
+   "ta": "வலி தெரியாது, ஆனால் பாதிப்பு நிரந்தரமாகலாம்",
+   "say": "The retina has no pain nerves, so you won't feel it burning. But the damage can be permanent."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Regular sunglasses are NOT safe for looking at the sun or an eclipse.",
+   "ta": "சாதாரண கூலிங் கிளாஸ் சூரியனைப் பார்க்கப் பாதுகாப்பானது அல்ல",
+   "say": "Did you know? Even dark sunglasses are not safe for looking at the sun or an eclipse. Only certified solar viewers are."
+  },
+  {
+   "big": "Don't",
+   "en": "Don't watch welding light without a proper welding mask.",
+   "ta": "வெல்டிங் ஒளியை முகமூடி இல்லாமல் பார்க்காதீர்கள்",
+   "say": "Don't watch welding light without a proper welding mask. It can burn the front of the eye, and cause painful, gritty eyes hours later."
+  },
+  {
+   "big": "Do",
+   "en": "Use certified eclipse glasses or a pinhole projector. Watch the kids.",
+   "ta": "சான்றிதழ் பெற்ற கிரகணக் கண்ணாடி அல்லது பின்ஹோல் மூலம் பாருங்கள்",
+   "say": "Do watch an eclipse with certified eclipse glasses, or a simple pinhole projector. And keep an eye on the children."
+  },
+  {
+   "big": "See an eye specialist urgently if...",
+   "en": "Blur, a dark spot or bent lines after looking at the sun.",
+   "ta": "சூரியனைப் பார்த்த பின் மங்கல், கரும்புள்ளி இருந்தால் உடனே கண் மருத்துவரிடம்",
+   "say": "If you notice blur, a dark spot, or bent lines after looking at the sun, see an eye specialist urgently."
+  },
+  {
+   "big": "Protect your sight",
+   "en": "Book an eye test today.",
+   "ta": "இன்றே கண் பரிசோதனை செய்யுங்கள்",
+   "say": "Protect your sight. Book an eye test today."
+  }
+ ]
+}

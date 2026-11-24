@@ -1,0 +1,56 @@
+{
+ "voice": "hm_omega",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-18-woman-trying-frames.jpg",
+   "big": "Does your frame fit?",
+   "en": "3 quick checks",
+   "ta": "உங்கள் கண்ணாடி சரியாக பொருந்துகிறதா?",
+   "say": "Does your frame really fit you? Three quick checks."
+  },
+  {
+   "big": "Why fit matters",
+   "en": "The centre of each lens must sit in front of your pupil.",
+   "ta": "லென்ஸின் மையம் கண்மணிக்கு நேராக இருக்க வேண்டும்",
+   "say": "Why does fit matter? The centre of each lens must sit right in front of your pupil. A loose or crooked frame shifts it, and your eyes work harder."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-20-karthik-amma-mirror.jpg",
+   "big": "1. Width",
+   "en": "Frame as wide as your face. No pressing on temples, no gaps.",
+   "ta": "முகத்தின் அகலத்திற்கு ஏற்ற ஃப்ரேம்",
+   "say": "Check one. Width. The frame should be about as wide as your face, without pressing on your temples or leaving big gaps."
+  },
+  {
+   "big": "2. Bridge",
+   "en": "Rests on your nose. No sliding down, no red marks.",
+   "ta": "மூக்கில் வழுக்கக்கூடாது, தழும்பு வரக்கூடாது",
+   "say": "Check two. The bridge. It should rest gently on your nose. If it keeps sliding down or leaves red marks, it does not fit."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-18-father-son-store.jpg",
+   "big": "3. Temples",
+   "en": "Arms curve softly behind the ears. No pain.",
+   "ta": "காதின் பின்னால் மென்மையாக பொருந்த வேண்டும்",
+   "say": "Check three. The arms. They should curve softly behind your ears, with no pain after a few hours."
+  },
+  {
+   "big": "Buy 1 Get 1 FREE",
+   "en": "On spectacles with LenzKare Fusion lenses. Frames from ₹899.",
+   "ta": "ஒன்று வாங்கினால் ஒன்று இலவசம்",
+   "say": "Get it fitted right. Buy one, get one free on spectacles with LenzKare Fusion lenses. Frames start from eight hundred and ninety-nine rupees, with a six-month frame warranty."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-14-anand-own-glasses.jpg",
+   "big": "Come try them on",
+   "en": "Free eye test in store. We adjust your frame for you.",
+   "ta": "கடையில் கண் பரிசோதனை இலவசம்",
+   "say": "Come to our store for a free eye test, and we will adjust your frame for you."
+  }
+ ]
+}

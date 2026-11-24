@@ -1,0 +1,60 @@
+{
+ "voice": "hm_omega",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "image": "tools/assets/ai/2026-11-18-amma-newspaper.jpg",
+   "full": true,
+   "big": "Which glasses do you need?",
+   "en": "Single vision, bifocal or progressive?",
+   "ta": "உங்களுக்கு எந்தக் கண்ணாடி சரி?",
+   "say": "Single vision, bifocal or progressive. Which glasses do you actually need?"
+  },
+  {
+   "big": "Why it changes after 40",
+   "en": "The lens inside your eye gets stiffer, so close-up focus gets harder.",
+   "ta": "40 வயதுக்கு மேல் அருகில் படிப்பது கடினம்",
+   "say": "After about forty, the lens inside your eye gets stiffer, so focusing up close gets harder."
+  },
+  {
+   "image": "tools/assets/visuals/lens-types-3.jpg",
+   "big": "Single vision",
+   "en": "One power. Best if you need help for one distance only.",
+   "ta": "ஒரே பவர் – ஒரு தூரத்துக்கு மட்டும்",
+   "say": "Single vision lenses have one power. They are best if you need help for only one distance, far or near."
+  },
+  {
+   "big": "Bifocal",
+   "en": "Two zones with a visible line: far on top, reading below.",
+   "ta": "மேலே தூரம், கீழே படிக்க – நடுவில் கோடு",
+   "say": "Bifocals have two zones with a visible line. Distance on top, reading below. The middle distance is missing."
+  },
+  {
+   "image": "tools/assets/visuals/progressive-zones.jpg",
+   "big": "Progressive",
+   "en": "No line. Far, middle and near in one smooth lens.",
+   "ta": "கோடு இல்லை – தூரம், நடு, அருகு எல்லாம் ஒன்றில்",
+   "say": "Progressives have no line. Far, middle and near flow smoothly in one lens, including your phone and computer."
+  },
+  {
+   "image": "tools/assets/ai/2026-11-18-woman-trying-frames.jpg",
+   "full": true,
+   "big": "Did you know?",
+   "en": "It can take a week or two to get used to progressives.",
+   "ta": "புரோகிரசிவ் லென்ஸுக்குப் பழக ஓரிரு வாரம் ஆகலாம்",
+   "say": "Did you know? It can take a week or two to get used to progressives. Wear them all day, and turn your head, not just your eyes."
+  },
+  {
+   "big": "Buy 1 Get 1 FREE",
+   "en": "On spectacles with LenzKare Fusion lenses. Single vision lenses from ₹1,500.",
+   "ta": "ஃப்யூஷன் லென்ஸுடன் ஒன்று வாங்கினால் ஒன்று இலவசம்",
+   "say": "At LenzKare, get Buy One Get One Free on spectacles with Fusion lenses. Single vision lenses start from fifteen hundred rupees."
+  },
+  {
+   "big": "Not sure which?",
+   "en": "Free eye test in store. Home eye test: ₹100 for the whole family.",
+   "ta": "வீட்டில் கண் பரிசோதனை – முழு குடும்பத்துக்கும் ரூ.100",
+   "say": "Not sure which one you need? Get an eye test. It's free at our store, or just one hundred rupees for the whole family at home."
+  }
+ ]
+}

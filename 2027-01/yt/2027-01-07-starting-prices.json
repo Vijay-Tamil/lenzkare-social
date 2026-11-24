@@ -1,0 +1,54 @@
+{
+ "voice": "hm_omega",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-20-karthik-parcel.jpg",
+   "big": "New glasses for how much?",
+   "en": "3 prices that surprise people",
+   "ta": "புதிய கண்ணாடி எவ்வளவு?",
+   "say": "Think new glasses cost a fortune? Here are three numbers that surprise people."
+  },
+  {
+   "big": "3. Frames from ₹899",
+   "en": "FOE (FrameOra Eyewear) frames start at ₹899",
+   "ta": "FOE பிரேம்கள் ரூ.899 முதல்",
+   "say": "Number three. Frame Ora Eyewear frames start at just eight hundred and ninety nine rupees."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-18-woman-trying-frames.jpg",
+   "big": "2. Lenses from ₹1,500",
+   "en": "Single vision lenses start at ₹1,500",
+   "ta": "சிங்கிள் விஷன் லென்ஸ் ரூ.1,500 முதல்",
+   "say": "Number two. Single vision lenses start at fifteen hundred rupees."
+  },
+  {
+   "big": "1. Buy 1 Get 1 FREE",
+   "en": "On spectacles with LenzKare Fusion lenses",
+   "ta": "ஃபியூஷன் லென்ஸுடன்: ஒன்று வாங்கினால் ஒன்று இலவசம்",
+   "say": "And number one. Buy one, Get one free on spectacles with LenzKare Fusion lenses. A spare pair, or one for the family."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-18-father-son-store.jpg",
+   "big": "Did you know?",
+   "en": "6-month frame warranty, 1-year coating warranty, 7-day exchange",
+   "ta": "பிரேமுக்கு 6 மாதம், கோட்டிங்குக்கு 1 வருடம் வாரண்டி",
+   "say": "Did you know? Every pair comes with a six month frame warranty, a one year coating warranty, and a seven day exchange."
+  },
+  {
+   "big": "App bonus: ₹500",
+   "en": "On your first app order of ₹1,500+. Use within 30 days. Works with Buy 1 Get 1 FREE.",
+   "ta": "முதல் ஆப் ஆர்டருக்கு ரூ.500 போனஸ்",
+   "say": "On the LenzKare app, get a five hundred rupee joining bonus on your first order above fifteen hundred rupees. It works with Buy one, Get one free."
+  },
+  {
+   "big": "Start with an eye test",
+   "en": "Free in store. Home eye test in Chennai: ₹100 for the whole family.",
+   "ta": "கடையில் கண் பரிசோதனை இலவசம்",
+   "say": "Start with an eye test. It's free at our store, and a home eye test is just one hundred rupees for the whole family."
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "voice": "hf_alpha",
+ "speed": 1.0,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-21-arun-rubbing-eyes.jpg",
+   "big": "Splash in the eye? Don't rub!",
+   "en": "Do this in the first minute.",
+   "ta": "கண்ணில் ரசாயனம் பட்டால் தேய்க்காதீர்கள்!",
+   "say": "Something splashed in your eye? Don't rub it! Here's what to do in the first minute."
+  },
+  {
+   "big": "Why rinse fast",
+   "en": "Chemicals keep hurting the clear front of the eye. Water dilutes and washes them out.",
+   "ta": "தண்ணீர் ரசாயனத்தை கழுவி வெளியேற்றும்",
+   "say": "Chemicals like floor cleaner or lime keep damaging the clear front window of the eye for as long as they stay. Water dilutes them and washes them away."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-21-arun-handwash.jpg",
+   "big": "DO: Rinse now",
+   "en": "Clean running water for at least 15 minutes. Hold the eyelids open.",
+   "ta": "சுத்தமான ஓடும் தண்ணீரில் 15 நிமிடம் கழுவுங்கள்",
+   "say": "Do: rinse the eye right away with clean running water, for at least fifteen minutes. Hold the eyelids open. Take out contact lenses if you can."
+  },
+  {
+   "big": "DON'T",
+   "en": "Don't rub. No oil, milk, home remedies or drops unless a doctor says so.",
+   "ta": "தேய்க்காதீர்கள். எண்ணெய், பால் ஊற்றாதீர்கள்",
+   "say": "Don't rub. Don't put in oil, milk, or any home remedy. And don't use any drops unless a doctor says so."
+  },
+  {
+   "big": "Hit or stuck?",
+   "en": "Don't press. Don't pull out anything stuck. Cover gently with a paper cup.",
+   "ta": "அழுத்தாதீர்கள். குத்திய பொருளை எடுக்காதீர்கள்",
+   "say": "If something hit the eye, or is stuck in it, don't press, and don't pull it out. Cover the eye gently with a paper cup and go."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-20-amma-son-handwash.jpg",
+   "big": "Did you know?",
+   "en": "About half of eye injuries happen at home. Most can be prevented.",
+   "ta": "பாதி கண் காயங்கள் வீட்டிலேயே நடக்கின்றன",
+   "say": "Did you know? Studies show about half of all eye injuries happen at home, and most can be prevented with simple protective glasses."
+  },
+  {
+   "big": "Go to hospital",
+   "en": "After rinsing, go straight to an eye hospital. Take the chemical bottle.",
+   "ta": "கழுவிய பின் உடனே கண் மருத்துவமனைக்கு செல்லுங்கள்!",
+   "say": "After rinsing, go straight to an eye hospital or emergency, even if it feels better. Take the chemical bottle with you."
+  },
+  {
+   "big": "Be prepared",
+   "en": "Cleaners out of kids' reach. Goggles for strong chemicals. Regular eye tests.",
+   "ta": "ரசாயனங்களை குழந்தைகளுக்கு எட்டாத இடத்தில் வையுங்கள்",
+   "say": "Keep cleaners out of children's reach, wear goggles for strong chemicals, and book a regular eye test for the family."
+  }
+ ]
+}

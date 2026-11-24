@@ -1,0 +1,56 @@
+{
+ "voice": "hf_alpha",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-18-chennai-street.jpg",
+   "big": "Dust in your eye on the bike?",
+   "en": "Don't rub! Do this instead.",
+   "ta": "பைக்கில் கண்ணில் தூசு விழுந்ததா?",
+   "say": "Got dust in your eye on your bike? Don't rub it. Do this instead."
+  },
+  {
+   "big": "Why not rub?",
+   "en": "Rubbing drags grit across the cornea and can scratch it.",
+   "ta": "தேய்த்தால் கருவிழியில் கீறல் ஏற்படலாம்",
+   "say": "The front of your eye, the cornea, is clear and delicate. Rubbing drags the grit across it, and can scratch it."
+  },
+  {
+   "big": "Do: blink and rinse",
+   "en": "Pull over safely. Blink. Rinse with clean water.",
+   "ta": "வண்டியை நிறுத்தி, சுத்தமான நீரால் கழுவுங்கள்",
+   "say": "Pull over safely first. Blink a few times, and rinse with clean water. Tears often wash it out."
+  },
+  {
+   "big": "Do: shield your eyes",
+   "en": "Helmet with a clear visor down, or wraparound glasses",
+   "ta": "ஹெல்மெட் விசர் அல்லது கண்ணாடி அணியுங்கள்",
+   "say": "Protect your eyes on every ride. Keep a clear helmet visor down, or wear wraparound glasses."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Wind dries your eyes fast, so they water and sting.",
+   "ta": "காற்று கண்களை வேகமாக வறட்டும்",
+   "say": "Did you know? Strong wind dries your eyes quickly. That's why they water and sting on long rides."
+  },
+  {
+   "big": "Don't",
+   "en": "Don't dig it out with a finger, cloth corner or anything sharp.",
+   "ta": "விரல், துணி முனையால் எடுக்க வேண்டாம்",
+   "say": "Don't try to dig it out with your finger, the corner of a cloth, or anything sharp."
+  },
+  {
+   "big": "Urgent if...",
+   "en": "Pain, blur, or it still feels stuck after rinsing",
+   "ta": "கழுவிய பின்னும் வலி இருந்தால் உடனே மருத்துவரிடம்",
+   "say": "See an eye specialist urgently if there's pain, blurred vision, or it still feels stuck after rinsing. Anything that hits your eye at speed is urgent."
+  },
+  {
+   "big": "Clear vision, safe ride",
+   "en": "Book an eye test today.",
+   "ta": "தெளிவான பார்வை, பாதுகாப்பான பயணம்",
+   "say": "Clear vision keeps you safe on the road. Book an eye test today."
+  }
+ ]
+}

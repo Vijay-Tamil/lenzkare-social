@@ -1,0 +1,54 @@
+{
+ "voice": "hf_beta",
+ "speed": 1.0,
+ "scenes": [
+  {
+   "big": "Why drops before the test?",
+   "en": "Here's what dilation does.",
+   "ta": "பரிசோதனைக்கு முன் ஏன் கண் சொட்டு?",
+   "say": "Why does the eye doctor put drops in your eyes before the check-up? Here's what to expect."
+  },
+  {
+   "big": "Opening the window",
+   "en": "Drops widen the pupil so the retina and optic nerve can be seen clearly.",
+   "ta": "கண்மணி பெரிதாகும், விழித்திரை தெளிவாக தெரியும்",
+   "say": "The drops widen your pupil, the black circle in the middle. It's like opening a door wider, so the doctor can see the retina and the optic nerve at the back of your eye."
+  },
+  {
+   "big": "Did you know?",
+   "en": "A dilated exam can spot early diabetic eye changes, glaucoma and retinal tears.",
+   "ta": "நீரிழிவு, கிளாக்கோமா மாற்றங்களை ஆரம்பத்திலேயே கண்டுபிடிக்கலாம்",
+   "say": "Did you know? A dilated eye exam can catch early signs of diabetic eye disease, glaucoma and retinal tears, often before you notice any problem."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-20-son-sunglasses-sofa.jpg",
+   "big": "After the drops",
+   "en": "Blurry up close and light-sensitive for a few hours.",
+   "ta": "சில மணி நேரம் மங்கலாகவும், வெளிச்சம் கூசவும் செய்யும்",
+   "say": "After the drops, near vision is blurry, and bright light feels harsh for a few hours. That is normal."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-19-daughter-appa-veranda.jpg",
+   "big": "Don't drive",
+   "en": "Bring someone along. Carry sunglasses.",
+   "ta": "வண்டி ஓட்ட வேண்டாம். ஒருவரை கூட்டி வாருங்கள்",
+   "say": "So don't drive or ride a bike home. Bring someone with you, and carry sunglasses."
+  },
+  {
+   "big": "Plan ahead",
+   "en": "Keep the next few hours light. Pain or redness that lasts? Call the eye specialist.",
+   "ta": "முன்பே திட்டமிடுங்கள். வலி நீடித்தால் மருத்துவரை அழையுங்கள்",
+   "say": "Keep the next few hours light, without much reading or screen work. If eye pain, redness or blurred vision lasts beyond the day, call the eye specialist."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-18-father-son-booking.jpg",
+   "big": "Due for a check?",
+   "en": "Book an eye test today.",
+   "ta": "இன்றே கண் பரிசோதனை செய்யுங்கள்",
+   "say": "If you're over forty, or have diabetes, regular eye checks matter. Book an eye test today."
+  }
+ ]
+}

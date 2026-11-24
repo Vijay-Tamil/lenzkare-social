@@ -1,0 +1,130 @@
+{
+ "voice": "hf_alpha",
+ "speed": 1.0,
+ "scenes": [
+  {
+   "image": "tools/assets/ai/2026-11-19-daughter-appa-veranda.jpg",
+   "big": "Cataract explained",
+   "en": "Signs, myths, surgery basics and glasses after surgery.",
+   "ta": "கண்புரை – எளிய விளக்கம்",
+   "say": "Is Appa's vision getting cloudy? In this video, we explain cataract in simple words: what it is, the signs, common myths, the basics of surgery, and glasses after surgery."
+  },
+  {
+   "big": "The lens inside your eye",
+   "en": "A clear lens behind the pupil focuses light, like a camera lens.",
+   "ta": "கண்ணுக்குள் ஒரு தெளிவான லென்ஸ் உள்ளது",
+   "say": "Behind the coloured part of your eye sits a natural lens. It is clear, like glass, and it focuses light onto the retina, just like a camera lens."
+  },
+  {
+   "big": "What is a cataract?",
+   "en": "The lens slowly turns cloudy, like a foggy window.",
+   "ta": "லென்ஸ் மெதுவாக மங்கலாகும் – இதுவே கண்புரை",
+   "say": "With age, the proteins in this lens slowly clump together, and the lens becomes cloudy, like looking through a foggy window. That cloudiness is called a cataract. It is not a growth, or a skin over the eye."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Cataract is the leading cause of blindness worldwide (WHO).",
+   "ta": "உலக அளவில் பார்வை இழப்புக்கு முக்கிய காரணம்",
+   "say": "Did you know? According to the World Health Organization, cataract is the leading cause of blindness in the world. And yet, vision lost to cataract can usually be restored with surgery."
+  },
+  {
+   "big": "Who gets it?",
+   "en": "Mostly with age. Diabetes, smoking, strong sun and eye injury can bring it sooner.",
+   "ta": "வயது, சர்க்கரை நோய், புகை, அதிக வெயில்",
+   "say": "Most cataracts come with age, often after sixty, though they can start earlier. Diabetes, smoking, years of strong sunlight without protection, and eye injuries can make them come sooner."
+  },
+  {
+   "image": "tools/assets/ai/2026-11-19-appa-headlight-glare.jpg",
+   "big": "Sign 1: glare at night",
+   "en": "Headlights look dazzling or starry.",
+   "ta": "இரவில் வாகன விளக்கு கண்ணை கூசும்",
+   "say": "Now, the signs. Sign one: glare. Headlights at night look dazzling or starry, and driving at night becomes difficult."
+  },
+  {
+   "image": "tools/assets/ai/2026-11-19-appa-wiping-glasses.jpg",
+   "big": "Sign 2: always wiping glasses",
+   "en": "Vision looks hazy, as if the glasses are dirty.",
+   "ta": "கண்ணாடி அழுக்காக இருப்பது போல் தோன்றும்",
+   "say": "Sign two: everything looks hazy, as if your glasses are dirty. You keep wiping them, but the haze does not go away."
+  },
+  {
+   "big": "More signs",
+   "en": "Faded colours, needing more light to read, frequent power changes.",
+   "ta": "நிறங்கள் மங்கும், படிக்க அதிக வெளிச்சம் தேவை",
+   "say": "More signs: colours look faded or yellowish, you need more light to read, your glasses power keeps changing, or you see double with one eye."
+  },
+  {
+   "big": "See a specialist urgently if…",
+   "en": "Sudden vision loss, a painful red eye, or flashes and a curtain.",
+   "ta": "திடீர் பார்வை இழப்பு, வலி – உடனே மருத்துவரை பாருங்கள்",
+   "say": "Cataract usually changes slowly. So see an eye specialist urgently if your vision drops suddenly, if the eye is painful and red, or if you see flashes of light, or a curtain over your vision."
+  },
+  {
+   "big": "Myth: wait till it's “ripe”",
+   "en": "Fact: no need to wait. Surgery is planned when it affects daily life.",
+   "ta": "கண்புரை பழுக்கும் வரை காத்திருக்க வேண்டாம்",
+   "say": "Now, some myths. Myth one: you must wait for the cataract to become ripe. Fact: with modern surgery, there is no need to wait. Surgery is usually planned when the cataract starts to affect daily life, like reading, driving, or walking safely."
+  },
+  {
+   "big": "Myth: drops can dissolve it",
+   "en": "Fact: no drop or diet removes a cataract. Surgery is the treatment.",
+   "ta": "சொட்டு மருந்தால் கண்புரை கரையாது",
+   "say": "Myth two: eye drops or home remedies can dissolve a cataract. Fact: no drop, diet or exercise can remove a cataract. Surgery is the only effective treatment."
+  },
+  {
+   "big": "Myth: it can come back",
+   "en": "Fact: it can't. A thin layer behind the new lens may haze later; a quick laser clears it.",
+   "ta": "கண்புரை மீண்டும் வராது",
+   "say": "Myth three: the cataract can grow back. Fact: once removed, it cannot come back. Sometimes, months or years later, a thin layer behind the new lens becomes hazy. This is easily treated with a quick laser procedure."
+  },
+  {
+   "big": "Surgery basics",
+   "en": "The cloudy lens is removed and a clear artificial lens is placed.",
+   "ta": "மங்கிய லென்ஸை எடுத்து, புதிய தெளிவான லென்ஸ் வைப்பார்கள்",
+   "say": "Now, the surgery basics. The eye surgeon removes the cloudy lens through a tiny opening, and places a clear artificial lens, called an intraocular lens, in its place. It stays there for life."
+  },
+  {
+   "big": "Usually a day procedure",
+   "en": "The eye is numbed. Most people go home the same day.",
+   "ta": "பெரும்பாலும் அதே நாளில் வீட்டுக்கு செல்லலாம்",
+   "say": "It is usually a short procedure. The eye is numbed, so it is not painful, and most people go home the same day. Usually, one eye is done at a time."
+  },
+  {
+   "big": "Choose your new lens",
+   "en": "Monofocal: clear at one distance. Multifocal: less need for glasses.",
+   "ta": "எந்த லென்ஸ் என்று மருத்துவரிடம் கேளுங்கள்",
+   "say": "Before surgery, talk to your surgeon about the type of lens. A standard monofocal lens is clear at one distance, usually far, so you will still need reading glasses. Multifocal or extended range lenses can reduce the need for glasses, but they are not right for every eye."
+  },
+  {
+   "image": "tools/assets/ai/2026-11-19-daughter-appa-phone.jpg",
+   "big": "After surgery",
+   "en": "Use drops as advised. Don't rub. Wear the shield at night.",
+   "ta": "கண்ணை தேய்க்காதீர்கள்; சொன்னபடி சொட்டு மருந்து போடுங்கள்",
+   "say": "After surgery, use your eye drops exactly as advised, do not rub or press the eye, wear the shield while sleeping, and keep water and soap out of the eye for the first few days. Go for every follow-up visit."
+  },
+  {
+   "big": "Glasses after surgery",
+   "en": "Wait till the eye settles, usually a few weeks, then test for new glasses.",
+   "ta": "கண் குணமான பிறகு புதிய கண்ணாடி",
+   "say": "Now, glasses after surgery. Your power changes after cataract surgery, so your old glasses may not suit you. Wait until your surgeon says the eye has settled, usually a few weeks, and then get a fresh eye test for new glasses."
+  },
+  {
+   "big": "Which glasses?",
+   "en": "Reading glasses, or progressives for far, middle and near. Add UV protection.",
+   "ta": "படிக்கும் கண்ணாடி அல்லது புரோகிரசிவ் லென்ஸ்",
+   "say": "With a standard lens, you may need reading glasses, or progressive lenses for far, middle and near in one pair. Choose lenses with an anti-glare coating and UV protection, and wear sunglasses outdoors."
+  },
+  {
+   "big": "Book an eye test",
+   "en": "Free at our store. Home eye test in Chennai: ₹100 for the whole family.",
+   "ta": "வீட்டிலேயே கண் பரிசோதனை – முழு குடும்பத்துக்கும் ரூ.100",
+   "say": "Noticing these signs in your parents? Start with an eye test. The eye test at our store is free, and a home eye test in Chennai is just one hundred rupees for the whole family. If surgery is needed, we will guide you to an eye specialist."
+  },
+  {
+   "big": "General information",
+   "en": "Not a diagnosis. See an eye specialist for your own eyes.",
+   "ta": "இது பொது தகவல் மட்டும் – கண் மருத்துவரை அணுகுங்கள்",
+   "say": "This video is general information, not a diagnosis. For your own eyes, see an eye specialist. Share this with your parents, and subscribe for more eye-care tips."
+  }
+ ]
+}

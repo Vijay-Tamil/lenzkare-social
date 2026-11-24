@@ -1,0 +1,56 @@
+{
+ "voice": "hf_alpha",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-14-anand-borrowed-glasses.jpg",
+   "big": "Wearing someone else's glasses?",
+   "en": "Myth or fact: does it damage your eyes?",
+   "ta": "மற்றவர் கண்ணாடியை போடலாமா?",
+   "say": "Wearing someone else's glasses. Will it damage your eyes? Let's check the myth and the fact."
+  },
+  {
+   "big": "Myth",
+   "en": "Borrowed glasses permanently damage your eyes.",
+   "ta": "கட்டுக்கதை: கண்ணுக்கு நிரந்தர பாதிப்பு வரும்",
+   "say": "The myth: borrowed glasses will permanently damage your eyes."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-14-anand-headache.jpg",
+   "big": "Fact",
+   "en": "No lasting damage, but headache, eye strain and blur.",
+   "ta": "நிரந்தர பாதிப்பு இல்லை, ஆனால் தலைவலி வரலாம்",
+   "say": "The fact: they don't cause lasting damage. But they can give you a headache, tired eyes, and blurred vision."
+  },
+  {
+   "big": "Why?",
+   "en": "Each lens is made for one person's power and the gap between their pupils.",
+   "ta": "ஒவ்வொரு கண்ணாடியும் ஒருவரின் பவருக்கு மட்டுமே",
+   "say": "Why? Every lens is made for one person's power, and for the distance between their two pupils. If these are wrong, your eyes work harder to focus."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-14-anand-appa-veranda.jpg",
+   "big": "Did you know?",
+   "en": "Many people have a different power in each eye, or cylinder power.",
+   "ta": "பலருக்கு இரண்டு கண்களிலும் வேறு வேறு பவர் இருக்கும்",
+   "say": "Did you know? Many people have a different power in each eye, and some have cylinder power for astigmatism. So someone else's pair rarely suits you."
+  },
+  {
+   "big": "Do this",
+   "en": "Wear only your own glasses. Don't let kids borrow. Blurry? Recheck your power.",
+   "ta": "உங்கள் சொந்த கண்ணாடியை மட்டும் அணியுங்கள்",
+   "say": "So, wear only your own glasses. Don't let children borrow an elder's pair. And if your own glasses feel blurry, get your power checked."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-14-anand-own-glasses.jpg",
+   "big": "See clearly",
+   "en": "Free eye test in our store.",
+   "ta": "இன்றே கண் பரிசோதனை செய்யுங்கள்",
+   "say": "See clearly and comfortably. Get a free eye test in our store today."
+  }
+ ]
+}

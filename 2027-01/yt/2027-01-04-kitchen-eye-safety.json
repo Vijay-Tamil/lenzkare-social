@@ -1,0 +1,58 @@
+{
+ "voice": "hf_beta",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "big": "Chilli in your eye?",
+   "en": "Kitchen eye safety: do's and don'ts",
+   "ta": "சமையலறையில் கண் பாதுகாப்பு",
+   "say": "Chilli or hot oil in your eye? What you do in the first minute matters. Here are the do's and don'ts."
+  },
+  {
+   "big": "Why it burns",
+   "en": "Chilli and onion release chemicals that trigger pain nerves on the eye's surface",
+   "ta": "மிளகாய், வெங்காயம் கண் நரம்புகளைத் தூண்டும்",
+   "say": "Chilli and onion release natural chemicals that set off the pain nerves on the surface of your eye. Your eye makes tears to wash them away."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-20-amma-son-handwash.jpg",
+   "big": "DO: Wash hands first",
+   "en": "Soap and water after cutting chillies, before touching your eyes",
+   "ta": "மிளகாய் வெட்டிய பின் சோப்பால் கை கழுவுங்கள்",
+   "say": "Do wash your hands with soap after cutting chillies, before you touch your eyes or contact lenses."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-23-priya-handwash.jpg",
+   "big": "DO: Rinse with clean water",
+   "en": "Keep the eye open under clean running water for several minutes",
+   "ta": "சுத்தமான தண்ணீரால் பல நிமிடம் கழுவுங்கள்",
+   "say": "If anything splashes into your eye, rinse it with clean running water for several minutes, keeping the eye open."
+  },
+  {
+   "big": "DON'T",
+   "en": "Don't rub. Don't put ghee, milk or any home remedy in the eye.",
+   "ta": "தேய்க்காதீர்கள். நெய், பால் போடாதீர்கள்",
+   "say": "Don't rub your eye. And never put ghee, milk, or any home remedy into it."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Chilled onions and a sharp knife mean fewer tears. Stand back from hot oil.",
+   "ta": "குளிர்ந்த வெங்காயம் குறைவாகக் கண்ணீர் வரவைக்கும்",
+   "say": "Did you know? Chilling onions before cutting, and using a sharp knife, means fewer tears. Stand back from hot oil, and run the exhaust fan to clear smoke."
+  },
+  {
+   "big": "Urgent if...",
+   "en": "Pain, redness or blurred vision after rinsing, or any hot oil burn",
+   "ta": "வலி, மங்கல் பார்வை இருந்தால் உடனே கண் மருத்துவரிடம்",
+   "say": "See an eye specialist urgently if pain, redness, or blurred vision continues after rinsing, or after any hot oil burn."
+  },
+  {
+   "big": "Protect your eyes",
+   "en": "Book a regular eye test",
+   "ta": "இன்றே கண் பரிசோதனை செய்யுங்கள்",
+   "say": "Stay safe in the kitchen, and book a regular eye test."
+  }
+ ]
+}

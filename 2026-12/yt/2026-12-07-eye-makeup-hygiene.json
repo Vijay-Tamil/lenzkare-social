@@ -1,0 +1,56 @@
+{
+ "voice": "hf_beta",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "big": "Sharing kajal with friends?",
+   "en": "Stop. Here's why.",
+   "ta": "காஜலை மற்றவருடன் பகிர்கிறீர்களா?",
+   "say": "Do you share kajal or eyeliner with friends? Stop. Here's why."
+  },
+  {
+   "big": "Why it matters",
+   "en": "Germs from one eyelid can travel on a pencil to yours.",
+   "ta": "ஒருவரின் கண் கிருமிகள் பென்சில் வழியாக பரவும்",
+   "say": "Your eyelids carry germs. A shared pencil can carry them from one person's eye to another, and cause an infection."
+  },
+  {
+   "big": "Don't share",
+   "en": "Kajal, eyeliner, mascara: one person, one set.",
+   "ta": "காஜல், ஐலைனர், மஸ்காரா: பகிர வேண்டாம்",
+   "say": "Don't share kajal, eyeliner or mascara. One person, one set."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Experts advise replacing mascara about every 3 months.",
+   "ta": "மஸ்காராவை 3 மாதத்திற்கு ஒருமுறை மாற்றுங்கள்",
+   "say": "Did you know? Eye experts advise replacing mascara about every three months, because germs can grow inside the tube."
+  },
+  {
+   "big": "Do",
+   "en": "Sharpen pencils before use. Line outside the lashes, not the inner rim.",
+   "ta": "இமை விளிம்பின் உள்ளே போட வேண்டாம்",
+   "say": "Do sharpen pencils before each use. And apply liner outside the lash line, not on the inner rim, where it can block tiny oil glands."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-23-priya-sleepy-bed.jpg",
+   "big": "Never sleep in makeup",
+   "en": "Remove it gently every night.",
+   "ta": "தூங்கும் முன் மேக்கப்பை அகற்றுங்கள்",
+   "say": "Never sleep in eye makeup. Remove it gently every night, with a clean cotton pad."
+  },
+  {
+   "big": "Stop and see a doctor if...",
+   "en": "Eyes turn red, painful, swollen or sticky",
+   "ta": "கண் சிவந்தால், வலித்தால் மேக்கப் வேண்டாம்",
+   "say": "If your eyes turn red, painful, swollen or sticky, stop all eye makeup, throw it away, and see an eye doctor."
+  },
+  {
+   "big": "Healthy eyes look best",
+   "en": "Book an eye test today.",
+   "ta": "இன்றே கண் பரிசோதனை செய்யுங்கள்",
+   "say": "Healthy eyes look the best. Book an eye test today."
+  }
+ ]
+}

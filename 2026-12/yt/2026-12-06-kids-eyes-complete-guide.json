@@ -1,0 +1,131 @@
+{
+ "voice": "hm_psi",
+ "speed": 1.0,
+ "scenes": [
+  {
+   "image": "tools/assets/ai/2026-11-21-girl-ball-park.jpg",
+   "big": "Your child's eyes: 0 to 15",
+   "en": "A complete guide for parents.",
+   "ta": "குழந்தைகளின் கண்கள் – பெற்றோருக்கான வழிகாட்டி",
+   "say": "Your child's eyes grow and change, from birth to fifteen years. In this guide, we cover the milestones, myopia, squint, lazy eye, screen time and outdoor play, in simple words, for every parent."
+  },
+  {
+   "big": "Seeing is learned",
+   "en": "Babies are born with blurry vision. The eyes and brain learn to see together.",
+   "ta": "குழந்தைகள் பார்க்க கற்றுக்கொள்கிறார்கள்",
+   "say": "Babies are not born with sharp vision. The eyes and the brain learn to see together in the first years of life. That is why early problems matter so much. The brain is still learning."
+  },
+  {
+   "big": "Milestones: 0–3 months",
+   "en": "Looks at faces and starts to follow moving objects.",
+   "ta": "முகங்களை பார்க்கும், நகரும் பொருளை பின்தொடரும்",
+   "say": "Chapter one, milestones. In the first three months, a baby looks at faces, especially the mother's face, and starts to follow slowly moving objects with the eyes."
+  },
+  {
+   "big": "3–12 months",
+   "en": "Reaches for toys. Both eyes work together. Judges distance.",
+   "ta": "பொம்மையை பிடிக்கும்; இரு கண்களும் சேர்ந்து வேலை செய்யும்",
+   "say": "From three months to one year, the baby reaches for toys, both eyes start working together as a team, and the child learns to judge distance while crawling and standing."
+  },
+  {
+   "big": "1–5 years",
+   "en": "Picks up tiny things, enjoys picture books, knows people across the room.",
+   "ta": "சிறிய பொருட்களை எடுக்கும், படப் புத்தகம் பார்க்கும்",
+   "say": "Between one and five years, children pick up tiny things, enjoy picture books, and recognise people from across the room. A first eye check before starting school is a good idea."
+  },
+  {
+   "big": "See an eye specialist soon if…",
+   "en": "Eyes don't follow your face by 3 months, an eye turns, or the pupil looks white.",
+   "ta": "கண் திரும்பினால், கருவிழி வெள்ளையாக தெரிந்தால் – உடனே காட்டுங்கள்",
+   "say": "See an eye specialist soon if your baby's eyes do not follow your face by about three months, if one eye turns in or out, if the pupil looks white in photos, or if the eyes keep watering or look cloudy."
+  },
+  {
+   "big": "Myopia: far looks blurry",
+   "en": "The eyeball grows a little too long, so distant things blur.",
+   "ta": "தூரத்தில் உள்ளவை மங்கலாக தெரியும்",
+   "say": "Chapter two, myopia, also called short sight. The eyeball grows a little too long, so light focuses in front of the retina. Near things are clear, but the board, the TV and faraway faces look blurry."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Studies show myopia in children is rising worldwide.",
+   "ta": "உலகம் முழுவதும் குழந்தைகளுக்கு கண்ணாடி தேவை அதிகரிக்கிறது",
+   "say": "Did you know? Studies show that myopia in children is rising around the world. Long hours of close-up work and less time outdoors are part of the reason. Myopia often increases as children grow, so regular checks matter."
+  },
+  {
+   "image": "tools/assets/ai/2026-11-21-girl-tablet-sofa.jpg",
+   "big": "Signs of myopia",
+   "en": "Sits close to the TV, squints, holds books close, gets headaches.",
+   "ta": "டிவி அருகில் உட்காருவது, கண்ணை சுருக்குவது – கவனியுங்கள்",
+   "say": "Watch for these signs: sitting very close to the TV, squinting or tilting the head, holding books or phones very close, rubbing the eyes, headaches, or copying wrongly from the board."
+  },
+  {
+   "image": "tools/assets/ai/2026-11-18-father-son-store.jpg",
+   "big": "Myth: glasses weaken eyes",
+   "en": "Fact: glasses help your child see clearly and learn better.",
+   "ta": "கண்ணாடி போட்டால் கண் பலவீனமாகாது",
+   "say": "Myth: wearing glasses makes the eyes weaker. Fact: glasses simply help your child see clearly, and learn better. Wear them as advised, and check the power every six to twelve months, or as your eye specialist suggests."
+  },
+  {
+   "big": "Squint",
+   "en": "The two eyes don't point in the same direction.",
+   "ta": "மாறுகண் – இரு கண்களும் ஒரே திசையில் இல்லை",
+   "say": "Chapter three, squint. In a squint, the two eyes do not point in the same direction. One eye may turn in, out, up or down, all the time, or only when the child is tired."
+  },
+  {
+   "big": "Myth: “It will go away by itself”",
+   "en": "A true squint does not correct itself. Early treatment works best.",
+   "ta": "மாறுகண் தானாக சரியாகாது",
+   "say": "Many people believe a squint is lucky, or that it will go away by itself. A true squint does not correct itself. After the first few months of life, any turn of the eye should be checked by an eye specialist. Early treatment works best."
+  },
+  {
+   "big": "Lazy eye",
+   "en": "One eye sees less because the brain starts to ignore it.",
+   "ta": "சோம்பேறிக் கண் – மூளை ஒரு கண்ணை கவனிக்காது",
+   "say": "Chapter four, lazy eye. If one eye sees less clearly, because of a squint or a very different power, the brain starts to ignore it. That eye does not develop full vision, even though it looks normal."
+  },
+  {
+   "big": "Early is better",
+   "en": "No outside sign, no complaint. Only an eye test finds it.",
+   "ta": "சீக்கிரம் கண்டுபிடித்தால் நல்ல பலன்",
+   "say": "Lazy eye often has no outside sign, and children rarely complain, because the other eye sees well. Treatment, like glasses or patching as advised by the eye specialist, works best when started young. That is why every child needs an eye test, even without complaints."
+  },
+  {
+   "big": "Screen time",
+   "en": "Under 2: screens not recommended. Age 2–5: under 1 hour a day (WHO).",
+   "ta": "2 வயதுக்கு கீழ் திரை வேண்டாம்",
+   "say": "Chapter five, screen time. The World Health Organization says screens are not recommended for babies under two, and children aged two to five should have no more than one hour a day. Less is better."
+  },
+  {
+   "big": "For school children",
+   "en": "20-20-20 rule. Screens at arm's length. No screens 1 hour before bed.",
+   "ta": "20 நிமிடத்துக்கு ஒருமுறை, 20 அடி தூரம், 20 வினாடி பாருங்கள்",
+   "say": "For school children, use the twenty, twenty, twenty rule. Every twenty minutes, look at something twenty feet away for twenty seconds. Keep screens at arm's length, use good light, and switch screens off an hour before bed."
+  },
+  {
+   "image": "tools/assets/ai/2026-11-21-girl-cycle-park.jpg",
+   "big": "Outdoor play",
+   "en": "Aim for about 2 hours outdoors in daylight every day.",
+   "ta": "தினமும் சுமார் 2 மணி நேரம் வெளியில் விளையாடுங்கள்",
+   "say": "Chapter six, outdoor play. Studies show that time outdoors in daylight helps lower the chance of myopia starting. Aim for about two hours outside every day: playing, cycling or walking. Shade is fine too."
+  },
+  {
+   "big": "Healthy eye habits",
+   "en": "Good food, good sleep, safe toys, crackers away from the face.",
+   "ta": "நல்ல உணவு, நல்ல தூக்கம், பாதுகாப்பான விளையாட்டு",
+   "say": "A few more habits. Colourful vegetables and fruits, enough sleep, and toys without sharp points. Keep crackers far away from children's faces. If any eye injury happens, see a doctor immediately."
+  },
+  {
+   "image": "tools/assets/ai/2026-11-20-amma-son-balcony.jpg",
+   "big": "When to test",
+   "en": "Before school, then every year, sooner if you notice a sign.",
+   "ta": "பள்ளிக்கு முன், பிறகு ஒவ்வொரு வருடமும் கண் பரிசோதனை",
+   "say": "So when should you test? Get a first eye check before starting school, then once every year, or sooner if you notice any sign. At LenzKare, the eye test at our store is free, and a home eye test in Chennai is one hundred rupees for the whole family."
+  },
+  {
+   "big": "General information",
+   "en": "Not a diagnosis. See an eye specialist for your child's eyes.",
+   "ta": "இது பொது தகவல் மட்டும் – கண் மருத்துவரை அணுகுங்கள்",
+   "say": "This video is general information, not a diagnosis. For your child's eyes, see an eye specialist. Share this with other parents, and subscribe for more eye-care tips."
+  }
+ ]
+}

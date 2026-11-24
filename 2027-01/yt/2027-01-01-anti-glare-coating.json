@@ -1,0 +1,56 @@
+{
+ "voice": "hm_omega",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-24-anand-headlight-glare.jpg",
+   "big": "Headlights look like stars?",
+   "en": "Anti-glare: myth vs fact",
+   "ta": "இரவில் ஹெட்லைட் கண்ணை கூச வைக்கிறதா?",
+   "say": "Do headlights at night look like big shining stars through your glasses? Let us bust some anti-glare myths."
+  },
+  {
+   "big": "MYTH",
+   "en": "\"Anti-glare is only for computer users.\"",
+   "ta": "கணினி பயன்படுத்துபவர்களுக்கு மட்டும் என்பது தவறு",
+   "say": "Myth. Anti-glare is only for computer users."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-19-woman-desk-setup.jpg",
+   "big": "FACT",
+   "en": "Plain lenses bounce light off both surfaces. The coating cuts those reflections.",
+   "ta": "பிரதிபலிப்பை குறைக்கும் மெல்லிய பூச்சு",
+   "say": "Fact. Plain lenses bounce light off their front and back surfaces. That causes halos at night and reflections on screens. An anti-glare coating cuts those reflections, so more light reaches your eyes."
+  },
+  {
+   "big": "MYTH",
+   "en": "\"It is just a tint.\"",
+   "ta": "இது வெறும் நிறம் என்பது தவறு",
+   "say": "Myth. It is just a coloured tint."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-14-anand-own-glasses.jpg",
+   "big": "FACT",
+   "en": "It is a clear, thin multi-layer coating. People see your eyes, not reflections.",
+   "ta": "தெளிவான மெல்லிய பல அடுக்கு பூச்சு",
+   "say": "Fact. It is a clear, very thin, multi-layer coating. In photos and video calls, people see your eyes, not white reflections."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-24-anand-cleaning-glasses.jpg",
+   "big": "Care tips",
+   "en": "Rinse, then wipe with a microfibre cloth. No hot water, no saree edge.",
+   "ta": "மைக்ரோஃபைபர் துணியால் மட்டும் துடைக்கவும்",
+   "say": "Care tip. Rinse with water, then wipe with a microfibre cloth. No hot water, and no saree or shirt edge."
+  },
+  {
+   "big": "Buy 1 Get 1 FREE",
+   "en": "On spectacles with LenzKare Fusion lenses. 1-year coating warranty.",
+   "ta": "ஒன்று வாங்கினால் ஒன்று இலவசம்",
+   "say": "At LenzKare, get buy one, get one free on spectacles with Fusion lenses, plus a one-year coating warranty. Visit our store for a free eye test."
+  }
+ ]
+}

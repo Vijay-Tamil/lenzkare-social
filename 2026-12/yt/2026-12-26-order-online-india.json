@@ -1,0 +1,55 @@
+{
+ "voice": "hm_omega",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-20-karthik-phone-sofa.jpg",
+   "big": "Order glasses from your sofa",
+   "en": "Delivered anywhere in India.",
+   "ta": "வீட்டில் இருந்தே கண்ணாடி ஆர்டர் செய்யுங்கள்",
+   "say": "Order your glasses from your sofa, delivered anywhere in India. Here are the do's and don'ts."
+  },
+  {
+   "big": "Do",
+   "en": "Keep a recent eye prescription ready.",
+   "ta": "சமீபத்திய கண் பவர் சீட்டை வைத்திருங்கள்",
+   "say": "Do keep a recent eye prescription ready, ideally from the last year."
+  },
+  {
+   "image": "tools/assets/pro-2.jpg",
+   "big": "Do",
+   "en": "Frames from ₹899. Single vision lenses from ₹1,500.",
+   "ta": "ரூ.899 முதல் பிரேம், ரூ.1,500 முதல் லென்ஸ்",
+   "say": "Do pick your frame and lenses on our website. Frames start at eight hundred ninety nine rupees, and single vision lenses at fifteen hundred."
+  },
+  {
+   "big": "Don't",
+   "en": "Don't guess your power or use a very old one.",
+   "ta": "பவரை ஊகிக்காதீர்கள், பழைய சீட்டு வேண்டாம்",
+   "say": "Don't guess your power, or use a very old prescription. The wrong power can cause headaches and eye strain."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-20-karthik-parcel.jpg",
+   "big": "Delivery",
+   "en": "Free in South India. Elsewhere ₹80, free above ₹999. No cash on delivery.",
+   "ta": "தென்னிந்தியாவில் இலவச டெலிவரி",
+   "say": "Delivery is free in South India. Elsewhere it is eighty rupees, and free above nine hundred ninety nine. Please note, there is no cash on delivery."
+  },
+  {
+   "big": "Buy 1 Get 1 FREE",
+   "en": "On spectacles with LenzKare Fusion lenses.",
+   "ta": "ஃப்யூஷன் லென்ஸ் கண்ணாடிக்கு ஒன்று வாங்கினால் ஒன்று இலவசம்",
+   "say": "And buy one get one free works online too, on spectacles with LenzKare Fusion lenses."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-20-karthik-amma-mirror.jpg",
+   "big": "Order at lenzkare.com",
+   "en": "New on the app? ₹500 joining bonus on your first order (₹1,500+).",
+   "ta": "இன்றே lenzkare.com-ல் ஆர்டர் செய்யுங்கள்",
+   "say": "Order today on our website. New on the LenzKare app? Get a five hundred rupee joining bonus on your first order above fifteen hundred."
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "voice": "hf_beta",
+ "speed": 1.0,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-23-priya-sleepy-bed.jpg",
+   "big": "Dim light ruins eyes?",
+   "en": "Myth or fact?",
+   "ta": "மங்கலான வெளிச்சத்தில் படித்தால் கண் கெடுமா?",
+   "say": "Reading in dim light will ruin your eyes. Myth, or fact?"
+  },
+  {
+   "big": "MYTH",
+   "en": "Dim light does not cause permanent eye damage.",
+   "ta": "இது தவறான நம்பிக்கை. நிரந்தர பாதிப்பு இல்லை",
+   "say": "It's a myth. Reading in dim light does not permanently damage your eyes."
+  },
+  {
+   "big": "But it tires them",
+   "en": "Your eyes strain to focus and blink less: tired, dry eyes, headache.",
+   "ta": "கண் கடினமாக வேலை செய்யும், சோர்வு வரும்",
+   "say": "But it does make them work harder. In low light, your eyes strain to focus, and you blink less. That leads to tired, dry eyes and headaches. The good news: it goes away with rest."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-19-woman-window.jpg",
+   "big": "Did you know?",
+   "en": "After 40, your eyes need much more light to read comfortably.",
+   "ta": "40 வயதுக்கு பிறகு படிக்க அதிக வெளிச்சம் தேவை",
+   "say": "Did you know? As we age, less light reaches the back of the eye. After forty, you may need much more light to read comfortably."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-18-daughter-amma-glasses.jpg",
+   "big": "Do this",
+   "en": "Lamp behind or beside you. No glare. Look far every 20 minutes.",
+   "ta": "பக்கவாட்டில் விளக்கு, 20 நிமிடத்துக்கு ஒருமுறை ஓய்வு",
+   "say": "Place a lamp behind or beside you, not in front. Avoid glare on the page. And every twenty minutes, look far away for twenty seconds."
+  },
+  {
+   "big": "Phone at night?",
+   "en": "Don't read a bright phone in a dark room. Turn a light on.",
+   "ta": "இருட்டில் போன் படிக்க வேண்டாம்",
+   "say": "Reading your phone in a dark room? Turn on a room light, and lower the screen brightness."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-18-appa-newspaper.jpg",
+   "big": "Still struggling?",
+   "en": "Book an eye test today.",
+   "ta": "இன்றே கண் பரிசோதனை செய்யுங்கள்",
+   "say": "If you still struggle to read, even in good light, you may need glasses. Book an eye test today."
+  }
+ ]
+}

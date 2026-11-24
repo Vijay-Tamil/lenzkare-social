@@ -1,0 +1,50 @@
+{
+ "voice": "hf_beta",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "big": "6/6 = perfect eyes?",
+   "en": "Quick quiz!",
+   "ta": "6/6 என்றால் சரியான கண்ணா?",
+   "say": "Quick quiz. Does six by six vision mean your eyes are perfect?"
+  },
+  {
+   "big": "A, B or C?",
+   "en": "A) 100% perfect eyes  B) No glasses ever  C) Normal sharpness at 6 metres",
+   "ta": "சரியான பதில் எது?",
+   "say": "Is it A, one hundred percent perfect eyes? B, you will never need glasses? Or C, normal sharpness at six metres?"
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-19-woman-window.jpg",
+   "big": "Answer: C",
+   "en": "You read at 6 metres what a normal eye reads at 6 metres.",
+   "ta": "6 மீட்டரில் சாதாரண கண் படிப்பதை நீங்களும் படிக்கிறீர்கள்",
+   "say": "The answer is C. The top six is the distance you stand from the chart, six metres. The bottom six means a typical healthy eye could read that same line from six metres."
+  },
+  {
+   "big": "6/12?",
+   "en": "You need to be at 6 m to read what others read from 12 m.",
+   "ta": "6/12 என்றால் பார்வை குறைவு",
+   "say": "So six by twelve means you must stand at six metres to read what a typical eye reads from twelve metres. In America, the same idea is called twenty by twenty."
+  },
+  {
+   "big": "E  F  P",
+   "en": "Not checked by the chart: eye pressure, side vision, retina, near vision",
+   "ta": "அழுத்தம், பக்க பார்வை, விழித்திரை தனியாக சோதிக்க வேண்டும்",
+   "say": "But the chart does not check eye pressure, side vision, the retina, or reading vision up close."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Glaucoma can steal side vision while you still read 6/6.",
+   "ta": "6/6 இருந்தாலும் கிளாக்கோமா இருக்கலாம்",
+   "say": "Did you know? Glaucoma can slowly damage side vision, while you still read six by six on the chart."
+  },
+  {
+   "big": "Know your number",
+   "en": "Book a full eye test.",
+   "ta": "முழு கண் பரிசோதனை செய்யுங்கள்",
+   "say": "So know your number, and more. Book a full eye test."
+  }
+ ]
+}

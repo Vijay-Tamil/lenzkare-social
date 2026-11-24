@@ -1,0 +1,62 @@
+{
+ "voice": "hf_beta",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-19-karthik-popper.jpg",
+   "big": "Party popper at a face?",
+   "en": "One pop can hurt an eye.",
+   "ta": "பார்ட்டி பாப்பர் முகத்தை நோக்கியா?",
+   "say": "Party popper pointed at someone's face? One pop can seriously hurt an eye."
+  },
+  {
+   "big": "Why it's risky",
+   "en": "The front of the eye is thin and delicate. Fast paper, plastic or a cork can scratch or bruise it.",
+   "ta": "கண்ணின் முன்பகுதி மிக மென்மையானது",
+   "say": "The front of your eye is thin and delicate. A fast piece of paper, plastic or a cork can scratch it, or bruise the inside of the eye."
+  },
+  {
+   "big": "Do",
+   "en": "Point poppers up, away from everyone.",
+   "ta": "பாப்பரை மேலே, யாரும் இல்லாத பக்கம் வெடியுங்கள்",
+   "say": "Do point party poppers straight up, away from everyone, and hold them at arm's length."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-19-karthik-cork.jpg",
+   "big": "Did you know?",
+   "en": "A popping cork can fly fast enough to injure an eye. Cover it with a towel, point it away.",
+   "ta": "பாட்டில் மூடி வேகமாக பறந்து கண்ணை காயப்படுத்தும்",
+   "say": "Did you know? A popping cork can fly fast enough to cause a serious eye injury. Cover it with a towel, and point it away from people."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-19-karthik-sparkler.jpg",
+   "big": "Kids & crackers",
+   "en": "Arm's length, safety glasses, a bucket of water, an adult beside.",
+   "ta": "குழந்தைகளுடன் பெரியவர் இருக்க வேண்டும்; பாதுகாப்பு கண்ணாடி அணியுங்கள்",
+   "say": "For children, keep sparklers at arm's length, use safety glasses, keep a bucket of water nearby, and always have an adult beside them."
+  },
+  {
+   "big": "Don't",
+   "en": "Don't rub, press or pull out anything stuck in the eye.",
+   "ta": "கண்ணை தேய்க்காதீர்கள், அழுத்தாதீர்கள்",
+   "say": "If something hits the eye, don't rub it, don't press it, and don't try to pull anything out."
+  },
+  {
+   "big": "Urgent if...",
+   "en": "Pain, bleeding, blurred vision or a burn: see an eye specialist now.",
+   "ta": "வலி, ரத்தம், மங்கலான பார்வை: உடனே கண் மருத்துவரிடம்!",
+   "say": "Pain, bleeding, blurred vision or a burn? Cover the eye gently with a clean cloth, and see an eye specialist right away."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-19-karthik-nila-call.jpg",
+   "big": "Celebrate safely",
+   "en": "Start the new year with an eye test.",
+   "ta": "பாதுகாப்பாக கொண்டாடுங்கள்",
+   "say": "Celebrate safely, and start the new year with an eye test for the whole family."
+  }
+ ]
+}

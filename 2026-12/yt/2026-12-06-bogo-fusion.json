@@ -1,0 +1,60 @@
+{
+ "voice": "hm_omega",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-20-karthik-phone-sofa.jpg",
+   "big": "Karthik needed new glasses",
+   "en": "One pair for work. One for the sun.",
+   "ta": "கார்த்திக்கிற்கு புதிய கண்ணாடி தேவை",
+   "say": "Karthik needed new glasses. One pair for work, and one for the bright sun on his ride home."
+  },
+  {
+   "big": "Buy 1 Get 1 FREE",
+   "en": "on spectacles with LenzKare Fusion lenses",
+   "ta": "ஒன்று வாங்கினால் ஒன்று இலவசம்",
+   "say": "Then he found Buy one, Get one free, on spectacles with LenzKare Fusion lenses."
+  },
+  {
+   "big": "Mix and match",
+   "en": "One eyeglass + one power sunglass works too.",
+   "ta": "ஒரு கண்ணாடி + ஒரு பவர் சன்கிளாஸ்",
+   "say": "And it works as one eyeglass plus one power sunglass. So he got both."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-20-karthik-amma-mirror.jpg",
+   "big": "Frames from ₹899",
+   "en": "FOE frames. Fusion lenses in 1.50, 1.56 and 1.60.",
+   "ta": "FOE பிரேம்கள் ரூ.899 முதல்",
+   "say": "FrameOra frames start from eight hundred and ninety-nine rupees, and Fusion lenses come in three thickness options."
+  },
+  {
+   "big": "Peace of mind",
+   "en": "6-month frame warranty. 1-year coating warranty. 7-day exchange.",
+   "ta": "பிரேம் 6 மாதம், கோட்டிங் 1 வருடம் வாரண்டி",
+   "say": "He also got a six-month frame warranty, a one-year coating warranty, and a seven-day exchange."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-20-karthik-parcel.jpg",
+   "big": "Delivered home",
+   "en": "Free delivery in South India.",
+   "ta": "தென்னிந்தியாவில் இலவச டெலிவரி",
+   "say": "He ordered online, and the parcel came to his door. Delivery is free across South India."
+  },
+  {
+   "big": "₹500 app bonus",
+   "en": "First LenzKare app order (min ₹1,500), within 30 days. Works with Buy 1 Get 1.",
+   "ta": "முதல் ஆப் ஆர்டரில் ரூ.500 போனஸ்",
+   "say": "Bonus tip. Get a five hundred rupee joining bonus on your first LenzKare app order of fifteen hundred rupees or more. Use it within thirty days. It works with Buy one, Get one free."
+  },
+  {
+   "big": "Test first",
+   "en": "Right power in both pairs. Eye test at our store is free.",
+   "ta": "கடையில் கண் பரிசோதனை இலவசம்",
+   "say": "Get your eyes tested first, so both pairs have the right power. The eye test at our store is free."
+  }
+ ]
+}

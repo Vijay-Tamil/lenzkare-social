@@ -1,0 +1,60 @@
+{
+ "voice": "hf_alpha",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-21-arun-rubbing-eyes.jpg",
+   "big": "Crusty lashes every morning?",
+   "en": "Your eyelids need cleaning too.",
+   "ta": "காலையில் இமையில் பிசுபிசுப்பா?",
+   "say": "Crusty, itchy eyelashes every morning? Your eyelids need cleaning too."
+  },
+  {
+   "big": "Why it happens",
+   "en": "Tiny oil glands line your eyelids. When they block, oil and flakes build up.",
+   "ta": "இமை ஓரத்தில் சிறிய எண்ணெய் சுரப்பிகள் உள்ளன",
+   "say": "Your eyelids have tiny oil glands along the edge. This oil stops tears drying too fast. When the glands get blocked, oil and flakes build up at the lashes."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Eyelid inflammation is very common. Daily care keeps it in check.",
+   "ta": "இது பொதுவானது; தினசரி சுத்தம் உதவும்",
+   "say": "Did you know? Eyelid inflammation is very common. It often comes and goes, and simple daily care helps keep it under control."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-21-arun-handwash.jpg",
+   "big": "Do: Clean hands",
+   "en": "Wash your hands before touching your eyes.",
+   "ta": "கண்ணை தொடும் முன் கை கழுவுங்கள்",
+   "say": "Do wash your hands with soap before you touch your eyes."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-21-arun-cool-cloth.jpg",
+   "big": "Do: Warm compress",
+   "en": "Clean cloth, warm (not hot) water, eyes closed, 5 to 10 minutes.",
+   "ta": "வெதுவெதுப்பான துணியை 5-10 நிமிடம் வையுங்கள்",
+   "say": "Do place a clean cloth, dipped in warm, not hot, water, over your closed eyes for five to ten minutes. This softens the oil."
+  },
+  {
+   "big": "Do: Gently clean",
+   "en": "Wipe along the lash line with a clean, damp cotton pad.",
+   "ta": "இமை ஓரத்தை ஈரமான பஞ்சால் மெதுவாக துடையுங்கள்",
+   "say": "Then gently wipe along the lash line with a clean, damp cotton pad. Use a fresh pad for each eye."
+  },
+  {
+   "big": "Don't",
+   "en": "Don't rub, pick the crusts, or sleep in eye makeup.",
+   "ta": "கண்ணை தேய்க்காதீர்கள்; மேக்கப்புடன் தூங்காதீர்கள்",
+   "say": "Don't rub your eyes, don't pick at the crusts, and never sleep with eye makeup on."
+  },
+  {
+   "big": "See a specialist if...",
+   "en": "Pain, swelling, a lump or blurred vision.",
+   "ta": "வலி, வீக்கம், கட்டி இருந்தால் கண் மருத்துவரை பாருங்கள்",
+   "say": "See an eye specialist if you have pain, swelling, a lump, or blurred vision. Book an eye test today."
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "voice": "hm_psi",
+ "speed": 1.0,
+ "scenes": [
+  {
+   "big": "Red or green? Are you sure?",
+   "en": "Some people really can't tell.",
+   "ta": "சிவப்பா, பச்சையா? உறுதியா?",
+   "say": "Red or green? Are you sure? Some people really can't tell the difference, and many don't even know it."
+  },
+  {
+   "big": "Why it happens",
+   "en": "The retina has 3 types of colour-sensing cells. If one works differently, colours look alike.",
+   "ta": "விழித்திரையில் நிறம் உணரும் செல்கள் வேறுபடும்",
+   "say": "Your retina has three types of colour sensing cells, for red, green and blue. If one type works differently, some colours look alike."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Studies show about 1 in 12 men, but only about 1 in 200 women, have it.",
+   "ta": "ஆண்களில் சுமார் 12 பேரில் ஒருவருக்கு இருக்கும்",
+   "say": "Did you know? Studies show about one in twelve men have colour vision deficiency, but only about one in two hundred women."
+  },
+  {
+   "big": "Why men?",
+   "en": "The common type passes down on the X chromosome. Men have only one X.",
+   "ta": "இது பெரும்பாலும் பரம்பரையாக வரும்",
+   "say": "That's because the common type is passed down on the X chromosome. Men have only one X, so there's no backup copy."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-18-father-son-album.jpg",
+   "big": "Simple facts",
+   "en": "Usually from birth. Doesn't get worse. It is not blindness.",
+   "ta": "பிறவியிலிருந்தே இருக்கும், இது பார்வை இழப்பு அல்ல",
+   "say": "It's usually present from birth, it doesn't get worse, and it is not blindness. Most people live completely normal lives."
+  },
+  {
+   "big": "Check for it",
+   "en": "A quick colour plate test during an eye test. Helps kids at school and some jobs.",
+   "ta": "குழந்தைகளுக்கு சிறு வயதிலேயே பரிசோதியுங்கள்",
+   "say": "A quick colour plate test, during an eye test, can find it. It helps children at school, and matters for some jobs."
+  },
+  {
+   "big": "Urgent if...",
+   "en": "Colours suddenly look faded, especially in one eye.",
+   "ta": "திடீரென நிறம் மங்கினால் உடனே கண் மருத்துவரிடம்!",
+   "say": "But if colours suddenly look faded or washed out, especially in one eye, see an eye specialist quickly. Book an eye test today."
+  }
+ ]
+}

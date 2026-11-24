@@ -1,0 +1,54 @@
+{
+ "voice": "hm_psi",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-23-meena-cover-eye.jpg",
+   "big": "One eye weaker?",
+   "en": "Different power in each eye is common.",
+   "ta": "ஒரு கண் மட்டும் பலவீனமா?",
+   "say": "Is one of your eyes weaker than the other? It is more common than you think."
+  },
+  {
+   "big": "Why it happens",
+   "en": "Each eye grows a little differently in length and shape.",
+   "ta": "ஒவ்வொரு கண்ணும் வேறு மாதிரி வளரும்",
+   "say": "Each eye grows a little differently in length and shape. So one eye can be more short-sighted, long-sighted, or have more astigmatism than the other."
+  },
+  {
+   "big": "Did you know?",
+   "en": "You may not notice it. The stronger eye quietly does the work.",
+   "ta": "நல்ல கண் வேலையை செய்வதால் தெரியாது",
+   "say": "Did you know? Many people never notice it, because the stronger eye quietly does most of the work."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-20-amma-son-balcony.jpg",
+   "big": "Kids: lazy eye risk",
+   "en": "If one eye stays blurry, the brain may ignore it.",
+   "ta": "குழந்தைகளுக்கு சோம்பேறி கண் ஆபத்து",
+   "say": "In children, this matters most. If one eye stays blurry, the brain may start ignoring it. That is called a lazy eye, and it is best treated early in childhood."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-14-anand-borrowed-glasses.jpg",
+   "big": "Do this",
+   "en": "Cover one eye at a time and compare. Never borrow glasses.",
+   "ta": "ஒரு கண்ணை மூடி சோதியுங்கள், பிறர் கண்ணாடி வேண்டாம்",
+   "say": "Try this. Cover one eye at a time and compare. And never borrow someone else's glasses. Each lens must match each eye."
+  },
+  {
+   "big": "Urgent if...",
+   "en": "Sudden loss of vision in one eye: see an eye specialist the same day.",
+   "ta": "ஒரு கண்ணில் திடீர் பார்வை இழப்பு: அன்றே மருத்துவர்",
+   "say": "But if vision suddenly drops in one eye, see an eye specialist the same day."
+  },
+  {
+   "big": "Each eye counts",
+   "en": "Book an eye test for the whole family.",
+   "ta": "ஒவ்வொரு கண்ணும் முக்கியம்",
+   "say": "Each eye counts. Book an eye test for the whole family."
+  }
+ ]
+}

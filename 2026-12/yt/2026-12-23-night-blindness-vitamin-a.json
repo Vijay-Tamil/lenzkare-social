@@ -1,0 +1,56 @@
+{
+ "voice": "hm_psi",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "big": "Can't see well in the dark?",
+   "en": "The answer may be on your plate.",
+   "ta": "இருட்டில் சரியாக தெரியவில்லையா?",
+   "say": "Struggling to see when the lights go dim? The answer might be on your plate."
+  },
+  {
+   "big": "3: How night vision works",
+   "en": "Your retina needs vitamin A to see in dim light.",
+   "ta": "இருட்டில் பார்க்க விழித்திரைக்கு வைட்டமின் A தேவை",
+   "say": "Number three. Your retina uses vitamin A to make a special pigment that lets you see in dim light. Without enough vitamin A, night vision fades first."
+  },
+  {
+   "big": "2: Did you know?",
+   "en": "WHO: vitamin A deficiency is the leading preventable cause of blindness in children.",
+   "ta": "குழந்தைகளின் தடுக்கக்கூடிய பார்வை இழப்புக்கு இது முக்கிய காரணம்",
+   "say": "Number two. Did you know? The World Health Organization says vitamin A deficiency is the leading preventable cause of blindness in children."
+  },
+  {
+   "big": "Early signs",
+   "en": "A child stumbles in dim light, or has very dry eyes.",
+   "ta": "மாலை நேரத்தில் தடுமாறுதல், கண் வறட்சி",
+   "say": "Early signs include a child stumbling or bumping into things in the evening, and very dry eyes."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-29-lakshmi-meal.jpg",
+   "big": "1: Eat the colours",
+   "en": "Carrot, papaya, mango, sweet potato, keerai, eggs, milk.",
+   "ta": "கேரட், பப்பாளி, மாம்பழம், கீரை, முட்டை, பால்",
+   "say": "Number one. Eat the colours. Carrots, papaya, mango, sweet potato, green leafy vegetables, eggs and milk are rich in vitamin A."
+  },
+  {
+   "big": "Careful",
+   "en": "No vitamin supplements without a doctor's advice. Too much can harm.",
+   "ta": "மருத்துவர் ஆலோசனை இல்லாமல் சப்ளிமென்ட் கொடுக்காதீர்கள்",
+   "say": "Don't give vitamin supplements without a doctor's advice. Too much vitamin A can also be harmful."
+  },
+  {
+   "big": "See a specialist soon if...",
+   "en": "Night vision gets worse, or eyes look very dry or cloudy.",
+   "ta": "இரவுப் பார்வை குறைந்தால் உடனே கண் மருத்துவரை பாருங்கள்",
+   "say": "If night vision gets worse, or the eyes look very dry or cloudy, see an eye specialist without delay."
+  },
+  {
+   "big": "Get checked",
+   "en": "Night blindness has other causes too.",
+   "ta": "இன்றே கண் பரிசோதனை செய்யுங்கள்",
+   "say": "Night blindness can have other causes too. So book an eye test today."
+  }
+ ]
+}

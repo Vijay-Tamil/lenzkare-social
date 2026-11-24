@@ -1,0 +1,54 @@
+{
+ "voice": "hf_alpha",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-19-woman-laptop-tired.jpg",
+   "big": "Is your screen too bright?",
+   "en": "Match it to your room",
+   "ta": "திரை வெளிச்சம் அதிகமா?",
+   "say": "Tired eyes after work? Your screen brightness might be the problem."
+  },
+  {
+   "big": "Why it matters",
+   "en": "Your eyes keep adjusting when the screen and room don't match",
+   "ta": "திரைக்கும் அறைக்கும் வெளிச்ச வித்தியாசம் கண்ணைச் சோர்வாக்கும்",
+   "say": "Here's why. When your screen is much brighter or darker than the room, your eyes keep adjusting, and that adds to the strain."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-19-woman-desk-setup.jpg",
+   "big": "Step 1: Match the room",
+   "en": "Like a sheet of paper in that light, not a lamp",
+   "ta": "திரை வெளிச்சத்தை அறைக்கு ஏற்ப அமையுங்கள்",
+   "say": "Step one. Match the screen to the room. It should look like a sheet of white paper in that light, not like a lamp. Don't work in a dark room."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-19-woman-window.jpg",
+   "big": "Step 2: Beat the glare",
+   "en": "Keep windows to the side, not behind or in front of the screen",
+   "ta": "ஜன்னல் பக்கவாட்டில் இருக்கட்டும்",
+   "say": "Step two. Beat the glare. Place the screen so windows are to the side, not behind it or behind you. Tilt it slightly to remove reflections."
+  },
+  {
+   "big": "Step 3: Contrast and size",
+   "en": "Dark text on a light background, and bigger text",
+   "ta": "வெள்ளை பின்னணியில் கருப்பு எழுத்து, பெரிய எழுத்து",
+   "say": "Step three. Use dark text on a light background, and make the text bigger, so you don't lean in."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Eye doctors say screen light doesn't damage eyes. Strain comes from staring and blinking less.",
+   "ta": "திரை ஒளி கண்ணைச் சேதப்படுத்தாது; சோர்வு மட்டுமே",
+   "say": "Did you know? The American Academy of Ophthalmology says there's no evidence that screen light damages the eyes. The strain comes from long staring and blinking less."
+  },
+  {
+   "big": "Still straining?",
+   "en": "Headaches or blur after screen time? Book an eye test.",
+   "ta": "இன்றே கண் பரிசோதனை செய்யுங்கள்",
+   "say": "If you still get headaches or blurry vision after screen work, you may need glasses. Book an eye test."
+  }
+ ]
+}

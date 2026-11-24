@@ -1,0 +1,52 @@
+{
+ "voice": "hm_omega",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-14-anand-borrowed-glasses.jpg",
+   "big": "Thick, heavy glasses?",
+   "en": "Quick quiz: which lens is thinnest?",
+   "ta": "கண்ணாடி தடிமனாக, கனமாக இருக்கா?",
+   "say": "High power, and your glasses feel thick and heavy? Quick quiz. Which lens is the thinnest?"
+  },
+  {
+   "big": "1.50, 1.56 or 1.60?",
+   "en": "These numbers are the lens index",
+   "ta": "இந்த எண்கள் தான் லென்ஸ் இண்டெக்ஸ்",
+   "say": "One point five zero, one point five six, or one point six zero? These numbers are called the lens index."
+  },
+  {
+   "big": "Answer: 1.60",
+   "en": "A higher index bends light more, so the lens can be thinner and lighter",
+   "ta": "இண்டெக்ஸ் அதிகம் என்றால் லென்ஸ் மெலிதாக, எடை குறைவாக இருக்கும்",
+   "say": "The answer is one point six zero. A higher index lens bends light more strongly, so it can be made thinner and lighter for the same power."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Lenses for short sight are thickest at the edges. That's where thin lenses help most.",
+   "ta": "மைனஸ் பவர் லென்ஸ் ஓரங்களில் தடிமனாக இருக்கும்",
+   "say": "Did you know? Lenses for short sight are thickest at the edges. That's where a thinner lens makes the biggest difference."
+  },
+  {
+   "big": "Which one for you?",
+   "en": "Low power: 1.50 or 1.56. Higher power: 1.60. We'll guide you after your eye test.",
+   "ta": "உங்கள் பவருக்கு ஏற்ற லென்ஸை நாங்கள் பரிந்துரைப்போம்",
+   "say": "Low power usually works well with one point five zero or one point five six. For higher power, one point six zero keeps it slim. We'll suggest the right one after your eye test."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-14-anand-own-glasses.jpg",
+   "big": "Buy 1 Get 1 FREE",
+   "en": "On spectacles with LenzKare Fusion lenses: 1.50, 1.56 and 1.60",
+   "ta": "ஃபியூஷன் லென்ஸுடன் கண்ணாடி: ஒன்று வாங்கினால் ஒன்று இலவசம்",
+   "say": "And with LenzKare Fusion lenses, in all three indexes, spectacles are Buy one, Get one free."
+  },
+  {
+   "big": "Start with an eye test",
+   "en": "Free in store. Home eye test in Chennai: ₹100 for the whole family.",
+   "ta": "கடையில் கண் பரிசோதனை இலவசம்",
+   "say": "Start with an accurate eye test. It's free at our store, or book a home eye test for just one hundred rupees for the whole family."
+  }
+ ]
+}

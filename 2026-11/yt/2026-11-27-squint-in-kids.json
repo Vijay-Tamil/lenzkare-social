@@ -1,0 +1,60 @@
+{
+ "voice": "hm_psi",
+ "speed": 1.0,
+ "scenes": [
+  {
+   "image": "tools/assets/ai/2026-11-21-girl-ball-park.jpg",
+   "full": true,
+   "big": "Squint means lucky eyes?",
+   "en": "Myth vs fact every parent should know.",
+   "ta": "ஒன்றரைக் கண் அதிர்ஷ்டமா?",
+   "say": "Many families call a squint lucky eyes. Here's what every parent should really know."
+  },
+  {
+   "big": "What is a squint?",
+   "en": "The two eyes don't point at the same spot. The brain gets two different pictures.",
+   "ta": "இரண்டு கண்களும் ஒரே இடத்தைப் பார்ப்பதில்லை",
+   "say": "In a squint, the two eyes don't point at the same spot. The brain gets two different pictures, so it starts ignoring one eye."
+  },
+  {
+   "big": "Myth: It's lucky",
+   "en": "Fact: The ignored eye can become a lazy eye, weak for life.",
+   "ta": "உண்மை: ஒரு கண் சோம்பேறிக் கண் ஆகலாம்",
+   "say": "Myth. It's lucky, so leave it. Fact. The ignored eye can become a lazy eye, and its vision can stay weak for life."
+  },
+  {
+   "image": "tools/assets/ai/2026-11-21-girl-tablet-sofa.jpg",
+   "full": true,
+   "big": "Myth: They'll outgrow it",
+   "en": "Fact: A true squint doesn't go away by itself.",
+   "ta": "உண்மை: ஒன்றரைக் கண் தானாகச் சரியாகாது",
+   "say": "Myth. Children grow out of it. Fact. A true squint does not go away on its own. Babies' eyes may wander only in the first few months."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Treatment works best when started early. Glasses, patching or surgery, as advised.",
+   "ta": "சிறு வயதில் சிகிச்சை தொடங்கினால் சிறந்த பலன்",
+   "say": "Did you know? Treatment works best when it starts early. Glasses, patching or surgery may be used, as the eye specialist advises."
+  },
+  {
+   "big": "Watch for",
+   "en": "An eye turning in or out, head tilting, closing one eye in sunlight.",
+   "ta": "கண் உள்ளே அல்லது வெளியே திரும்புதல், தலை சாய்த்தல்",
+   "say": "Watch for an eye turning in or out, a tilted head, or closing one eye in bright light. Check family photos too."
+  },
+  {
+   "image": "tools/assets/ai/2026-11-21-girl-cycle-park.jpg",
+   "full": true,
+   "big": "Urgent if...",
+   "en": "A squint or double vision appears suddenly, at any age.",
+   "ta": "திடீர் ஒன்றரைக் கண், இரட்டைப் பார்வை – உடனே மருத்துவரிடம்",
+   "say": "See an eye specialist urgently if a squint or double vision appears suddenly, at any age."
+  },
+  {
+   "big": "Don't wait",
+   "en": "Book an eye test for your child.",
+   "ta": "குழந்தைக்கு இன்றே கண் பரிசோதனை",
+   "say": "Don't wait and watch. Book an eye test for your child."
+  }
+ ]
+}

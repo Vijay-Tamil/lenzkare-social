@@ -1,0 +1,60 @@
+{
+ "voice": "hf_alpha",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-21-arun-rubbing-eyes.jpg",
+   "big": "Itchy eyes? Don't rub!",
+   "en": "Here's what to do instead.",
+   "ta": "கண் அரிக்கிறதா? தேய்க்காதீர்கள்!",
+   "say": "Itchy eyes? Stop. Don't rub them. Here's what to do instead."
+  },
+  {
+   "big": "Why it itches",
+   "en": "Dust, pollen or pet hair trigger an allergy. The eye releases histamine.",
+   "ta": "தூசி, மகரந்தம் ஒவ்வாமையை தூண்டும்",
+   "say": "Why? Dust, pollen or pet hair trigger an allergy, and the eye releases histamine. That causes itching and redness."
+  },
+  {
+   "big": "DON'T rub",
+   "en": "Rubbing releases more histamine and makes it worse.",
+   "ta": "தேய்த்தால் அரிப்பு இன்னும் அதிகமாகும்",
+   "say": "Don't rub. Rubbing releases even more of it, so the itch gets worse. Hard rubbing over time can also harm the clear front of the eye."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-21-arun-cool-cloth.jpg",
+   "big": "DO: cool compress",
+   "en": "A clean, cool, damp cloth on closed eyes for a few minutes.",
+   "ta": "மூடிய கண்களில் குளிர்ந்த ஈரத் துணி",
+   "say": "Do use a cool compress. Place a clean, cool, damp cloth over your closed eyes for a few minutes."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-21-arun-handwash.jpg",
+   "big": "DO: wash up",
+   "en": "Wash hands and face after coming in. Change pillow covers often.",
+   "ta": "வெளியே சென்று வந்ததும் கை, முகம் கழுவுங்கள்",
+   "say": "Do wash your hands and face after coming in from outside, and change your pillow covers often."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Allergy usually affects both eyes. One red, painful eye is a different problem.",
+   "ta": "ஒவ்வாமை பொதுவாக இரண்டு கண்களிலும் வரும்",
+   "say": "Did you know? Eye allergy usually affects both eyes and itches a lot. One red, painful eye is a different problem."
+  },
+  {
+   "big": "See a doctor urgently if...",
+   "en": "Pain, blurred vision, light sensitivity or thick discharge.",
+   "ta": "வலி, மங்கல் பார்வை இருந்தால் உடனே மருத்துவரை பாருங்கள்",
+   "say": "See an eye specialist urgently if you have pain, blurred vision, light sensitivity, or thick discharge."
+  },
+  {
+   "big": "Keeps coming back?",
+   "en": "Get your eyes checked. Free eye test in our store.",
+   "ta": "இன்றே கண் பரிசோதனை செய்யுங்கள்",
+   "say": "Itching that keeps coming back? Get your eyes checked. The eye test in our store is free."
+  }
+ ]
+}

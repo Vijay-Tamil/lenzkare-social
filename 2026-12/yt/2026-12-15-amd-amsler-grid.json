@@ -1,0 +1,62 @@
+{
+ "voice": "hm_psi",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-29-thatha-newspaper-squint.jpg",
+   "big": "Straight lines look wavy?",
+   "en": "3 signs to check after 50.",
+   "ta": "நேர் கோடுகள் வளைந்து தெரிகிறதா?",
+   "say": "Do straight lines look wavy to you? Here are three signs to check after fifty."
+  },
+  {
+   "big": "Why it happens",
+   "en": "The macula, the centre of the retina, gives sharp central vision. With age it can wear out.",
+   "ta": "விழித்திரையின் மையம் தான் தெளிவான பார்வை தருகிறது",
+   "say": "A tiny spot at the back of the eye, called the macula, gives you sharp central vision. With age, it can slowly wear out."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-29-thatha-corridor-light.jpg",
+   "big": "Sign 1: wavy lines",
+   "en": "Door frames, tiles or lines of text look bent.",
+   "ta": "1. கதவு, டைல்ஸ் கோடுகள் வளைந்து தெரியும்",
+   "say": "Sign one: straight lines, like door frames or floor tiles, look bent or wavy."
+  },
+  {
+   "big": "Signs 2 & 3",
+   "en": "A blurry or dark spot in the centre. Faces and small print get harder to see.",
+   "ta": "2. நடுவில் மங்கலான புள்ளி  3. முகம் பார்க்க சிரமம்",
+   "say": "Sign two: a blurry or dark spot in the centre. Sign three: faces and small print get harder to see."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-29-thatha-veranda-notes.jpg",
+   "big": "Amsler grid check",
+   "en": "Cover one eye. Look at the centre dot of a square grid. Any wavy or missing lines?",
+   "ta": "ஒரு கண்ணை மூடி, கட்டத்தின் நடுப்புள்ளியைப் பாருங்கள்",
+   "say": "Try an Amsler grid. Cover one eye, and look at the centre dot of a square grid. Wavy or missing lines? Tell an eye doctor."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Studies show it's a leading cause of vision loss in older adults. Smoking raises the risk.",
+   "ta": "புகைபிடித்தல் அபாயத்தை அதிகரிக்கும்",
+   "say": "Did you know? It's a leading cause of vision loss in older adults, and smoking raises the risk."
+  },
+  {
+   "big": "Urgent if...",
+   "en": "Lines suddenly turn wavy, or a new dark spot appears in the centre.",
+   "ta": "திடீர் மாற்றம் வந்தால் உடனே கண் மருத்துவரை பாருங்கள்",
+   "say": "See an eye specialist urgently if lines suddenly turn wavy, or a new dark spot appears in your central vision."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-29-thatha-new-glasses.jpg",
+   "big": "After 50? Get checked",
+   "en": "Book an eye test today.",
+   "ta": "இன்றே கண் பரிசோதனை செய்யுங்கள்",
+   "say": "After fifty, get your eyes checked regularly. Book an eye test today."
+  }
+ ]
+}

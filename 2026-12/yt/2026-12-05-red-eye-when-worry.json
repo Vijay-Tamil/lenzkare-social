@@ -1,0 +1,60 @@
+{
+ "voice": "hf_beta",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-21-arun-rubbing-eyes.jpg",
+   "big": "Red eye: wait or worry?",
+   "en": "3 signs that mean go today.",
+   "ta": "கண் சிவப்பு: காத்திருக்கலாமா?",
+   "say": "Red eye. Should you wait, or worry? Here are three signs that mean you go today."
+  },
+  {
+   "big": "Why eyes turn red",
+   "en": "Tiny blood vessels on the white of the eye swell up.",
+   "ta": "கண்ணின் வெள்ளைப் பகுதியில் சிறு ரத்தக் குழாய்கள் விரிகின்றன",
+   "say": "The white of your eye has tiny blood vessels. Dust, dryness, allergy or infection make them swell, so the eye looks red."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-21-arun-cool-cloth.jpg",
+   "big": "Often simple",
+   "en": "Mild redness or itch with clear vision often settles in days.",
+   "ta": "லேசான சிவப்பு, அரிப்பு: சில நாளில் சரியாகும்",
+   "say": "Mild redness with itching or watering, and clear vision, often settles in a few days. A cool, clean cloth on closed eyes can soothe it."
+  },
+  {
+   "big": "Sign 1: Pain",
+   "en": "Real eye pain, not just itching",
+   "ta": "1. கண்ணில் வலி",
+   "say": "Sign one. Real pain in the eye, not just itching or grittiness."
+  },
+  {
+   "big": "Sign 2: Light hurts",
+   "en": "Normal light feels painful",
+   "ta": "2. வெளிச்சம் பார்த்தால் வலி",
+   "say": "Sign two. Light sensitivity, when normal light feels painful."
+  },
+  {
+   "big": "Sign 3: Blur",
+   "en": "Vision stays blurry even after blinking",
+   "ta": "3. கண் சிமிட்டியும் மங்கலான பார்வை",
+   "say": "Sign three. Blurred vision that doesn't clear when you blink."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-21-arun-handwash.jpg",
+   "big": "Go the same day",
+   "en": "Any of these, an injury or a chemical splash: see an eye specialist today.",
+   "ta": "இவற்றில் ஏதாவது இருந்தால் இன்றே கண் மருத்துவரிடம்",
+   "say": "If you have any of these, or an injury or a chemical splash, see an eye specialist the same day. Meanwhile, wash your hands, and don't rub."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Contact lens wearer? Take lenses out if your eye turns red.",
+   "ta": "கண் சிவந்தால் காண்டாக்ட் லென்ஸை கழற்றுங்கள்",
+   "say": "Did you know? If you wear contact lenses and your eye turns red and sore, take the lenses out, and get checked quickly. Book an eye test, and keep your eyes safe."
+  }
+ ]
+}

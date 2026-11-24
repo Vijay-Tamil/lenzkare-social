@@ -1,0 +1,52 @@
+{
+ "voice": "hm_omega",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-29-ganesh-scooter.jpg",
+   "big": "Squinting in the sun?",
+   "en": "Ganesh rides every day with plain glasses",
+   "ta": "வெயிலில் கண் கூசுகிறதா?",
+   "say": "Ganesh rides his scooter every day. With his normal glasses, the bright sun made him squint all the way."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-24-anu-beach-squint.jpg",
+   "big": "Why the sun bothers you",
+   "en": "Bright light and glare tire the eyes. UV rays add up over the years.",
+   "ta": "கூச்சமும் புற ஊதா கதிர்களும் கண்ணைப் பாதிக்கும்",
+   "say": "Bright light and glare make the eyes squint and tire. And the sun's ultraviolet rays add up over the years."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Studies link years of sun exposure to cataract. Choose UV-protective sunglasses.",
+   "ta": "நீண்ட கால வெயில் கண்புரைக்கு வழிவகுக்கலாம்",
+   "say": "Did you know? Studies link years of sun exposure to cataract. That's why eye doctors recommend sunglasses that block U V."
+  },
+  {
+   "big": "The fix: power sunglasses",
+   "en": "Sunglasses made with your own power. Clear vision, less glare.",
+   "ta": "உங்கள் பவரிலேயே சன்கிளாஸ்",
+   "say": "The fix? Power sunglasses. Dark lenses made with your own power, so you see clearly, with less glare."
+  },
+  {
+   "big": "Buy 1 Get 1 FREE",
+   "en": "One eyeglass + one power sunglass, with LenzKare Fusion lenses",
+   "ta": "ஒரு கண்ணாடி + ஒரு பவர் சன்கிளாஸ்: ஒன்று வாங்கினால் ஒன்று இலவசம்",
+   "say": "Here's the best part. Our Buy one, Get one free offer works as one eyeglass and one power sunglass, with LenzKare Fusion lenses."
+  },
+  {
+   "big": "Tip",
+   "en": "Wear them on rides, at the beach and on long drives. Never at night.",
+   "ta": "இரவில் சன்கிளாஸ் அணிய வேண்டாம்",
+   "say": "Wear them on rides, at the beach, and on long drives. But never at night."
+  },
+  {
+   "big": "Start with an eye test",
+   "en": "Free eye test at our store. Or order online at lenzkare.com",
+   "ta": "கடையில் கண் பரிசோதனை இலவசம்",
+   "say": "Get your power checked first. The eye test is free at our store. Or order online at lenz care dot com."
+  }
+ ]
+}

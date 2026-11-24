@@ -1,0 +1,60 @@
+{
+ "voice": "hf_alpha",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-22-ravi-blurry-paper.jpg",
+   "big": "Smoking hurts your eyes too",
+   "en": "3 facts most smokers don't know",
+   "ta": "புகைபிடித்தல் கண்களையும் பாதிக்கும்",
+   "say": "Smoking doesn't just hurt your lungs. It hurts your eyes too. Here are three facts most smokers don't know."
+  },
+  {
+   "big": "3: Dry, irritated eyes",
+   "en": "Smoke irritates and dries the eye surface.",
+   "ta": "3. புகை கண்களை வறண்டு எரிச்சலடைய செய்யும்",
+   "say": "Number three. Smoke irritates the surface of the eye and dries it out, even for people sitting nearby."
+  },
+  {
+   "big": "2: Cataract",
+   "en": "Studies show smokers are more likely to get cataracts.",
+   "ta": "2. புகைபிடிப்பவர்களுக்கு கண்புரை அபாயம் அதிகம்",
+   "say": "Number two. Studies show smokers are more likely to get cataracts. That's when the clear lens inside the eye turns cloudy, and vision gets blurry."
+  },
+  {
+   "big": "1: Macular degeneration",
+   "en": "Smoking raises the risk of AMD, which damages central vision.",
+   "ta": "1. மையப் பார்வை பாதிப்பு அபாயம் அதிகரிக்கும்",
+   "say": "Number one. Smoking raises the risk of age-related macular degeneration. It damages the centre of the retina, the part you use to read and see faces."
+  },
+  {
+   "big": "Why?",
+   "en": "Smoke harms tiny blood vessels and stresses eye tissue.",
+   "ta": "புகை ரத்தக் குழாய்களையும் கண் திசுக்களையும் பாதிக்கும்",
+   "say": "Why? Smoke damages tiny blood vessels, and puts extra stress on the delicate tissues of the eye."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-22-ravi-morning-walk.jpg",
+   "big": "Good news",
+   "en": "Quitting lowers your risk, at any age.",
+   "ta": "எந்த வயதிலும் நிறுத்தினால் அபாயம் குறையும்",
+   "say": "The good news? Quitting lowers your risk, at any age. Add a daily walk, and eat leafy greens and colourful vegetables."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-22-ravi-bp-check.jpg",
+   "big": "Do this",
+   "en": "Check BP and sugar. Yearly eye test after 40.",
+   "ta": "40 வயதுக்கு மேல் ஆண்டுதோறும் கண் பரிசோதனை",
+   "say": "Keep your blood pressure and sugar in check. And after forty, get your eyes tested every year."
+  },
+  {
+   "big": "See a specialist if...",
+   "en": "Straight lines look wavy, or a dark spot appears in the centre",
+   "ta": "நேர் கோடுகள் வளைந்து தெரிந்தால் உடனே பாருங்கள்",
+   "say": "See an eye specialist soon if straight lines look wavy, or a dark spot appears in the middle of your vision. Book an eye test today."
+  }
+ ]
+}

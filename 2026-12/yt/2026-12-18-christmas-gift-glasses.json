@@ -1,0 +1,54 @@
+{
+ "voice": "hm_omega",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-20-karthik-amma-mirror.jpg",
+   "big": "A Christmas gift they'll use daily",
+   "en": "New glasses for Amma and Appa.",
+   "ta": "அம்மா அப்பாவுக்கு கிறிஸ்துமஸ் பரிசு",
+   "say": "Looking for a Christmas gift your parents will use every single day? Karthik found one."
+  },
+  {
+   "big": "The problem",
+   "en": "Amma squinted at small print. Appa's old frame was taped.",
+   "ta": "அம்மா படிக்க சிரமப்பட்டார், அப்பா கண்ணாடி உடைந்திருந்தது",
+   "say": "Amma was squinting at small print, and Appa's old frame was held together with tape."
+  },
+  {
+   "big": "Step 1: eye test",
+   "en": "Free in our store. Home eye test in Chennai: ₹100 for the whole family.",
+   "ta": "வீட்டில் முழு குடும்பத்துக்கும் 100 ரூபாய்",
+   "say": "First, an eye test. It's free in our store, and our home eye test in Chennai is one hundred rupees for the whole family."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-20-karthik-phone-sofa.jpg",
+   "big": "Buy 1 Get 1 FREE",
+   "en": "On spectacles with LenzKare Fusion lenses. One for Amma, one for Appa.",
+   "ta": "1 வாங்கினால் 1 இலவசம்: அம்மாவுக்கு ஒன்று, அப்பாவுக்கு ஒன்று",
+   "say": "Then, buy one get one free on spectacles with LenzKare Fusion lenses. One pair for Amma, one for Appa."
+  },
+  {
+   "big": "Frames from ₹899",
+   "en": "FOE frames from ₹899. Single vision lenses from ₹1,500.",
+   "ta": "ஃபிரேம்கள் 899 ரூபாய் முதல்",
+   "say": "FrameOra frames start at eight hundred and ninety nine rupees, and single vision lenses from fifteen hundred."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-20-karthik-parcel.jpg",
+   "big": "Delivered home",
+   "en": "Free delivery in South India. 7-day exchange. 6-month frame warranty.",
+   "ta": "தென்னிந்தியாவில் இலவச டெலிவரி",
+   "say": "The parcel came home. Delivery is free in South India, with a seven day exchange and a six month frame warranty."
+  },
+  {
+   "big": "Merry Christmas!",
+   "en": "Gift clear vision this season.",
+   "ta": "இனிய கிறிஸ்துமஸ் வாழ்த்துக்கள்!",
+   "say": "Merry Christmas! Gift your parents clear vision this season."
+  }
+ ]
+}

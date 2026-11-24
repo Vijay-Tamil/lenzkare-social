@@ -1,0 +1,52 @@
+{
+ "voice": "hm_psi",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-23-meena-balcony-calm.jpg",
+   "big": "Eyes dry after 40?",
+   "en": "Women, this one is for you.",
+   "ta": "40 வயதுக்கு பிறகு கண் வறட்சியா?",
+   "say": "Women over forty, do your eyes feel dry and gritty? Here is why."
+  },
+  {
+   "big": "Why it happens",
+   "en": "Hormones change around menopause. Tear glands and oil glands make less.",
+   "ta": "ஹார்மோன் மாற்றத்தால் கண்ணீர் குறையும்",
+   "say": "Around menopause, hormone levels change. The glands that make tears, and the tiny oil glands in the eyelids, can make less. So tears dry up faster."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Dry eye is more common in women, and more common with age.",
+   "ta": "கண் வறட்சி பெண்களுக்கு அதிகம்",
+   "say": "Did you know? Studies show dry eye is more common in women than men, and it becomes more common with age."
+  },
+  {
+   "big": "Signs",
+   "en": "Burning, grittiness, watery eyes, tired eyes by evening",
+   "ta": "எரிச்சல், மணல் உணர்வு, நீர் வடிதல்",
+   "say": "Signs include burning, a sandy feeling, tired eyes by evening, and even watery eyes."
+  },
+  {
+   "big": "Do this",
+   "en": "Blink often on screens. Keep fans and AC off your face. Drink water.",
+   "ta": "அடிக்கடி இமைக்கவும், நிறைய தண்ணீர் குடியுங்கள்",
+   "say": "Blink fully and often, especially on screens. Keep fans and A C from blowing on your face. Drink enough water. And ask an eye specialist before using any eye drops."
+  },
+  {
+   "big": "Urgent if...",
+   "en": "Pain, strong redness, light hurts, or vision drops",
+   "ta": "வலி, சிவப்பு, பார்வை குறைவு: உடனே கண் மருத்துவர்",
+   "say": "See an eye specialist urgently if you have eye pain, strong redness, light hurts your eyes, or your vision drops."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-23-meena-daughter-booking.jpg",
+   "big": "Comfort starts here",
+   "en": "Book an eye test.",
+   "ta": "இன்றே கண் பரிசோதனை செய்யுங்கள்",
+   "say": "Your comfort matters. Book an eye test today."
+  }
+ ]
+}

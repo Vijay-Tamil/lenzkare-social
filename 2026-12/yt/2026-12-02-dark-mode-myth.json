@@ -1,0 +1,54 @@
+{
+ "voice": "hf_alpha",
+ "speed": 1.0,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-20-karthik-phone-sofa.jpg",
+   "big": "Phone in the dark = blindness?",
+   "en": "Myth or fact?",
+   "ta": "இருட்டில் போன் பார்த்தால் பார்வை போகுமா?",
+   "say": "Does using your phone in the dark make you go blind? Let's check the myth, and the facts."
+  },
+  {
+   "big": "MYTH",
+   "en": "Using a phone in the dark damages your eyes forever.",
+   "ta": "கட்டுக்கதை: நிரந்தர பார்வை இழப்பு",
+   "say": "Myth: using a phone in a dark room will permanently damage your eyes. There's no good evidence for that."
+  },
+  {
+   "big": "FACT",
+   "en": "It does cause strain: dry, tired eyes and headaches.",
+   "ta": "உண்மை: கண் சோர்வு, வறட்சி, தலைவலி",
+   "say": "Fact: it does cause eye strain. A bright screen in a dark room keeps your pupils adjusting, and you blink less. So eyes feel dry, tired and achy."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Bright screen light late at night can delay sleep.",
+   "ta": "இரவில் திரை ஒளி தூக்கத்தை தாமதப்படுத்தும்",
+   "say": "Did you know? Bright screen light late at night can delay your body's sleep signal, so you fall asleep later, and wake up with tired eyes."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-22-suresh-phone-arm.jpg",
+   "big": "Do this",
+   "en": "Room light on. Brightness down. Phone at least 30 cm away.",
+   "ta": "அறை விளக்கை போடுங்கள், போனை தள்ளி வையுங்கள்",
+   "say": "Keep a room light on, turn the screen brightness down, and hold the phone at least thirty centimetres away."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-20-amma-son-balcony.jpg",
+   "big": "For kids",
+   "en": "Fewer screens after dark. More outdoor time in daylight.",
+   "ta": "குழந்தைகள்: பகலில் வெளியில் விளையாடட்டும்",
+   "say": "For children, limit screens after dark, and give them more time outdoors in daylight. That's good for growing eyes."
+  },
+  {
+   "big": "Get checked if...",
+   "en": "Eye pain, blur that won't clear, or daily headaches.",
+   "ta": "வலி, தொடர் மங்கல் இருந்தால் கண் பரிசோதனை செய்யுங்கள்",
+   "say": "If you have eye pain, blur that doesn't clear, or daily headaches, get your eyes checked. Book an eye test today."
+  }
+ ]
+}

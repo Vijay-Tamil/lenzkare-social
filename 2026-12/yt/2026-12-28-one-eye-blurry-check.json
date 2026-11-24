@@ -1,0 +1,50 @@
+{
+ "voice": "hf_alpha",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "big": "Quick test: cover one eye",
+   "en": "Is everything just as clear?",
+   "ta": "ஒரு கண்ணை மூடிப் பாருங்கள்",
+   "say": "Quick test. Cover one eye right now. Is everything just as clear?"
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-23-meena-cover-eye.jpg",
+   "big": "Now switch eyes",
+   "en": "Look at a far clock or sign with each eye.",
+   "ta": "இப்போது மற்ற கண்ணை மூடுங்கள்",
+   "say": "Now switch. Look at a far clock or sign board, first with one eye, then the other."
+  },
+  {
+   "big": "Why you didn't notice",
+   "en": "The brain blends both eyes. The stronger eye hides the weaker one.",
+   "ta": "நல்ல கண், பலவீனமான கண்ணை மறைத்துவிடும்",
+   "say": "Why didn't you notice before? Your brain blends both eyes into one picture, so the stronger eye covers for the weaker one."
+  },
+  {
+   "big": "Did you know?",
+   "en": "In children, a lazy eye is easiest to treat when found early.",
+   "ta": "குழந்தைகளுக்கு சோம்பேறிக் கண்ணை சிறு வயதிலேயே சரிசெய்வது எளிது",
+   "say": "Did you know? In children, a lazy eye is easiest to treat when it is found early. That's why every child needs an eye test."
+  },
+  {
+   "big": "Common reasons in adults",
+   "en": "Uncorrected power, cataract or a retina problem.",
+   "ta": "பவர் மாற்றம், கண்புரை, ரெட்டினா பிரச்சனை",
+   "say": "In adults, one blurry eye can be uncorrected power, a cataract, or a retina problem. Only an eye test can tell."
+  },
+  {
+   "big": "Do this monthly",
+   "en": "Check each eye at home. Note blur, wavy lines or dark spots.",
+   "ta": "மாதம் ஒரு முறை வீட்டிலேயே சோதியுங்கள்",
+   "say": "Do this check at home once a month. Note any blur, wavy lines, or dark spots."
+  },
+  {
+   "big": "Urgent if...",
+   "en": "Sudden blur or a dark patch in one eye: see an eye specialist today.",
+   "ta": "திடீர் மங்கல் இருந்தால் இன்றே கண் மருத்துவரிடம்",
+   "say": "If one eye suddenly turns blurry or shows a dark patch, see an eye specialist the same day. Otherwise, book a full eye test."
+  }
+ ]
+}

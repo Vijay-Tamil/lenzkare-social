@@ -1,0 +1,52 @@
+{
+ "voice": "hm_omega",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "big": "New Year resolution: see clearly!",
+   "en": "3 things to know before 2027.",
+   "ta": "புத்தாண்டு தீர்மானம்: தெளிவான பார்வை!",
+   "say": "Your new year resolution? See clearly. Here are three things to know."
+  },
+  {
+   "big": "3",
+   "en": "Eye power can change slowly, without you noticing.",
+   "ta": "உங்கள் கண் பவர் தெரியாமலே மாறலாம்",
+   "say": "Number three. Your eye power can change slowly, without you noticing. Headaches and squinting are common clues."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-18-daughter-amma-glasses.jpg",
+   "big": "2",
+   "en": "Did you know? Eye checks can find problems early, before you notice them.",
+   "ta": "கண் பரிசோதனை பிரச்சனைகளை ஆரம்பத்திலேயே கண்டுபிடிக்கும்",
+   "say": "Number two. Did you know? A regular eye check can find problems like glaucoma early, often before you notice anything."
+  },
+  {
+   "big": "1",
+   "en": "Eye test in our store is free. Home eye test in Chennai: ₹100 for the whole family.",
+   "ta": "கடையில் கண் பரிசோதனை இலவசம்; வீட்டில் ரூ.100 முழு குடும்பத்துக்கும்",
+   "say": "Number one. The eye test in our store is free. Or book a home eye test in Chennai, just one hundred rupees for the whole family."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-18-woman-trying-frames.jpg",
+   "big": "Buy 1 Get 1 FREE",
+   "en": "On spectacles with LenzKare Fusion lenses. Frames from ₹899.",
+   "ta": "ஃப்யூஷன் லென்ஸ் கண்ணாடி: ஒன்று வாங்கினால் ஒன்று இலவசம்",
+   "say": "Then choose new glasses. Buy one, get one free on spectacles with LenzKare Fusion lenses. Frames start at eight hundred and ninety nine rupees."
+  },
+  {
+   "big": "Two pairs, your way",
+   "en": "A spare pair, or one eyeglass + one power sunglass.",
+   "ta": "ஒரு கண்ணாடி + ஒரு பவர் சன்கிளாஸ் கூட எடுக்கலாம்",
+   "say": "Get a spare pair, or pick one eyeglass and one power sunglass."
+  },
+  {
+   "big": "Start 2027 clear",
+   "en": "Book a home eye test on WhatsApp: 044 4356 9998",
+   "ta": "இன்றே கண் பரிசோதனை புக் செய்யுங்கள்",
+   "say": "Start the new year with clear vision. Book your eye test today."
+  }
+ ]
+}

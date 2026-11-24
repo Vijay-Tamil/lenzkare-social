@@ -1,0 +1,54 @@
+{
+ "voice": "hm_omega",
+ "speed": 1.0,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-21-arun-rubbing-eyes.jpg",
+   "big": "Your team's eyes are tired",
+   "en": "Screens all day. No eye check in years?",
+   "ta": "நாள் முழுக்க திரை, கண் பரிசோதனை இல்லையா?",
+   "say": "Your team stares at screens all day. When did they last get their eyes checked?"
+  },
+  {
+   "big": "LenzKare eye camps",
+   "en": "At your office, apartment, school or community hall. From 50 people.",
+   "ta": "அலுவலகம், குடியிருப்பு, பள்ளியில் கண் முகாம். 50 பேர் முதல்",
+   "say": "LenzKare runs eye camps at your office, apartment, school or community hall, for groups of fifty people or more."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-19-woman-desk-setup.jpg",
+   "big": "What's checked",
+   "en": "Vision and eye power, screen-strain advice, who needs a specialist",
+   "ta": "பார்வை, கண் பவர், கண் சோர்வு ஆலோசனை",
+   "say": "We check vision and eye power, give screen-strain advice, and tell people if they need to see an eye specialist."
+  },
+  {
+   "big": "Did you know?",
+   "en": "WHO: about 1 billion people have vision problems that were preventable or are not yet treated.",
+   "ta": "பலருக்கு தெரியாமலே கண் பவர் இருக்கும்",
+   "say": "Did you know? The World Health Organization says about one billion people have a vision problem that could have been prevented, or is still not treated. Often it is simply uncorrected power."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-23-priya-office-smile.jpg",
+   "big": "Why companies do it",
+   "en": "Clearer vision, fewer headaches, happier teams.",
+   "ta": "தெளிவான பார்வை, குறைந்த தலைவலி, மகிழ்ச்சியான குழு",
+   "say": "Clear vision means fewer headaches, less eye strain, and a happier, more productive team."
+  },
+  {
+   "big": "Need glasses?",
+   "en": "Buy 1 Get 1 FREE on spectacles with LenzKare Fusion lenses.",
+   "ta": "ஃப்யூஷன் லென்ஸ் கண்ணாடிக்கு ஒன்று வாங்கினால் ஒன்று இலவசம்",
+   "say": "Team members who need glasses get buy one get one free on spectacles with LenzKare Fusion lenses."
+  },
+  {
+   "big": "Plan an eye camp",
+   "en": "WhatsApp 044 4356 9998",
+   "ta": "கண் முகாமுக்கு வாட்ஸ்அப் செய்யுங்கள்",
+   "say": "HR managers, residents' associations and schools: plan an eye camp for your people. Message us on WhatsApp today."
+  }
+ ]
+}

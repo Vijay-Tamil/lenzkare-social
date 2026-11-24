@@ -1,0 +1,54 @@
+{
+ "voice": "hm_psi",
+ "speed": 1.0,
+ "scenes": [
+  {
+   "big": "Carrots = perfect eyesight?",
+   "en": "Myth or fact?",
+   "ta": "கேரட் சாப்பிட்டால் கண்ணாடி தேவையில்லையா?",
+   "say": "Eat carrots, and you'll never need glasses. Myth, or fact?"
+  },
+  {
+   "big": "MYTH",
+   "en": "Carrots can't fix short sight, long sight or astigmatism.",
+   "ta": "கேரட் கண் பவரை சரி செய்யாது",
+   "say": "It's a myth. Carrots cannot fix short sight, long sight or astigmatism. Those come from the shape of your eye."
+  },
+  {
+   "big": "But vitamin A matters",
+   "en": "Your body turns carrots' beta-carotene into vitamin A. The retina needs it to see in dim light.",
+   "ta": "வைட்டமின் A இருட்டில் பார்க்க உதவும்",
+   "say": "But carrots do help. They contain beta carotene, which your body turns into vitamin A. Your retina needs vitamin A to see in dim light."
+  },
+  {
+   "big": "Did you know?",
+   "en": "The carrot story spread in World War II, partly to hide that pilots used radar.",
+   "ta": "இந்த கதை இரண்டாம் உலகப் போரில் பரவியது",
+   "say": "Did you know? The carrot story spread during World War Two, partly to hide that British pilots were using radar."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-22-ravi-morning-walk.jpg",
+   "big": "Eat for your eyes",
+   "en": "Leafy greens like keerai, eggs, fish, colourful fruits and veg",
+   "ta": "கீரை, முட்டை, மீன், வண்ண காய்கறிகள்",
+   "say": "For healthy eyes, eat a rainbow: leafy greens, eggs, fish, and colourful fruits and vegetables. Stay active, and don't smoke."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-20-son-sunglasses-sofa.jpg",
+   "big": "Also",
+   "en": "UV sunglasses outdoors. Keep sugar and BP in control.",
+   "ta": "வெயிலில் சன்கிளாஸ், சர்க்கரை, பிபி கட்டுப்பாடு",
+   "say": "Wear good sunglasses in strong sun, and keep sugar and blood pressure under control. If seeing at night suddenly gets hard, see an eye specialist."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-22-paati-new-glasses.jpg",
+   "big": "Need glasses?",
+   "en": "Food can't replace them. Book an eye test.",
+   "ta": "உணவு கண்ணாடிக்கு மாற்று அல்ல. கண் பரிசோதனை செய்யுங்கள்",
+   "say": "If you need glasses, no food can replace them. Book an eye test today."
+  }
+ ]
+}

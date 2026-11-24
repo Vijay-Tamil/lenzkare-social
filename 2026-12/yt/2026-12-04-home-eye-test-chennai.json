@@ -1,0 +1,60 @@
+{
+ "voice": "hm_omega",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-22-paati-album-squint.jpg",
+   "big": "Paati couldn't see the photos",
+   "en": "And a trip to the store felt too much.",
+   "ta": "பாட்டிக்கு போட்டோக்கள் தெளிவாக தெரியவில்லை",
+   "say": "Paati couldn't see her old photos clearly. But a trip to an eye store felt like too much."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-22-divya-paati-booking.jpg",
+   "big": "So Divya sent a WhatsApp",
+   "en": "Home eye test: 044 4356 9998",
+   "ta": "வாட்ஸ்அப்பில் வீட்டு கண் பரிசோதனை புக்",
+   "say": "So her granddaughter Divya sent one WhatsApp message, and booked a home eye test."
+  },
+  {
+   "big": "₹100",
+   "en": "for the whole family. Our optometrist comes to your home in Chennai.",
+   "ta": "முழு குடும்பத்திற்கும் ரூ.100 மட்டும்",
+   "say": "It costs just one hundred rupees for the whole family. Our optometrist comes to your home, anywhere in Chennai."
+  },
+  {
+   "big": "Everyone gets checked",
+   "en": "Paati, Amma, Appa, kids: one visit, one fee.",
+   "ta": "எல்லோருக்கும் ஒரே வருகையில் பரிசோதனை",
+   "say": "Paati, Amma, Appa and the kids. Everyone gets their eyes checked in one visit, for one fee."
+  },
+  {
+   "big": "Why check every year?",
+   "en": "Eyes change with age. Many problems start without pain.",
+   "ta": "வயதுடன் கண்கள் மாறும்; வலி இல்லாமலும் பிரச்சனை வரும்",
+   "say": "Why does it matter? Our eyes change with age, and many eye problems start slowly, without any pain. A regular check catches them early."
+  },
+  {
+   "big": "Book 4+ hours ahead",
+   "en": "WhatsApp your address and a time that suits you.",
+   "ta": "4 மணி நேரம் முன்பே புக் செய்யுங்கள்",
+   "say": "Just book at least four hours ahead on WhatsApp, with your address and a time that suits you."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-22-paati-new-glasses.jpg",
+   "big": "Clear again!",
+   "en": "New glasses. Every photo sharp again.",
+   "ta": "இப்போது எல்லாம் தெளிவாக தெரிகிறது!",
+   "say": "A few days later, Paati got her new glasses, and every photo was sharp again."
+  },
+  {
+   "big": "Silver members?",
+   "en": "Home eye test fee waived for Silver and above.",
+   "ta": "சில்வர் உறுப்பினர்களுக்கு கட்டணம் இல்லை",
+   "say": "And if you're a Silver member or above, the home eye test fee is waived. Book your family's home eye test on WhatsApp today."
+  }
+ ]
+}

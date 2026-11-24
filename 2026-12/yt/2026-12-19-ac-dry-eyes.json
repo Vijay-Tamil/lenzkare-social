@@ -1,0 +1,54 @@
+{
+ "voice": "hm_psi",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-19-woman-laptop-tired.jpg",
+   "big": "AC all day? Eyes burning?",
+   "en": "Here's why it happens.",
+   "ta": "AC அறையில் கண் எரிகிறதா?",
+   "say": "Sitting in an air conditioned room all day, and your eyes feel dry and burning? Here's why."
+  },
+  {
+   "big": "Why it happens",
+   "en": "AC dries the air. Your tear layer dries faster, so eyes feel gritty.",
+   "ta": "AC காற்றை உலர வைக்கும்; கண்ணீர் சீக்கிரம் காய்ந்துவிடும்",
+   "say": "An air conditioner pulls moisture out of the air. The thin layer of tears on your eye dries faster, so your eyes feel gritty and tired."
+  },
+  {
+   "big": "Did you know?",
+   "en": "We blink much less when we stare at a screen.",
+   "ta": "ஸ்கிரீனை பார்க்கும்போது கண் சிமிட்டுவது குறையும்",
+   "say": "Did you know? Studies show we blink much less when we stare at a screen. Fewer blinks means even drier eyes."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-19-woman-desk-setup.jpg",
+   "big": "Fix 1: Airflow & water",
+   "en": "Turn the vent away from your face. Drink enough water.",
+   "ta": "AC காற்று முகத்தில் படாமல் திருப்புங்கள்; தண்ணீர் குடியுங்கள்",
+   "say": "First, turn the air conditioner vent away from your face, and drink enough water through the day."
+  },
+  {
+   "big": "Fix 2: Blink & look far",
+   "en": "Every 20 minutes, look 20 feet away for 20 seconds. Blink fully.",
+   "ta": "20 நிமிடத்துக்கு ஒருமுறை தூரத்தில் பாருங்கள்",
+   "say": "Second, every twenty minutes, look at something twenty feet away for twenty seconds, and blink fully a few times."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-19-woman-window.jpg",
+   "big": "Fix 3: Moist air",
+   "en": "Keep a bowl of water or plants nearby. Don't set the AC too cold.",
+   "ta": "அருகில் ஒரு கிண்ணம் தண்ணீர் வையுங்கள்",
+   "say": "Third, keep a bowl of water or a few plants nearby, and don't set the temperature too cold."
+  },
+  {
+   "big": "See a specialist if...",
+   "en": "Redness, pain or blurred vision doesn't go away.",
+   "ta": "சிவப்பு, வலி, மங்கல் நீடித்தால் கண் மருத்துவரை பாருங்கள்",
+   "say": "If redness, pain or blurred vision does not go away, see an eye specialist. Book an eye test today."
+  }
+ ]
+}

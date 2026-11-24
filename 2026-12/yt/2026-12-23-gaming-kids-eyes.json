@@ -1,0 +1,54 @@
+{
+ "voice": "hf_beta",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-21-girl-tablet-sofa.jpg",
+   "big": "Quiz: how close is too close?",
+   "en": "Gaming and your child's eyes.",
+   "ta": "விளையாட்டு திரை எவ்வளவு தூரத்தில்?",
+   "say": "Quick quiz. When your child plays games, how close is too close?"
+  },
+  {
+   "big": "Answer",
+   "en": "Tablet or phone: at least 30–40 cm away. TV: sit well back.",
+   "ta": "டேப்லெட் 30-40 செ.மீ தூரம்; டிவியை தள்ளி இருந்து பாருங்கள்",
+   "say": "The answer. Keep a tablet or phone at least thirty to forty centimetres away, and sit well back from the TV."
+  },
+  {
+   "big": "Why",
+   "en": "Close focus for hours tires the eye's focusing muscle. Gamers blink less too.",
+   "ta": "நீண்ட நேரம் அருகில் பார்த்தால் கண் சோர்வடையும்",
+   "say": "Why? Focusing up close for hours keeps the eye's focusing muscle working hard, and gamers blink less. That means tired, dry eyes and headaches."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-21-girl-ball-park.jpg",
+   "big": "Did you know?",
+   "en": "Daily outdoor play in daylight helps lower the risk of short sight.",
+   "ta": "தினமும் வெளியே விளையாடுவது கிட்டப்பார்வை அபாயத்தை குறைக்கும்",
+   "say": "Did you know? Studies show daily outdoor play in daylight helps lower the risk of short sight in children."
+  },
+  {
+   "big": "20-20-20 rule",
+   "en": "Every 20 minutes, look 20 feet away for 20 seconds.",
+   "ta": "20 நிமிடத்துக்கு ஒருமுறை 20 வினாடி தூரத்தில் பாருங்கள்",
+   "say": "Use the twenty twenty twenty rule. Every twenty minutes, look at something twenty feet away for twenty seconds."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-21-girl-cycle-park.jpg",
+   "big": "Swap a level for a ride",
+   "en": "Set a daily screen limit. No screens an hour before bed.",
+   "ta": "தினமும் வெளியே விளையாட நேரம் கொடுங்கள்",
+   "say": "Set a daily screen limit, switch screens off an hour before bed, and swap one game for a cycle ride."
+  },
+  {
+   "big": "Watch for",
+   "en": "Squinting, eye rubbing, headaches, sitting too close.",
+   "ta": "கண் சுருக்குதல், தேய்த்தல், தலைவலி இருந்தால் கவனியுங்கள்",
+   "say": "Watch for squinting, eye rubbing, headaches, or sitting too close. Book an eye test for your child today."
+  }
+ ]
+}

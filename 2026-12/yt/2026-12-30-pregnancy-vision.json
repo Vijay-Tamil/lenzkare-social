@@ -1,0 +1,48 @@
+{
+ "voice": "hf_alpha",
+ "speed": 1.0,
+ "scenes": [
+  {
+   "big": "Blurry vision in pregnancy?",
+   "en": "Common, but know when it is urgent.",
+   "ta": "கர்ப்ப காலத்தில் பார்வை மங்கலா?",
+   "say": "Blurry vision during pregnancy? It is common. But know when it is urgent."
+  },
+  {
+   "big": "Why it happens",
+   "en": "Hormones and extra body fluid can slightly change the shape of the cornea.",
+   "ta": "ஹார்மோன், உடல் நீர் மாற்றம் கருவிழியை மாற்றலாம்",
+   "say": "Here is why. Pregnancy hormones and extra fluid in the body can slightly change the shape and thickness of the cornea, the clear front window of the eye."
+  },
+  {
+   "big": "Also common",
+   "en": "Dry, gritty eyes. Contact lenses may feel uncomfortable.",
+   "ta": "கண் வறட்சி, லென்ஸ் அசௌகரியம் சாதாரணம்",
+   "say": "Dry, gritty eyes are also common. Contact lenses may suddenly feel uncomfortable."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Mild changes usually settle after delivery and breastfeeding.",
+   "ta": "பிரசவத்திற்கு பிறகு பொதுவாக சரியாகிவிடும்",
+   "say": "Did you know? These mild changes usually settle a few weeks after delivery and breastfeeding. So many eye doctors suggest waiting before changing your glasses power."
+  },
+  {
+   "big": "Urgent if...",
+   "en": "Sudden blur, flashing lights, spots, or double vision, with headache or swelling",
+   "ta": "திடீர் மங்கல், ஒளி மின்னல், தலைவலி: உடனே மருத்துவரிடம்!",
+   "say": "But sudden blur, flashing lights, spots, or double vision, especially with headache or swelling, can be a sign of high blood pressure. Call your doctor immediately."
+  },
+  {
+   "big": "Do this",
+   "en": "Rest your eyes. Blink often. Switch to glasses if lenses hurt. Tell your doctor about any change.",
+   "ta": "கண்களுக்கு ஓய்வு, அடிக்கடி இமைக்கவும்",
+   "say": "Rest your eyes often, blink more, switch to glasses if lenses hurt, and tell your doctor about any change in vision."
+  },
+  {
+   "big": "Eyes for two",
+   "en": "Book an eye test after delivery, or anytime you are unsure.",
+   "ta": "சந்தேகம் இருந்தால் கண் பரிசோதனை செய்யுங்கள்",
+   "say": "Not sure about your eyes? Book an eye test."
+  }
+ ]
+}

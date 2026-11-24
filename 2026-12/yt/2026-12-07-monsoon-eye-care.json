@@ -1,0 +1,58 @@
+{
+ "voice": "hm_psi",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-20-amma-son-balcony.jpg",
+   "big": "Rainy days, red eyes?",
+   "en": "Eye infections rise in the monsoon.",
+   "ta": "மழைக்காலத்தில் கண் தொற்று அதிகம்",
+   "say": "It was raining in Chennai, and Selvi's son Hari came home rubbing his eyes."
+  },
+  {
+   "big": "Why the monsoon?",
+   "en": "Dirty rainwater, damp hands and crowds help eye germs spread.",
+   "ta": "மழைநீர், ஈரமான கைகள் மூலம் கிருமிகள் பரவும்",
+   "say": "In the monsoon, dirty rainwater, damp hands and crowded places help eye germs spread fast. That's why eye infections go up."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-20-amma-son-handwash.jpg",
+   "big": "Step 1: Wash hands",
+   "en": "Soap and water, before touching the eyes",
+   "ta": "கண்ணைத் தொடும் முன் சோப்பால் கை கழுவுங்கள்",
+   "say": "So Selvi made him wash his hands with soap and water first. Clean hands before touching the eyes."
+  },
+  {
+   "big": "Step 2: Own towel",
+   "en": "Never share towels, pillows or handkerchiefs.",
+   "ta": "டவலை யாருடனும் பகிர வேண்டாம்",
+   "say": "Step two. Everyone uses their own towel. Never share towels, pillows or handkerchiefs."
+  },
+  {
+   "big": "Step 3: Keep rainwater out",
+   "en": "Splashed? Rinse with clean water only.",
+   "ta": "மழைநீர் பட்டால் சுத்தமான நீரில் கழுவுங்கள்",
+   "say": "Step three. Keep rainwater out of your eyes. If it splashes in, rinse with clean water only."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Eye flu spreads mostly through hands and shared things.",
+   "ta": "கண் தொற்று கைகள் வழியாக எளிதில் பரவும்",
+   "say": "Did you know? Eye flu spreads mostly through hands and shared things. Just looking at someone won't give it to you."
+  },
+  {
+   "big": "See a doctor if...",
+   "en": "Pain, light sensitivity, blurred vision, or no better in a few days",
+   "ta": "வலி, மங்கலான பார்வை இருந்தால் மருத்துவரை பாருங்கள்",
+   "say": "See an eye specialist if there's pain, light sensitivity, blurred vision, or if it's not better in a few days."
+  },
+  {
+   "big": "Stay safe this monsoon",
+   "en": "Book an eye test for the family.",
+   "ta": "குடும்பத்திற்கு கண் பரிசோதனை செய்யுங்கள்",
+   "say": "Stay safe this monsoon. Book an eye test for the whole family."
+  }
+ ]
+}

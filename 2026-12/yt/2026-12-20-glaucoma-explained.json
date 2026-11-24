@@ -1,0 +1,132 @@
+{
+ "voice": "hm_omega",
+ "speed": 1.0,
+ "scenes": [
+  {
+   "image": "tools/assets/ai/2026-11-18-appa-newspaper.jpg",
+   "big": "Glaucoma: the silent thief of sight",
+   "en": "A complete, simple explainer.",
+   "ta": "கிளாக்கோமா – சத்தமில்லாமல் பார்வையை திருடும்",
+   "say": "It takes your sight slowly, with no pain and no warning. It is called glaucoma, the silent thief of sight. In this video, we explain what it is, who is at risk, how it is found, and how to protect your vision."
+  },
+  {
+   "image": "tools/assets/visuals/eye-optic-nerve.jpg",
+   "big": "The optic nerve",
+   "en": "The cable that carries pictures from the eye to the brain.",
+   "ta": "கண்ணையும் மூளையையும் இணைக்கும் நரம்பு",
+   "say": "First, the optic nerve. It is like a cable with over a million tiny wires, carrying pictures from the eye to the brain. Glaucoma is a group of eye conditions that slowly damage this nerve."
+  },
+  {
+   "big": "Tap and drain",
+   "en": "The eye makes fluid all the time, and it drains out.",
+   "ta": "கண்ணில் திரவம் உருவாகி வெளியேறும்",
+   "say": "Inside the front of the eye, a clear fluid is made all the time, and drains out through a tiny channel, like a tap and a sink drain. This keeps the eye at a healthy pressure."
+  },
+  {
+   "big": "When the drain is slow",
+   "en": "Pressure can rise and press on the optic nerve.",
+   "ta": "அழுத்தம் கூடி நரம்பை பாதிக்கும்",
+   "say": "If the drain works too slowly, pressure inside the eye can rise and press on the optic nerve. Over time, nerve fibres are lost. But glaucoma can also happen with normal pressure, so pressure alone does not tell the whole story."
+  },
+  {
+   "image": "tools/assets/visuals/glaucoma-side-vision.jpg",
+   "big": "Side vision fades first",
+   "en": "Central vision stays clear, so most people don't notice.",
+   "ta": "பக்கப் பார்வை முதலில் குறையும்",
+   "say": "The damage usually starts at the edges of your vision. Your central vision stays clear, and the brain fills in the gaps, so most people do not notice anything until a lot of vision is lost."
+  },
+  {
+   "big": "Did you know?",
+   "en": "About half of people with glaucoma don't know they have it (NEI).",
+   "ta": "பலருக்கு தங்களுக்கு கிளாக்கோமா இருப்பதே தெரியாது",
+   "say": "Did you know? According to the National Eye Institute, about half of the people who have glaucoma do not know they have it. And vision lost to glaucoma cannot be brought back. That is why early checks matter."
+  },
+  {
+   "big": "Type 1: open-angle",
+   "en": "The most common. Slow, painless, no early signs.",
+   "ta": "மெதுவாக, வலியில்லாமல் வரும் வகை",
+   "say": "There are two main types. The most common is open-angle glaucoma. It develops slowly over years, with no pain and no early signs. Only an eye check can find it."
+  },
+  {
+   "big": "Type 2: angle-closure",
+   "en": "Can be sudden: severe eye pain, red eye, headache, haloes, vomiting.",
+   "ta": "திடீர் கண் வலி, சிவப்பு, தலைவலி – அவசரம்",
+   "say": "The second type is angle-closure glaucoma. Here the drain can suddenly get blocked. It can cause severe eye pain, a red eye, a headache, blurred vision, rainbow haloes around lights, and nausea or vomiting."
+  },
+  {
+   "big": "That is an emergency",
+   "en": "Go to an eye hospital immediately.",
+   "ta": "உடனே கண் மருத்துவமனைக்கு செல்லுங்கள்",
+   "say": "That sudden attack is an emergency. If it happens, go to an eye hospital immediately. Do not wait until morning, and do not treat it at home."
+  },
+  {
+   "image": "tools/assets/ai/2026-11-18-father-son-album.jpg",
+   "big": "Who is at risk?",
+   "en": "Age 40+, family history, diabetes, high myopia, past eye injury.",
+   "ta": "40 வயதுக்கு மேல், குடும்பத்தில் யாருக்காவது இருந்தால்",
+   "say": "Who is at higher risk? People over forty. Anyone with a parent, brother or sister who has glaucoma. People with diabetes, high short sight, or a past eye injury. And people who have used certain medicines for a long time, so always tell your doctor what you take."
+  },
+  {
+   "image": "tools/assets/visuals/glaucoma-eye-checks.jpg",
+   "big": "How it is found",
+   "en": "Eye pressure, optic nerve check, and a side-vision test.",
+   "ta": "கண் அழுத்தம், நரம்பு, பக்கப் பார்வை – மூன்றும் பார்க்க வேண்டும்",
+   "say": "How is it found? A full glaucoma check looks at three things: the eye pressure, the optic nerve at the back of the eye, and your side vision with a field test. The doctor may also check the drainage angle and take a scan of the nerve."
+  },
+  {
+   "big": "All painless",
+   "en": "Most tests take a few minutes and don't hurt.",
+   "ta": "அனைத்து பரிசோதனைகளும் வலியில்லாதவை",
+   "say": "All these tests are painless, and most take just a few minutes. The field test simply asks you to press a button when you see small lights at the sides."
+  },
+  {
+   "big": "Treatment",
+   "en": "Daily eye drops, laser or surgery, as your specialist advises.",
+   "ta": "சொட்டு மருந்து, லேசர் அல்லது அறுவை சிகிச்சை",
+   "say": "Glaucoma cannot be cured, but it can usually be controlled. Treatment lowers the eye pressure, with daily eye drops, a laser procedure, or surgery, as your eye specialist advises. The aim is to protect the vision you have."
+  },
+  {
+   "big": "Use drops every day",
+   "en": "Even when you feel fine. Never stop on your own.",
+   "ta": "நன்றாக இருந்தாலும் சொட்டு மருந்தை நிறுத்தாதீர்கள்",
+   "say": "The most important rule: use your drops every day, at the same time, even when you feel fine. Never stop on your own, and keep every follow-up visit. Missed drops let the pressure rise again, silently."
+  },
+  {
+   "big": "Myth: “My vision is clear, so I'm fine”",
+   "en": "Fact: glaucoma has no early symptoms.",
+   "ta": "தெளிவாக தெரிந்தாலும் பரிசோதனை அவசியம்",
+   "say": "Now, some myths. Myth one: my vision is clear, so I don't have glaucoma. Fact: early glaucoma has no symptoms at all. Clear central vision does not mean the nerve is healthy."
+  },
+  {
+   "big": "Myth: new glasses will fix it",
+   "en": "Fact: glasses can't stop nerve damage.",
+   "ta": "கண்ணாடி கிளாக்கோமாவை சரி செய்யாது",
+   "say": "Myth two: if my vision is blurry, new glasses will fix it. Fact: glasses correct focus, but they cannot stop nerve damage. If vision keeps dropping, get a full eye check by an eye specialist."
+  },
+  {
+   "big": "Myth: only old people get it",
+   "en": "Fact: it is more common after 40, but it can happen at any age.",
+   "ta": "எந்த வயதிலும் வரலாம்",
+   "say": "Myth three: only old people get glaucoma. Fact: it is more common after forty, but it can happen at any age, even in babies and young adults."
+  },
+  {
+   "big": "Protect your sight",
+   "en": "Full eye check every 1–2 years after 40. Tell family if you have it.",
+   "ta": "40 வயதுக்கு மேல் 1–2 வருடத்துக்கு ஒருமுறை முழு பரிசோதனை",
+   "say": "So protect your sight. After forty, get a full eye check every one to two years, or as your eye specialist advises. If you have glaucoma, tell your brothers, sisters and children, so they can get checked too. Stay active, and protect your eyes from injury."
+  },
+  {
+   "image": "tools/assets/ai/2026-11-18-father-son-booking.jpg",
+   "big": "Start with an eye test",
+   "en": "Free at our store. Home eye test in Chennai: ₹100 for the whole family.",
+   "ta": "வீட்டிலேயே கண் பரிசோதனை – முழு குடும்பத்துக்கும் ரூ.100",
+   "say": "Start with an eye test. At LenzKare, the eye test at our store is free, and a home eye test in Chennai is just one hundred rupees for the whole family. If you need a glaucoma check, we will guide you to an eye specialist."
+  },
+  {
+   "big": "General information",
+   "en": "Not a diagnosis. See an eye specialist for your own eyes.",
+   "ta": "இது பொது தகவல் மட்டும் – கண் மருத்துவரை அணுகுங்கள்",
+   "say": "This video is general information, not a diagnosis. For your own eyes, see an eye specialist. Share this with your family, and subscribe for more eye-care tips."
+  }
+ ]
+}

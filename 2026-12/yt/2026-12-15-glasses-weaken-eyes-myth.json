@@ -1,0 +1,54 @@
+{
+ "voice": "hf_beta",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-09-senthil-phone-arm.jpg",
+   "big": "Do glasses weaken your eyes?",
+   "en": "A very common worry. Let's check.",
+   "ta": "கண்ணாடி போட்டால் கண் பலவீனமாகுமா?",
+   "say": "Do glasses make your eyes weaker? It's a very common worry. Let's check the facts."
+  },
+  {
+   "big": "Myth",
+   "en": "Once you wear glasses, your power keeps going up because of them.",
+   "ta": "கட்டுக்கதை: கண்ணாடியால் பவர் கூடும்",
+   "say": "The myth: once you start wearing glasses, your power keeps going up because of them."
+  },
+  {
+   "big": "Fact",
+   "en": "Glasses only bend light to focus it. They don't change your eye.",
+   "ta": "உண்மை: கண்ணாடி கண்ணை மாற்றாது",
+   "say": "The fact: glasses only bend light, so it focuses on the retina. They don't change the shape or strength of your eye."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-09-senthil-menu-far.jpg",
+   "big": "So why does power change?",
+   "en": "Kids' eyes are still growing. After 40, the eye's lens gets stiffer.",
+   "ta": "வயதுடன் கண் தானாகவே மாறும்",
+   "say": "So why does power change? In children, the eyeball is still growing. And after about forty, the lens inside the eye gets stiffer, so reading up close gets harder. This happens with or without glasses."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Skipping glasses won't make eyes stronger. In young kids it can affect how vision develops.",
+   "ta": "குழந்தைகள் கண்ணாடி அணியாவிட்டால் பார்வை வளர்ச்சி பாதிக்கலாம்",
+   "say": "Did you know? Skipping your glasses won't make your eyes stronger. You'll just squint and strain. And in young children, not wearing needed glasses can affect how vision develops."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-12-09-senthil-reading-glasses.jpg",
+   "big": "Do this",
+   "en": "Wear glasses as advised. Kids: check every year. Adults: check regularly.",
+   "ta": "சொன்னபடி கண்ணாடி அணியுங்கள், தவறாமல் பரிசோதியுங்கள்",
+   "say": "So, wear your glasses as advised. Get children's eyes checked every year, and adults regularly."
+  },
+  {
+   "big": "Clear facts, clear vision",
+   "en": "Free eye test in our store.",
+   "ta": "இன்றே கண் பரிசோதனை செய்யுங்கள்",
+   "say": "Clear facts, clear vision. Get a free eye test in our store today."
+  }
+ ]
+}

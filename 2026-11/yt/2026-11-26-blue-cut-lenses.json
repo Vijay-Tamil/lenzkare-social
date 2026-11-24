@@ -1,0 +1,60 @@
+{
+ "voice": "hm_omega",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "image": "tools/assets/ai/2026-11-20-karthik-phone-sofa.jpg",
+   "full": true,
+   "big": "Do blue-cut lenses really work?",
+   "en": "Myth vs fact.",
+   "ta": "ப்ளூ-கட் லென்ஸ் உண்மையில் வேலை செய்யுமா?",
+   "say": "Do blue cut lenses really work? Let's split myth from fact."
+  },
+  {
+   "big": "Myth: Screen light damages eyes",
+   "en": "Fact: There's no proof of that. The sun gives far more blue light.",
+   "ta": "உண்மை: திரையின் நீல ஒளி கண்ணைச் சேதப்படுத்தும் என்பதற்கு ஆதாரம் இல்லை",
+   "say": "Myth. Blue light from screens damages your eyes. Fact. There's no proof of that. The sun gives off far more blue light than any phone."
+  },
+  {
+   "big": "Myth: Blue-cut stops eye strain",
+   "en": "Fact: Breaks and the right power help most.",
+   "ta": "உண்மை: இடைவேளையும் சரியான பவரும் தான் முக்கியம்",
+   "say": "Myth. Blue cut lenses stop eye strain. Fact. Strain comes from staring and blinking less. Regular breaks and the right power help the most."
+  },
+  {
+   "big": "So why choose blue-cut?",
+   "en": "Many screen users find them more comfortable, with less glare.",
+   "ta": "பலருக்குத் திரை பார்க்கும்போது வசதியாக இருக்கும்",
+   "say": "So why choose them? Many screen users simply find them more comfortable, with less glare and reflection."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Screens late at night can disturb sleep. Put the phone away an hour before bed.",
+   "ta": "இரவில் திரை பார்ப்பது தூக்கத்தைக் கெடுக்கலாம்",
+   "say": "Did you know? Studies show screen use late at night can disturb your sleep. Try putting the phone away an hour before bed."
+  },
+  {
+   "image": "tools/assets/ai/2026-11-20-karthik-amma-mirror.jpg",
+   "full": true,
+   "big": "Fusion Blu lenses",
+   "en": "Buy 1 Get 1 FREE on spectacles with LenzKare Fusion lenses.",
+   "ta": "ஃப்யூஷன் லென்ஸுடன் ஒன்று வாங்கினால் ஒன்று இலவசம்",
+   "say": "Try LenzKare Fusion Blu lenses. And get Buy One Get One Free on spectacles with Fusion lenses."
+  },
+  {
+   "image": "tools/assets/ai/2026-11-20-karthik-parcel.jpg",
+   "full": true,
+   "big": "Order online",
+   "en": "Delivered across India. ₹500 joining bonus on your first app order (min ₹1,500).",
+   "ta": "ஆப்பில் முதல் ஆர்டருக்கு ரூ.500 போனஸ்",
+   "say": "Order online, with delivery across India. New on the LenzKare app? Get a five hundred rupee joining bonus on your first order of fifteen hundred rupees or more."
+  },
+  {
+   "big": "Right power first",
+   "en": "Free eye test in store.",
+   "ta": "கடையில் கண் பரிசோதனை இலவசம்",
+   "say": "But first, get the right power. The eye test at our store is free."
+  }
+ ]
+}

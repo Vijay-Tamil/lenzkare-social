@@ -1,0 +1,50 @@
+{
+ "voice": "hf_alpha",
+ "speed": 1.08,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-22-ravi-blurry-paper.jpg",
+   "big": "One eye suddenly went dark?",
+   "en": "This is an emergency.",
+   "ta": "ஒரு கண் திடீரெனத் தெரியவில்லையா? இது அவசரம்!",
+   "say": "Did one eye suddenly go dark or blurry? This is an emergency. Here are three signs you must never ignore."
+  },
+  {
+   "big": "Why it's urgent",
+   "en": "The retina needs constant blood flow. A blocked vessel can damage it within hours.",
+   "ta": "ரெட்டினாவுக்கு ரத்த ஓட்டம் தடைபட்டால் சில மணி நேரத்தில் பாதிப்பு",
+   "say": "Why? The retina at the back of the eye needs a constant blood supply. If a blood vessel gets blocked, damage can start within hours."
+  },
+  {
+   "big": "Sign 1",
+   "en": "Sudden blur or loss of sight in one eye, even without pain.",
+   "ta": "1. வலி இல்லாமல் ஒரு கண்ணில் திடீர் பார்வை இழப்பு",
+   "say": "Sign one. Sudden blur or loss of sight in one eye, even if there is no pain."
+  },
+  {
+   "big": "Sign 2",
+   "en": "A dark curtain or shadow moving across your vision.",
+   "ta": "2. பார்வையில் திரை போல் நிழல்",
+   "say": "Sign two. A dark curtain or shadow moving across your vision."
+  },
+  {
+   "big": "Sign 3",
+   "en": "Sight goes for a few minutes, then comes back. Still urgent!",
+   "ta": "3. சில நிமிடங்களில் சரியானாலும் இது அவசரமே",
+   "say": "Sign three. Your sight goes for a few minutes, then comes back. It is still urgent. It can be a warning sign of a stroke."
+  },
+  {
+   "big": "Did you know?",
+   "en": "With a drooping face, weak arm or slurred speech, it may be a stroke. Call 108.",
+   "ta": "முகம் கோணல், கை பலவீனம் இருந்தால் உடனே 108 அழையுங்கள்",
+   "say": "Did you know? If vision loss comes with a drooping face, a weak arm, or slurred speech, it may be a stroke. Call one zero eight right away."
+  },
+  {
+   "big": "Go to hospital now",
+   "en": "Don't wait to see if it gets better. Regular eye tests help too.",
+   "ta": "காத்திருக்காதீர்கள், உடனே மருத்துவமனைக்குச் செல்லுங்கள்",
+   "say": "Don't wait to see if it gets better. Go to a hospital emergency right away. And for everyday eye care, book a regular eye test."
+  }
+ ]
+}

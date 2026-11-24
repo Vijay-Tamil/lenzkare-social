@@ -1,0 +1,56 @@
+{
+ "voice": "hm_omega",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-18-daughter-amma-glasses.jpg",
+   "big": "Can you read your prescription?",
+   "en": "SPH, CYL, AXIS, ADD explained",
+   "ta": "கண்ணாடி மருந்துச்சீட்டை படிக்க தெரியுமா?",
+   "say": "Can you read your glasses prescription? Here's what sphere, cylinder, axis and add really mean."
+  },
+  {
+   "big": "SPH = Sphere",
+   "en": "Your main power. Minus = short-sighted. Plus = long-sighted.",
+   "ta": "SPH: முக்கிய பவர். மைனஸ் = கிட்டப்பார்வை",
+   "say": "Sphere is your main power. A minus number means short-sighted. A plus number means long-sighted."
+  },
+  {
+   "big": "CYL = Cylinder",
+   "en": "Corrects astigmatism: the eye's front curves like a rugby ball.",
+   "ta": "CYL: ஆஸ்டிக்மாடிசத்தை சரிசெய்யும்",
+   "say": "Cylinder corrects astigmatism. That's when the front of the eye is curved more like a rugby ball than a football."
+  },
+  {
+   "big": "AXIS",
+   "en": "0 to 180: the direction the cylinder power sits",
+   "ta": "AXIS: சிலிண்டர் பவரின் திசை",
+   "say": "Axis is a number from zero to one hundred and eighty. It tells the lab which direction the cylinder power must sit."
+  },
+  {
+   "big": "ADD",
+   "en": "Extra reading power, usually after 40",
+   "ta": "ADD: 40 வயதுக்கு மேல் படிக்க கூடுதல் பவர்",
+   "say": "Add is extra power for reading, usually needed after forty. It's used in bifocal and progressive lenses."
+  },
+  {
+   "big": "Did you know?",
+   "en": "Your power can change. Get checked every 1–2 years.",
+   "ta": "பவர் மாறலாம்: தவறாமல் கண் பரிசோதனை",
+   "say": "Did you know? Your power can change over time. Get your eyes checked every one to two years, or sooner if things look blurry."
+  },
+  {
+   "big": "Our promise",
+   "en": "Free eye test at our store. One free lens remake if the power doesn't suit.",
+   "ta": "கடையில் கண் பரிசோதனை இலவசம்",
+   "say": "At our store, the eye test is free. And if the power doesn't suit you after a LenzKare eye test, we remake the lenses once, free."
+  },
+  {
+   "big": "Buy 1 Get 1 FREE",
+   "en": "on spectacles with LenzKare Fusion lenses",
+   "ta": "ஒன்று வாங்கினால் ஒன்று இலவசம்",
+   "say": "And get Buy one, Get one free, on spectacles with LenzKare Fusion lenses. Book your eye test today."
+  }
+ ]
+}

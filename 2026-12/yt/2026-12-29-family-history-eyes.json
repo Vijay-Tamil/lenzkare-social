@@ -1,0 +1,56 @@
+{
+ "voice": "hm_psi",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-18-father-son-album.jpg",
+   "big": "Your eyes run in the family",
+   "en": "3 things to tell your eye doctor",
+   "ta": "கண் பிரச்சனை குடும்பத்தில் வருமா?",
+   "say": "Some eye problems run in families. Here are three things to tell your eye doctor."
+  },
+  {
+   "big": "3. Glaucoma",
+   "en": "Risk is higher if a parent, brother or sister has it.",
+   "ta": "பெற்றோர், சகோதரருக்கு கிளாக்கோமா இருந்தால் ஆபத்து அதிகம்",
+   "say": "Number three. Glaucoma. Your risk is higher if a parent, brother or sister has it. It damages the optic nerve slowly, often with no early signs."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-18-daughter-amma-glasses.jpg",
+   "big": "2. Short sight",
+   "en": "Children of short-sighted parents are more likely to need glasses.",
+   "ta": "பெற்றோருக்கு கிட்டப்பார்வை இருந்தால் குழந்தைக்கும் வரலாம்",
+   "say": "Number two. Short sight. Children with one or both short-sighted parents are more likely to need glasses. So check them early, and send them out to play in daylight."
+  },
+  {
+   "big": "1. Diabetes & BP",
+   "en": "Family diabetes or high BP? Your retina needs regular checks.",
+   "ta": "சர்க்கரை, ரத்த அழுத்தம் குடும்பத்தில் உள்ளதா?",
+   "say": "Number one. Diabetes and high blood pressure. If they run in your family, the tiny blood vessels in your retina need regular checks."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-22-paati-new-glasses.jpg",
+   "big": "Did you know?",
+   "en": "Genes are not destiny. Early checks catch changes before you notice them.",
+   "ta": "முன்கூட்டியே சோதனை செய்தால் பார்வையை காக்கலாம்",
+   "say": "Did you know? Genes are not destiny. Early checks can catch changes long before you notice them, and protect your sight."
+  },
+  {
+   "big": "Do this",
+   "en": "Ask elders about their eyes. Write it down. Tell your eye doctor.",
+   "ta": "பெரியவர்களிடம் கேளுங்கள், கண் மருத்துவரிடம் சொல்லுங்கள்",
+   "say": "So ask your elders about their eye problems. Note them down. And tell your eye doctor at every test."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-18-father-son-booking.jpg",
+   "big": "Check together",
+   "en": "Book an eye test for the whole family.",
+   "ta": "குடும்பத்துடன் கண் பரிசோதனை செய்யுங்கள்",
+   "say": "Book an eye test for the whole family."
+  }
+ ]
+}

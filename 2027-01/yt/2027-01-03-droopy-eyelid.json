@@ -1,0 +1,60 @@
+{
+ "voice": "hf_alpha",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2027-01-03-ganesan-newspaper.jpg",
+   "big": "Is one eyelid drooping?",
+   "en": "3 signs you shouldn't ignore",
+   "ta": "கண் இமை தொங்குகிறதா?",
+   "say": "Is one eyelid slowly drooping? Here are three signs you should never ignore, in elders and in kids."
+  },
+  {
+   "big": "Why it happens",
+   "en": "A small muscle lifts your eyelid. With age it can stretch and weaken.",
+   "ta": "இமையைத் தூக்கும் தசை வயதால் தளரலாம்",
+   "say": "A small muscle lifts your upper eyelid. With age, this muscle can stretch and weaken. Some children are born with a weak lifting muscle."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2027-01-03-ganesan-aadhi-chin-up.jpg",
+   "big": "Sign 1: Chin up",
+   "en": "Tilting the head back or raising eyebrows to see",
+   "ta": "பார்க்க தலையைப் பின்னால் சாய்க்கிறார்களா?",
+   "say": "Sign one. Tilting the head back, or raising the eyebrows, just to see clearly. Watch for this in children too."
+  },
+  {
+   "big": "Sign 2: Top view blocked",
+   "en": "The lid covers part of the pupil, so the upper view looks cut off",
+   "ta": "இமை கண்மணியை மூடுவதால் மேல் பார்வை மறைகிறது",
+   "say": "Sign two. The eyelid covers part of the pupil, so the top of your view seems blocked."
+  },
+  {
+   "big": "Sign 3: One eye looks smaller",
+   "en": "Often more noticeable by evening or in photos",
+   "ta": "ஒரு கண் மற்றதை விட சிறியதாகத் தெரிகிறது",
+   "say": "Sign three. One eye looks smaller than the other, especially in photos, or by evening."
+  },
+  {
+   "big": "Did you know?",
+   "en": "In kids, a droopy lid can block vision and lead to a lazy eye if not checked early.",
+   "ta": "குழந்தைகளில் இது சோம்பேறிக் கண்ணை உண்டாக்கலாம்",
+   "say": "Did you know? In young children, a droopy eyelid can block vision and lead to a lazy eye, if it is not checked early."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2027-01-03-ganesan-lakshmi-talk.jpg",
+   "big": "Urgent if...",
+   "en": "It droops suddenly, with double vision, severe headache or a weak face",
+   "ta": "திடீரென்று இமை தொங்கினால் உடனே மருத்துவரிடம் செல்லுங்கள்",
+   "say": "Get urgent medical care the same day if an eyelid droops suddenly, especially with double vision, a severe headache, or weakness in the face."
+  },
+  {
+   "big": "Get it checked",
+   "en": "Most droopy eyelids can be treated. Book an eye test.",
+   "ta": "இன்றே கண் பரிசோதனை செய்யுங்கள்",
+   "say": "Most droopy eyelids can be treated. Don't ignore it. Book an eye test today."
+  }
+ ]
+}

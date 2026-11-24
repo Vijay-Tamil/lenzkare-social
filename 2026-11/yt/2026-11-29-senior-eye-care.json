@@ -1,0 +1,56 @@
+{
+ "voice": "hf_beta",
+ "speed": 1.0,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-29-thatha-newspaper-squint.jpg",
+   "big": "Thatha stopped reading the paper",
+   "en": "It wasn't just old age.",
+   "ta": "தாத்தா பேப்பர் படிப்பதை நிறுத்திவிட்டார்",
+   "say": "Lakshmi noticed her grandfather had stopped reading the newspaper. He said it was just old age. It wasn't."
+  },
+  {
+   "big": "Why it happens",
+   "en": "After 60, the eye's lens gets stiffer and cloudier. Eye pressure can rise without pain.",
+   "ta": "60 வயதுக்கு மேல் கண் லென்ஸ் மங்கலாகலாம்",
+   "say": "After sixty, the lens inside the eye becomes stiffer, and slowly cloudier. Pressure inside the eye can also rise, often with no pain at all."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-29-thatha-corridor-light.jpg",
+   "big": "Did you know?",
+   "en": "Poor vision is linked to more falls in older adults.",
+   "ta": "பார்வை குறைந்தால் முதியவர்கள் விழும் அபாயம் அதிகம்",
+   "say": "Did you know? Studies show poor vision is linked to more falls in older adults. Good light on steps and corridors really helps."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-29-thatha-veranda-notes.jpg",
+   "big": "The checklist",
+   "en": "Eye test every year. Sugar and BP in control. Bright light at home.",
+   "ta": "வருடம் ஒருமுறை கண் பரிசோதனை, சர்க்கரை, BP கட்டுப்பாடு",
+   "say": "So Lakshmi made a simple checklist. An eye test every year. Sugar and blood pressure under control. Bright lights at home, especially near steps."
+  },
+  {
+   "big": "Watch for these",
+   "en": "Glare at night, faded colours, bumping into things, holding things very close.",
+   "ta": "இரவில் கண்கூச்சம், நிறம் மங்குதல், பொருட்களில் இடித்தல்",
+   "say": "Watch for glare at night, colours looking faded, bumping into things, or holding things very close to read."
+  },
+  {
+   "big": "Urgent if...",
+   "en": "Sudden vision loss, a painful red eye, or a shadow over vision",
+   "ta": "திடீர் பார்வை இழப்பு, கண் வலி: உடனே கண் மருத்துவரிடம்!",
+   "say": "See an eye specialist the same day for sudden loss of vision, a painful red eye, or a dark shadow over the vision."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-29-thatha-new-glasses.jpg",
+   "big": "Thatha reads again",
+   "en": "Book an eye test for your parents today.",
+   "ta": "பெற்றோருக்கு இன்றே கண் பரிசோதனை செய்யுங்கள்",
+   "say": "Now Thatha reads his paper every morning. Book an eye test for your parents today."
+  }
+ ]
+}

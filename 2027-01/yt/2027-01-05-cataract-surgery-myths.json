@@ -1,0 +1,62 @@
+{
+ "voice": "hf_alpha",
+ "speed": 1.05,
+ "scenes": [
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-19-appa-headlight-glare.jpg",
+   "big": "Wait till cataract 'ripens'?",
+   "en": "Myth vs fact",
+   "ta": "கண்புரை 'பழுக்கும்' வரை காத்திருக்கணுமா?",
+   "say": "Should you wait for a cataract to ripen before surgery? Let's bust three common myths."
+  },
+  {
+   "big": "What is a cataract?",
+   "en": "The clear lens inside your eye slowly turns cloudy, mostly with age",
+   "ta": "கண்ணின் உள்ளே உள்ள லென்ஸ் மெல்ல மங்கலாகிறது",
+   "say": "Inside your eye is a clear lens that focuses light. With age, it slowly turns cloudy, like a foggy window."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-19-appa-wiping-glasses.jpg",
+   "big": "Myth 1: Wait till it ripens",
+   "en": "Fact: Surgery can be done once it troubles daily life",
+   "ta": "உண்மை: அன்றாட வேலை பாதித்தால் அறுவை சிகிச்சை செய்யலாம்",
+   "say": "Myth one. You must wait till it ripens. Fact. There's no need to wait. Surgery can be done once blurry vision troubles daily life. Waiting too long can make it harder."
+  },
+  {
+   "big": "Myth 2: Drops can dissolve it",
+   "en": "Fact: No drops or diet can remove a cataract. Only surgery can.",
+   "ta": "சொட்டு மருந்தால் கண்புரை போகாது",
+   "say": "Myth two. Eye drops can dissolve a cataract. Fact. No drops or diet can remove a cataract. Only surgery can."
+  },
+  {
+   "big": "Myth 3: Weeks of bed rest",
+   "en": "Fact: Most people return to light daily activities within a few days",
+   "ta": "சில நாட்களில் சாதாரண வேலைக்குத் திரும்பலாம்",
+   "say": "Myth three. You need weeks of bed rest. Fact. Most people return to light daily activities within a few days. Just follow your surgeon's advice."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-19-daughter-appa-veranda.jpg",
+   "big": "Did you know?",
+   "en": "WHO says cataract is a leading cause of blindness worldwide, yet it is treatable",
+   "ta": "உலகில் பார்வை இழப்புக்கு முக்கிய காரணம் கண்புரை",
+   "say": "Did you know? The World Health Organization says cataract is a leading cause of blindness worldwide. Yet this vision loss can usually be treated."
+  },
+  {
+   "big": "Urgent if...",
+   "en": "Sudden vision loss, eye pain or redness: see an eye specialist the same day",
+   "ta": "திடீர் பார்வை இழப்பு, வலி: உடனே கண் மருத்துவரிடம்",
+   "say": "See an eye specialist urgently if you have sudden vision loss, eye pain, or redness."
+  },
+  {
+   "full": true,
+   "image": "tools/assets/ai/2026-11-19-daughter-appa-phone.jpg",
+   "big": "Blurry or glare at night?",
+   "en": "Book an eye test and know for sure",
+   "ta": "இன்றே கண் பரிசோதனை செய்யுங்கள்",
+   "say": "Blurry vision, or glare at night? Book an eye test and know for sure."
+  }
+ ]
+}
